@@ -1,6 +1,16 @@
 /* ==========================================================================
    BASE ELEMENTS
    ========================================================================== */
+ @font-face {
+   font-family: 'Norwester';
+   src: url("/assets/fonts/norwester/webfonts/norwester.ttf") format("truetype");
+   font-weight: normal;
+   font-style: normal; }
+ @font-face {
+   font-family: 'BenchNine-Light';
+   src: url("../fonts/benchnine/BenchNine-Light.ttf") format("truetype");
+   font-weight: normal;
+   font-style: normal; }
 
 body {
   margin: 0;
