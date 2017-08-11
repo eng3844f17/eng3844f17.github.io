@@ -211,16 +211,16 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
-  # _publications
+      comments: false
+  # _schedule
   - scope:
       path: ""
-      type: publications
+      type: schedule
     values:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comments: false
   # _portfolio
   - scope:
       path: ""
