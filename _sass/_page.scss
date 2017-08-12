@@ -11,6 +11,24 @@
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 }
+@media only screen
+  and (min-device-width: 300px)
+  and (max-device-width: 460px)  {
+    #main {
+      max-width: 100%;
+    }
+    .grid {
+      border: none;
+    }
+    .grid__row > * {
+      padding: 0px;
+      margin: 0px;
+    }
+}
+@media only screen
+  and (min-device-width: 1350px)  {
+    #main { max-width: 80% }
+}
 
 .page__title {
   margin-top: 0;
