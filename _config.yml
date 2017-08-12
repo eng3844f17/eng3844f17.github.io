@@ -79,8 +79,8 @@ analytics:
 # Site Author
 author:
   name             : "Chris Lindgren"
-  avatar           : "profile.png"
-  bio              : "Bio Bio Bio"
+  avatar           : "bio-photo.jpg"
+  title            : "Assistant Professor of Technical Communication &amp; Data Visualization"
   location         : "Virginia Tech"
   employer         :
   googlescholar    : "http://yourfullgooglescholarurl.com"
