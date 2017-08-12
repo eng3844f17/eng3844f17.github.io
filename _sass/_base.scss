@@ -386,3 +386,16 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+/*
+  Projects
+  =========================================================================== */
+
+ul.project-top-info {
+  list-style-type: none;
+  font-size: small;
+  padding: 0px;
+}
+ul.project-top-info li {
+  margin: 0px;
+}
