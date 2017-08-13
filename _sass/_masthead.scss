@@ -3,11 +3,13 @@
    ========================================================================== */
 
 .masthead {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: flex-end;
+  font-family: "Norwester";
   
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+
   height: 380px;
   position: relative;
   background-color: #660000;
@@ -48,6 +50,25 @@
   height: auto;
   z-index: 1;
   opacity: 0.1;
+}
+
+.course-title {
+  z-index: 21;
+}
+nav {
+  z-index: 21;
+}
+.course-title h1 a {
+  text-decoration: none;
+  font-family: "Norwester";
+  font-size: 2em;
+  color: #fe5c01;
+  text-align: center;
+  cursor: pointer;
+  opacity: 0.8;
+}
+.course-title h1 a:hover {
+  opacity: 1;
 }
 
 .masthead__menu {

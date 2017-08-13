@@ -1,9 +1,13 @@
 {% include base_path %}
 
 <div class="masthead">
+  <div class="course-title">
+    <h1>
+      <a href="/index.html">{{ site.title }}</a>
+    </h1>
+  </div>
   <nav id="site-nav" class="greedy-nav">
     <ul class="visible-links">
-      <li class="masthead__menu-item masthead__menu-item--lg"><a href="/index.html">{{ site.title }}</a></li>
       {% for link in site.data.navigation.main %}
         <li class="masthead__menu-item"><a href="{{ link.url }}">{{ link.title }}</a></li>
       {% endfor %}

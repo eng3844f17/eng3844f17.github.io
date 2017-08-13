@@ -22,5 +22,5 @@ Upon completion of this course, students should be able to:
 - Recognize the typical genres of digital media.
 - Describe what a critical genre awareness includes with respect to digital media.
 - Apply a critical genre awareness of digital media to compose various digital media genres.
-- Recognize and use basic computational authoring syntaxes of HTML & CSS.
+- Recognize and use basic computational authoring syntaxes of <code>.html</code> & <code>.css</code>.
 - Recognize and use copyleft resources to produce digital media.
