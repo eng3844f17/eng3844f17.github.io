@@ -19,11 +19,11 @@ Welcome to **ENGL 3844 &ndash; Writing &amp; Digital Media**! In this course, I 
 
 ## Describing the types of learning objectives
 
-This course is active and production-heavy. We also will challenge our conceptual understanding of writing and digital media. Accordingly, I divide the learning objectives by 2 main categories: conceptual and production.
+This course is active and production-heavy. It will also challenge our conceptual understanding of writing and digital media. Accordingly, I categorize the learning objectives across 2 main categories: conceptual and production.
 
 ### Production-based objectives
 
-Your production-based objectives include designing and developing a website that cohesively integrates text, images, audio, and video befit for a particular genre.
+Your production-based objectives include designing and developing a website that integrates text, images, audio, and video conducive for a particular genre, audience(s), and purpose(s).
 
 <ul class="hokie-shade">
   <li>
