@@ -8,7 +8,12 @@ redirect_from:
   - /overview.html
 ---
 
-<img src="/images/kitten-gif-twitter.png" alt="Screen capture of a composition window on Twitter.com with the Inspect element feature open and an image of a kitten in the composing window." />
+<figure id="twitter-css-body" class="figure-inline">
+  <img src="/images/kitten-gif-twitter.png" alt="Screen capture of a composition window on Twitter.com with the Inspect element feature open and an image of a kitten in the composing window." />
+  <figcaption>
+    Caption: Screen capture of a composition window on Twitter.com with the Inspect element feature open and an image of a kitten in the composing window.
+  </figcaption>
+</figure>
 
 Welcome to **ENGL 3844 &ndash; Writing &amp; Digital Media**! In this course, I introduce fundamental practices and emerging theories of writing <i>with and for</i> digital media. We will learn basic authoring in web-development syntaxes, critical interpretation of online sources, social media management, and topics of computational abstraction for writers.
 
