@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Wr|2i|0t|3i|1n|2g|0 and Di|0g|2i|2t|1a|3l|0 Me|3d|1i|2a|0 (ENGL 3844 - F17)"
+title                    : "Wr|2i|0t|3i|1n|2g|0 and Di|0g|2i|2t|1a|3l|0 Me|3d|1i|2a|0 <br/><small>(engl 3844 - F17)</small>"
 title_separator          : "-"
 name                     : &name "Chris Lindgren"
 description              : &description "Assistant Professor of Technical Communication &amp; Data Visualization"
