@@ -1,8 +1,8 @@
 ---
-title: "Images"
+title: "Images for the Web"
 collection: projects
 permalink: /projects/p2-images/
-weight: "10%"
+weight: "20%"
 startdate: 2017-09-12
 enddate: 2017-09-30
 imgurl: /images/500x300.png

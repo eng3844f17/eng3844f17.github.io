@@ -1,8 +1,8 @@
 ---
-title: "Data Collection"
+title: "Data Collection for Your Data Story"
 collection: projects
 permalink: /projects/p1-data-gathering/
-weight: "10%"
+weight: "15%"
 startdate: 2017-08-30
 enddate: 2017-09-10
 imgurl: /images/500x300.png
