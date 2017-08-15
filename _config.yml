@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Writing and Digital Media (ENG 3844 - F17)"
+title                    : "Wr|2i|0t|3i|1n|2g|0 and Di|0g|2i|2t|1a|3l|0 Me|3d|1i|2a|0 (ENGL 3844 - F17)"
 title_separator          : "-"
 name                     : &name "Chris Lindgren"
-description              : &description "Bio Bio Bio"
+description              : &description "Assistant Professor of Technical Communication &amp; Data Visualization"
 url                      : https://eng3844f17.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eng3844f17/eng3844f17.github.io"
@@ -83,7 +83,7 @@ author:
   title            : "Assistant Professor of Technical Communication &amp; Data Visualization"
   location         : "Virginia Tech"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=nDOUS7AAAAAJ&hl=en&authuser=1&citsig=AMstHGRf9UjJaFwe_uztd-wOSkgQxjGmxg"
   email            :
   uri              :
   bitbucket        :
@@ -169,11 +169,14 @@ kramdown:
 
 # Collections
 collections:
-  projects:
+  materials:
     output: false
     permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
   schedule:
-    output: false
+    output: true
     permalink: /:collection/:path/
   overview:
     output: false
@@ -230,12 +233,12 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _materials
   - scope:
       path: ""
-      type: talks
+      type: materials
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 

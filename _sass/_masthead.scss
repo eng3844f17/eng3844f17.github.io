@@ -4,7 +4,6 @@
 
 .masthead {
   font-family: "Norwester";
-  
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
@@ -60,15 +59,14 @@ nav {
 }
 .course-title h1 a {
   text-decoration: none;
-  font-family: "Norwester";
+  font-family: "Datalegreya-Dot";
   font-size: 2em;
   color: #fe5c01;
   text-align: center;
   cursor: pointer;
-  opacity: 0.8;
 }
 .course-title h1 a:hover {
-  opacity: 1;
+  text-decoration: underline;
 }
 
 .masthead__menu {

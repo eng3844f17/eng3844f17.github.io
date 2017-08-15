@@ -11,6 +11,16 @@
    src: url("../fonts/benchnine/BenchNine-Light.ttf") format("truetype");
    font-weight: normal;
    font-style: normal; }
+ @font-face {
+   font-family: 'Datalegreya-Dot';
+   src: url("../fonts/datalegreya/font-files/Datalegreya-Dot.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal; }
+ @font-face {
+   font-family: 'Lato-Light';
+   src: url("../fonts/Lato2OFL/Lato-Light.ttf") format("truetype");
+   font-weight: normal;
+   font-style: normal; }
 
 body {
   margin: 0;
@@ -23,6 +33,12 @@ body {
     /* when primary navigation is visible, the content in the background won't scroll */
     overflow: hidden;
   }
+}
+
+ol.hokie-shade, ul.hokie-shade {
+  background-color: rgba(254, 92, 1, 0.03);
+  padding: 15px 15px 15px 30px;
+  margin-left: 25px;
 }
 
 /*
