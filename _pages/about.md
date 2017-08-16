@@ -44,3 +44,5 @@ You will explore and subsequently examine the multiple audiences interceding acr
   <li>
     Develop a critical awareness about writing <i>as</i> digital media and <i>shaped by</i> digital media.</li>
 </ul>
+
+Learn more about how you will meet these objectives by reviewing the course <a href="/projects/">projects</a>.
