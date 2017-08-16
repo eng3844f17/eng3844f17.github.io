@@ -11,7 +11,7 @@ redirect_from:
 <figure id="twitter-css-body" class="figure-inline">
   <img src="/images/kitten-gif-twitter.png" alt="Screen capture of a composition window on Twitter.com with the Inspect element feature open and an image of a kitten in the composing window." />
   <figcaption>
-    Caption: Screen capture of a composition window on Twitter.com with the Inspect element feature open and an image of a kitten in the composing window.
+    Caption: Screen capture of a composition window on Twitter.com with the Inspect element feature open. Note the amount of markup and styling and other textual modes linked to the image of the kitten.
   </figcaption>
 </figure>
 
