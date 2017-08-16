@@ -261,6 +261,10 @@ li ol {
   margin-top: 0.5em;
 }
 
+ul.texts-list a {
+  text-decoration: underline;
+}
+
 /*
    Media and embeds
    ========================================================================== */
@@ -401,6 +405,17 @@ ul.project-top-info {
 }
 ul.project-top-info li {
   margin: 0px;
+}
+
+/*
+  Citations
+  =========================================================================== */
+
+.cite > p {
+  margin-left: 0.75in;
+  text-indent: -0.5in;
+  margin-bottom: 2%;
+  line-height: 2em;
 }
 
 /* -----------------------------------------------------------------------------

@@ -52,9 +52,36 @@
       <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
 
     {% elsif post.collection == 'materials' %}
-      <p>
-        
-      </p>
+      <div class="cite">
+        <h2>Texts</h2>
+        <p>List out texts here.</p>
+      </div>
+
+      <div class="cite">
+        <h2>Tools</h2>
+        <ul class="texts-list">
+            <li>
+              Laptop computer (during class; let me know if you do not have access to a laptop computer)</li>
+            <li>
+              <a href="https://inkscape.org/en/" target="_blank">Inkscape</a></li>
+            <li>
+              Video editor</li>
+            <li>
+              Code editor: <a href="https://atom.io/" target="_blank">Atom</a> (Mac/Win), <a href="https://itunes.apple.com/us/app/textwrangler/id404010395?mt=12" target="_blank">TextWrangler</a> (Mac), <a href="https://notepad-plus-plus.org/" target="_blank">Notepad++</a> (Win)</li>
+            <li>
+              <a href="https://github.com/" target="_blank">
+                Github.com account
+              </a></li>
+            <li>
+              Some <a href="https://help.github.com/articles/writing-on-github/" target="_blank">
+                Markdown
+              </a>
+            </li>
+            <li>
+              Will learn to write with the HTML markup language + CSS (no previous knowledge or experience needed)
+            </li>
+          </ul>
+      </div>
 
     {% elsif post.date %}
      <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
