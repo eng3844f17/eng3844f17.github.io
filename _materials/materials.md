@@ -1,5 +1,5 @@
 ---
-collection: materials
+title: ""
 permalink: /materials/
 imgurl: /images/500x300.png
 texts:

@@ -15,7 +15,7 @@ redirect_from:
   </figcaption>
 </figure>
 
-Welcome to **ENGL 3844 &ndash; Writing &amp; Digital Media**! In this course, I introduce fundamental practices and emerging theories of writing <i>with and for</i> digital media. We will learn basic authoring in web-development syntaxes, critical interpretation of online sources, social media management, and topics of computational abstraction for writers.
+Welcome to **ENGL 3844 &ndash; Writing &amp; Digital Media**! In this course, I introduce fundamental practices and emerging theories of writing <i>with and for</i> digital media. We will learn basic authoring in web-development syntaxes, critical interpretation of online sources, social media management, and topics of computational abstraction for writers. However, I will help us all come to a more enriched understanding about how these skills and technologies are linked to communities and their knowledge, biases, and values.
 
 ## Describing the types of learning objectives
 
