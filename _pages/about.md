@@ -19,7 +19,7 @@ Welcome to **ENGL 3844 &ndash; Writing &amp; Digital Media**! In this course, I 
 
 ## Production objectives
 
-Your production-based objectives include designing and developing a website that integrates text, images, audio, and video conducive for a particular genre, audience(s), and purpose(s).
+The following production-based objectives cover designing and developing a website that meaningfully integrates text, images, audio, and video conducive for a particular genre, audience(s), and purpose(s).
 
 <ul class="hokie-shade">
   <li>
@@ -34,7 +34,7 @@ Your production-based objectives include designing and developing a website that
 
 ## Conceptual objectives
 
-You will explore and subsequently examine the multiple audiences interceding across your networked writing lives. The conceptual objectives involve examining how traditional modalities of written communication have been intertwined with digital and computational modes of writing. For example, how might our conception of writing change if we understand URLs as texts? Or the data that networked devices and social media collect on users as texts? Or digital images and their formats as texts with organized values and signs? Essentially, *what can we learn about written communication if we understand digital data &ndash; their formats, structures, and content &ndash; as texts*?
+You will explore and subsequently examine the multiple audiences interceding across your networked writing lives. The conceptual objectives involve examining how traditional modalities of written communication have been intertwined with digital and computational modes of writing. For example, how might our conception of writing change if we understand URLs as texts? Or the data that networked devices and social media collect on users as texts? Or digital images and their formats as texts with organized values and signs? Essentially, *what can we learn about written communication and audiences of texts if we understand digital data &ndash; their formats, structures, and content &ndash; as texts*?
 
 <ul class="hokie-shade">
   <li>
@@ -42,7 +42,5 @@ You will explore and subsequently examine the multiple audiences interceding acr
   <li>
     Learn how digital data are written and used as texts for a variety of audiences.</li>
   <li>
-    Apply a critical genre awareness of digital media to compose various digital media genres.</li>
+    Develop a critical awareness about writing <i>as</i> digital media and <i>shaped by</i> digital media.</li>
 </ul>
-
-Main objective: Learn how distributed sources of data &ndash; data collected by multiple apps, devices, and services &ndash; can be combined, re-purposed, and made meaningful in dynamic ways for a variety of audiences. Audiences include co.-to-users, co.-to-stakeholders, algorithms written by companies for a variety of reasons, algorithms written by people outside of the normal domain of consideration, etc.
