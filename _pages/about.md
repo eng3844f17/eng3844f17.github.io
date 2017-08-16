@@ -15,13 +15,9 @@ redirect_from:
   </figcaption>
 </figure>
 
-Welcome to **ENGL 3844 &ndash; Writing &amp; Digital Media**! In this course, I introduce fundamental practices and emerging theories of writing <i>with and for</i> digital media. We will learn basic authoring in web-development syntaxes, critical interpretation of online sources, social media management, and topics of computational abstraction for writers. Additionally, we will come to a more enriched understanding about how such skills and technologies are always linked to communities and their knowledges, biases, and values.
+Welcome to **ENGL 3844 &ndash; Writing &amp; Digital Media**! In this course, I introduce fundamental practices and emerging theories of writing <i>with and for</i> digital media. We will learn basic authoring in web-development syntaxes, critical interpretation of online sources, social media management, and topics of computational abstraction for writers. This course is production-heavy, but we will come to a more enriched understanding about how such skills and technologies are always linked to communities and their knowledges, biases, and values. Accordingly, I categorize the learning objectives as follows: Production and Conceptual.
 
-## Describing the types of learning objectives
-
-This course is active and production-heavy. It will also challenge our conceptual understanding of writing and digital media. Accordingly, I categorize the learning objectives across 2 main categories: conceptual and production.
-
-### Production-based objectives
+## Production objectives
 
 Your production-based objectives include designing and developing a website that integrates text, images, audio, and video conducive for a particular genre, audience(s), and purpose(s).
 
@@ -36,7 +32,7 @@ Your production-based objectives include designing and developing a website that
     Recognize and use copyleft resources to produce digital media.</li>
 </ul>
 
-### Conceptual objectives
+## Conceptual objectives
 
 You will explore and subsequently examine the multiple audiences interceding across your networked writing lives. The conceptual objectives involve examining how traditional modalities of written communication have been intertwined with digital and computational modes of writing. For example, how might our conception of writing change if we understand URLs as texts? Or the data that networked devices and social media collect on users as texts? Or digital images and their formats as texts with organized values and signs? Essentially, *what can we learn about written communication if we understand digital data &ndash; their formats, structures, and content &ndash; as texts*?
 
