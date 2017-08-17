@@ -18,9 +18,11 @@ imgalt: "Tree diagram of an SVG object's markup body (excerpt from Cukier, 2012)
 
 ## Description
 
-After collecting and working with your data, you should have some categories that have also been dimensionalized in meangingful ways. With these data, we will learn about some basic visualization conventions. From there, you will make decisions about how you want to visualize your categories and their relationships.
+After collecting and working with your data, you should have some categories that have also been dimensionalized in meaningful ways. With these data, we will learn about some basic visualization conventions. From there, you will make decisions about how you want to visualize your categories and their relationships.
 
-We will be using Scalable Vector Graphics (SVG) to create our visualizations destined for your data story website. These markup graphical objects have long since been around, but have made recent strides in functionality within HTML5 documents. They are commonly used within web documents across design and content domains. Accordingly, we will use the Inkscape application to create our draft visualization as a SVG file.
+We will be using Scalable Vector Graphics (SVG) to create our visualizations destined for your data-story website. These markup, graphical objects have long since been around, but have made recent strides in functionality within HTML5 documents. Consequently, SVG visuals have become integral digital media for web documents across design and content domains.
+
+As a basic introduction, we will use the Inkscape application to create our draft visualization as a SVG file. We will learn about its basic document structure (see image below), and prep it for our future data-story website.
 
 <figure id="twitter-css-body" class="figure-inline">
   <img src="/images/svg-markup.png" alt="Tree diagram of the markup body of an SVG object." />
@@ -31,11 +33,18 @@ We will be using Scalable Vector Graphics (SVG) to create our visualizations des
 
 ## General process
 
+1. Learn about the basic data visualization conventions.
+2. Based on your data, you must choose what conventions help you tell your data-story meaningfully.
+3. Sketch your data visualization by hand.
+4. Create your drawing as an SVG.
+5. Clean your SVG for the web, making it semantically rich.
+
 
 ## Rubric
 
-- Made logical decisions that connect your data categorical relationships and your visualization design
+- Overall design expresses your categorical relationships
 - Incorporates meaningful use of space and shapes to define and express your data story
 - Aesthetic defensibly appropriate for the topic
 - Legend articulates relationships clearly
 - Incorporates contextual details that amplify your main narrative
+- Semantically rich SVG markup
