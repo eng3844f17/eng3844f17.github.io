@@ -18,13 +18,23 @@ imgurl2: /images/posavec-dataset-meaningmaking.png
 
 ## Description
 
-In this first project, you will collect the data necessary to complete all of the subsequent media projects in this course. To guide this process, we will all share the following broader research question: **What [writing practices](/assets/docs/writing-practices.pdf) do we participate in explicitly and invisibly**? From there, each of you must choose and refine a particular topic as a mode to explore one of your own networked writing practices.
+In this first project, you will collect the data necessary to complete all of the subsequent media projects in this course. To guide this process, we will all share the following broader research question: **What [writing practices](/assets/docs/writing-practices.pdf) do we participate in explicitly and invisibly**? From there, each of you must choose and refine a particular topic as a mode to explore one of your own networked writing practices. (More on this forthcoming.)
+
+## General process
 
 <figure id="twitter-css-body" class="figure-inline">
-  <img src="/images/posavec-data-gathering.png" alt="Screen capture of Posavec's presentation slide about gathering data weekly for the Dear Data project." />
+  <img src="/images/deardata-data-process.jpg" alt="Excerpt from Lupi &amp; Posavec (2016, pp. 286&ndash;287) about how to conduct the basic steps to collect data." />
   <figcaption>
-    Caption: Screen capture of Posavec's presentation slide about gathering data weekly for the Dear Data project..
+    Caption: Excerpt from Lupi &amp; Posavec (2016, pp. 286&ndash;287) about how to conduct the basic steps to collect data.
   </figcaption>
 </figure>
 
-<img src="/images/posavec-dataset-meaningmaking.png" />
+## Rubric
+
+
+<figure id="twitter-css-body" class="figure-inline">
+  <img src="/images/posavec-dataset-meaningmaking.png" alt="Screen capture of Posavec's presentation slide, conveying a point about making-meaning through small and personal data-sets." />
+  <figcaption>
+    Caption: Screen capture of Posavec's <a href="https://youtu.be/dwj22Fm3n5g?t=2407" target="_blank">presentation slide</a>, conveying a point about making-meaning through small and personal data-sets.
+  </figcaption>
+</figure>
