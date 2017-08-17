@@ -46,8 +46,15 @@ Your sketch will serve as the inventive seed by which your narrative grows as yo
 
 ## Rubric
 
-Your data collection will be assessed as follows:
+The following rubric has been modified from <a href="https://youtu.be/dwj22Fm3n5g?t=799" target="_blank">Posavec's explanation</a> about her own rules by which she assesses her data-work:
 
 <ul>
   <li>
-    Data integrity</li>
+    Data integrity: Includes logging truthful changes, modifications, and/or omissions with data collection</li>
+  <li>
+    Identify patterns</li>
+  <li>
+    Contextualize data with details, .i.e., write excellent memos</li>
+  <li>
+    Decide what data resonates as emerging narrative</li>
+</ul>
