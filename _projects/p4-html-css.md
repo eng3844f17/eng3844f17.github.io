@@ -6,9 +6,14 @@ weight: "35%"
 startdate: 2017-09-12
 enddate: 2017-09-30
 imgurl: /images/500x300.png
-venue: "Virginia Tech, Department of English"
-type: "Undergraduate course"
 ---
+
+<ul class="project-top-info">
+  <li>
+    <b>Timeframe</b>: xx/xx &ndash; xx/xx
+  <li>
+    <b>Weight</b>: 35%
+</ul>
 
 # Heading 1
 

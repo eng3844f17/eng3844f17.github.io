@@ -1,7 +1,7 @@
 ---
-title: "Video for the Web"
+title: "Visuals for the Web"
 collection: projects
-permalink: /projects/p3-video/
+permalink: /projects/p2-visuals/
 weight: "20%"
 startdate: 2017-09-12
 enddate: 2017-09-30
@@ -17,4 +17,4 @@ imgurl: /images/500x300.png
 
 ## Description
 
-Desc here.
+desc here.
