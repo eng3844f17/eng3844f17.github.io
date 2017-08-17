@@ -29,6 +29,19 @@ In this first project, you will collect the data necessary to complete all of th
   </figcaption>
 </figure>
 
+The main goal of this course starts here: collecting a 5 days of data. Like any good project, this one begins with a simple yet interesting question. From there, you must do the following:
+
+<ol>
+  <li>Based on your questions, decide what your data points are and how to keep track of them. (This will involve creativity and dedication!)</li>
+  <li>Gather the data</li>
+  <li>Analyze the data by organizing, categorizing it, re-organizing it, etc.</li>
+  <li>Find the story</li>
+  <li>Decide on how to represent it visually</li>
+  <li>Sketch out your visualization</li>
+</ol>
+
+Your sketch will serve as the inventive seed by which your narrative grows as you work through the next 3 projects: 1) An SVG representation of your visualization, 2) Videos that draw out the contextual details and refined points of the narrative for your website, and 3) the website that will tell the entire arch of your data story.
+
 ## Rubric
 
 
