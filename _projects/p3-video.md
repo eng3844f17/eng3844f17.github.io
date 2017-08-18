@@ -1,5 +1,5 @@
 ---
-title: "Video for the Web"
+title: "Video for Your Web-Bound Data-Story"
 collection: projects
 permalink: /projects/p3-video/
 weight: "20%"

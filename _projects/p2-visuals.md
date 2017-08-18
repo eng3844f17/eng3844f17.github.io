@@ -1,5 +1,5 @@
 ---
-title: "Visuals for the Web"
+title: "Visuals for the Web-Bound Data-Story"
 collection: projects
 permalink: /projects/p2-visuals/
 weight: "20%"

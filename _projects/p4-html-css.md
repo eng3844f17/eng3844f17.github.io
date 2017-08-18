@@ -1,5 +1,5 @@
 ---
-title: "HTML / CSS: Developing Your Data Story"
+title: "HTML / CSS: Developing Your Data-Story"
 collection: projects
 permalink: /projects/p4-html-css/
 weight: "35%"
