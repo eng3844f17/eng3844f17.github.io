@@ -11,7 +11,7 @@ redirect_from:
 <figure id="twitter-css-body" class="figure-inline">
   <img src="/images/tech-bias-vid-twitter.png" alt="Screen capture of a video posted on Twitter.com with the Inspect element feature open. Note the amount of textual modes linked to the video." />
   <figcaption>
-    Caption: Screen capture of a composition window on Twitter.com with the Inspect element feature open. Note the amount of data / textual modes linked to the video.
+    Caption: Screen capture of a composition window on Twitter.com with the Inspect element feature open. Note the amount of data / textual modes linked to the video. Link to the pictured <a href="https://twitter.com/nke_ise/status/897756900753891328" target="_blank">tweet</a>.
   </figcaption>
 </figure>
 
