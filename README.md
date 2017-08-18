@@ -1,13 +1,6 @@
-# Think TANK
+# ENGL 3844 - F17 Course Website
 
-A place for broader concerns specific to this course
-
-CLE: cle.prov.vt.edu
-Pathways: pathways.prov.vt.edu
-
-## Computation, Cognition, &amp; Creativity
-
-A pathway for Gen. Ed. minor.
+This repository produces my syllabus for the Writing and Digital Media course (ENGL 3844 - F17).
 
 ## Technical Information
 
