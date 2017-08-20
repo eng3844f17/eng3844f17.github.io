@@ -236,3 +236,28 @@
     }
   }
 }
+
+/* Lists for Project Processes */
+#process-list h3 {
+  margin:0; padding:0;
+}
+
+#process-list p {
+  margin-bottom: 25px;
+}
+
+#process-list > li{
+  width: 80%;
+}
+
+#process-list > li > .image{
+  display:inline-block;
+}
+
+/*
+this instructions are to force the dimensions of image and its container <a>
+*/
+#process-list > li > .image,
+#process-list > li > .image > img{
+  width:220px; height:125px;
+}

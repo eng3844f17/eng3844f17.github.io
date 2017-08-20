@@ -33,14 +33,45 @@ The main point of this data collection is not statistical insight nor applying q
 
 Like any good project, this one begins with a simple yet interesting question. From there, you must do the following:
 
-<ol>
+<ol id="process-list">
+  <li>
+    <img class="image" src="/images/3844-datastory-topos.png" alt="Data-gathering image" />
+    <div class="content">
+      <h3>Consider &amp; combine topos</h3>
+      <p>Based on your questions, decide what your data points are and how to keep track of them. (This will involve creativity and dedication!)</p>
+    </div>
+  </li>
+  <li>
+    <img class="image" src="/images/posavec-data-gathering-150w.png" alt="Facebook Icon" />
+    <div class="content">
+      <h3>Distill as research question(s)</h3>
+      <p>Gather the data with a well-planned and creative set of techniques.</p>
+    </div>
+  </li>
+  <li>
+    <img class="image" src="/images/posavec-data-gathering-150w.png" alt="Facebook Icon" />
+    <div class="content">
+      <h3>Plan data-collection strategies</h3>
+      <p>Learn how to create well-planned and creative set of techniques.</p>
+    </div>
+  </li>
+  <li>
+    <img class="image" src="/images/posavec-data-gathering-150w.png" alt="Facebook Icon" />
+    <div class="content">
+      <h3>Collect your data</h3>
+      <p>Gather the data with your well-planned set of techniques. Make way for creative hacks along the way!</p>
+    </div>
+  </li>
+</ol>
+
+<!-- <ol>
   <li>Based on your questions, decide what your data points are and how to keep track of them. (This will involve creativity and dedication!)</li>
   <li>Gather the data</li>
   <li>Analyze the data by organizing, categorizing it, re-organizing it, etc.</li>
   <li>Find the story</li>
   <li>Decide on how to represent it visually</li>
   <li>Sketch out your visualization</li>
-</ol>
+</ol> -->
 
 Your sketch will serve as the inventive seed by which your narrative grows as you work through the next 3 projects: 1) An SVG representation of your visualization, 2) Videos that draw out the contextual details and refined points of the narrative for your website, and 3) the website that will tell the entire arch of your data story.
 
