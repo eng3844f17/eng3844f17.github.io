@@ -24,39 +24,40 @@ The main point of this data collection is not statistical insight nor applying q
 
 ## General process
 
-<figure id="twitter-css-body" class="figure-inline">
-  <img src="/images/deardata-data-process.jpg" alt="Excerpt from Lupi &amp; Posavec (2016, pp. 286&ndash;287) about how to conduct the basic steps to collect data." />
+<figure id="twitter-css-body" class="figure-inline proj-img">
+  <img src="/images/deardata-data-process-1.png" alt="Excerpt from Lupi &amp; Posavec (2016, pp. 286&ndash;287) about how to conduct the basic steps to collect data." />
   <figcaption>
     Caption: Excerpt from Lupi &amp; Posavec (2016, pp. 286&ndash;287) about how to conduct the basic steps to collect data.
   </figcaption>
 </figure>
 
-Like any good project, this one begins with a simple yet interesting question. From there, you must do the following:
+Like any good project, this one begins with a simple, personal felt dissonance&mdash;a provocation that cannot be ignored. From there, you will do the following to complete your data collection:
 
 <ol id="process-list">
   <li>
     <img class="image" src="/images/3844-datastory-topos.png" alt="Data-gathering image" />
     <div class="content">
       <h3>Consider &amp; combine topos</h3>
-      <p>Based on your questions, decide what your data points are and how to keep track of them. (This will involve creativity and dedication!)</p>
+      <p>
+        Define the basic parameters of your study through an invention process.</p>
     </div>
   </li>
   <li>
-    <img class="image" src="/images/posavec-data-gathering-150w.png" alt="Facebook Icon" />
+    <img class="image" src="/images/deardata-data-process-question.jpg" alt="How to distill a good set of questions." />
     <div class="content">
-      <h3>Distill as research question(s)</h3>
-      <p>Gather the data with a well-planned and creative set of techniques.</p>
+      <h3>Distill your data-story topic as research question(s)</h3>
+      <p>Refine the topical parameters of your study with a sharp set of questions.</p>
     </div>
   </li>
   <li>
-    <img class="image" src="/images/posavec-data-gathering-150w.png" alt="Facebook Icon" />
+    <img class="image" src="/images/deardata-data-process-collectionplan.png" alt="Plan for data collection." />
     <div class="content">
       <h3>Plan data-collection strategies</h3>
       <p>Learn how to create well-planned and creative set of techniques.</p>
     </div>
   </li>
   <li>
-    <img class="image" src="/images/posavec-data-gathering-150w.png" alt="Facebook Icon" />
+    <img class="image" src="/images/posavec-data-gathering.png" alt="Collect the data." />
     <div class="content">
       <h3>Collect your data</h3>
       <p>Gather the data with your well-planned set of techniques. Make way for creative hacks along the way!</p>

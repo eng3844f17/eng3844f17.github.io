@@ -267,7 +267,7 @@
   width:270px; height:150px;
 }
 
-@media all and (min-width: 0px) and (max-width: 345px) {
+@media screen and (max-width: 345px) {
   #process-list {
     margin: 0;
   }
