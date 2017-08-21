@@ -33,12 +33,52 @@ As a basic introduction, we will use the Inkscape application to create our draf
 
 ## General process
 
-1. Learn about the basic data visualization conventions.
-2. Based on your data, you must choose what conventions help you tell your data-story meaningfully.
-3. Sketch your data visualization by hand.
-4. Create your drawing as an SVG.
-5. Clean your SVG for the web, making it semantically rich.
+<ol id="process-list">
+  <li>
+    <img class="image" src="/images/500x300.png" alt="Data-gathering image" />
+    <div class="content">
+      <h3>Learn about the basic data visualization conventions.</h3>
+      <p>
+        .</p>
+    </div>
+  </li>
 
+  <li>
+    <img class="image" src="/images/500x300.png" alt="Data-gathering image" />
+    <div class="content">
+      <h3>Explore your data and choose what conventions help you tell your data-story meaningfully.</h3>
+      <p>
+        .</p>
+    </div>
+  </li>
+
+  <li>
+    <img class="image" src="/images/500x300.png" alt="Data-gathering image" />
+    <div class="content">
+      <h3>Sketch your data visualization.</h3>
+      <p>
+        .</p>
+    </div>
+  </li>
+
+  <li>
+    <img class="image" src="/images/500x300.png" alt="Data-gathering image" />
+    <div class="content">
+      <h3>Learn basic Inkscape skills and create your drawing as an SVG.</h3>
+      <p>
+        .</p>
+    </div>
+  </li>
+
+  <li>
+    <img class="image" src="/images/500x300.png" alt="Data-gathering image" />
+    <div class="content">
+      <h3>Clean your SVG for the web, making it semantically rich.</h3>
+      <p>
+        .</p>
+    </div>
+  </li>
+</ol>
 
 ## Rubric
 
