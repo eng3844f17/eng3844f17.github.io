@@ -84,9 +84,9 @@ The following rubric has been modified from <a href="https://youtu.be/dwj22Fm3n5
   <li>
     Data integrity: Includes logging truthful changes, modifications, and/or omissions with data collection</li>
   <li>
-    Identify patterns</li>
+    Consistently log your data in a Google Sheets spreadsheet every evening.</li>
   <li>
-    Contextualize data with details, .i.e., write excellent memos</li>
+    Contextualize data in spreadsheet with details / notes</li>
   <li>
-    Decide what data resonates as emerging narrative</li>
+    Follows basic clean data guidlines: Rows == Observation &amp; Columns == Data-type of observation.</li>
 </ul>
