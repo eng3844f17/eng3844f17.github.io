@@ -39,7 +39,7 @@ Like any good project, this one begins with a simple, personal felt dissonance&m
     <div class="content">
       <h3>Consider &amp; combine topos</h3>
       <p>
-        Define the basic parameters of your study through an invention process.</p>
+        Define the basic parameters of your study through an invention process that plays with topics of import.</p>
     </div>
   </li>
   <li>
