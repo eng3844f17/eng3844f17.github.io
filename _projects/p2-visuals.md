@@ -11,7 +11,7 @@ imgalt: "Tree diagram of an SVG object's markup body (excerpt from Cukier, 2012)
 
 <ul class="project-top-info">
   <li>
-    <b>Timeframe</b>: xx/xx &ndash; xx/xx</li>
+    <b>Timeframe</b>: 09/18 &ndash; 10/06</li>
   <li>
     <b>Weight</b>: 20%</li>
 </ul>
@@ -24,7 +24,7 @@ We will be using Scalable Vector Graphics (SVG) to create our visualizations des
 
 As a basic introduction, we will use the Inkscape application to create our draft visualization as a SVG file. We will learn about its basic document structure (see image below), and prep it for our future data-story website.
 
-<figure id="twitter-css-body" class="figure-inline">
+<figure id="twitter-css-body" class="figure-inline proj-img">
   <img src="/images/svg-markup.png" alt="Tree diagram of the markup body of an SVG object." />
   <figcaption>
     Caption: Tree diagram of an SVG object's markup body (excerpt from [Cukier, 2012](http://www.jeromecukier.net/wp-content/uploads/2012/10/d3-cheat-sheet.pdf)).
