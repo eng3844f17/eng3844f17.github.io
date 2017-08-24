@@ -476,40 +476,52 @@ figcaption {
 }
 
 /* Lists for Project Processes */
-#process-list {
+.visual-list {
   margin-left: 25px;
 }
 
-#process-list h3 {
+.visual-list h3 {
   margin: 15px 0 0 0;
   padding:0;
   font-size: 0.75em;
 }
 
-#process-list p {
+.visual-list p {
   margin-bottom: 25px;
   font-size: 0.45em;
 }
 
-#process-list > li{
+ul.visual-list {
+  list-style: none;
+  margin-left: -15px;
+}
+ul.visual-list li:before {
+  content: '✓';
+  font-size: 2em;
+}
+ul.visual-list li span {
+  margin-left: 20px;
+  font-size: 1.25em;
+}
+
+.visual-list > li{
   width: 80%;
   font-size: 1.95em;
 }
-
-#process-list > li > .image {
+.visual-list > li > .image {
   display:inline-block;
 }
 
-#process-list > li > .image,
-#process-list > li > .image > img {
+.visual-list > li > .image,
+.visual-list > li > .image > img {
   width:270px; height:150px;
 }
 
 @media screen and (max-device-width: 345px) {
-  #process-list {
+  .visual-list {
     margin: 0;
   }
-  #process-list > li{
+  .visual-list > li{
     width: 100%;
   }
 }

@@ -45,4 +45,17 @@ You will explore and subsequently examine the multiple audiences interceding acr
     Develop a critical awareness about writing <i>as</i> digital media and <i>shaped by</i> digital media.</li>
 </ul>
 
-Learn more about how you will meet these objectives by reviewing the course <a href="/projects/">projects</a>.
+## VT Principles of Community
+
+<ul class="visual-list">
+  <li>
+    <span>Diginity &amp; Value</span></li>
+  <li>
+    <span>Civility &amp; Sensibility</span></li>
+  <li>
+    <span>Diviersity &amp; Difference</span></li>
+  <li>
+    <span>Prejudice &amp; Discrimination</span></li>
+  <li>
+    <span><i>Ut Prosim</i> (That I May Serve)</span></li>
+</ul>

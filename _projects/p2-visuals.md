@@ -1,5 +1,5 @@
 ---
-title: "Visuals for Your Web-Bound Data-Story"
+title: "Data Visualization for Your Web-Bound Data-Story"
 collection: projects
 permalink: /projects/p2-visuals/
 weight: "20%"
@@ -18,9 +18,9 @@ imgalt: "Tree diagram of an SVG object's markup body (excerpt from Cukier, 2012)
 
 ## Description
 
-After collecting and working with your data, you should have some categories that have also been dimensionalized in meaningful ways. With these data, we will learn about some basic visualization conventions. From there, you will make decisions about how you want to visualize your categories and their relationships.
+After collecting your data, we will analyze your data, developing categories and codes for you to visualize. We will analyze and explore your data in tandem with learning some basic visualization conventions. From there, you will make decisions about how you want to visualize your categories and their relationships.
 
-We will be using Scalable Vector Graphics (SVG) to create our visualizations destined for your data-story website. These markup, graphical objects have long since been around, but have made recent strides in functionality within HTML5 documents. Consequently, SVG visuals have become integral digital media for web documents across design and content domains.
+We will be using Scalable Vector Graphics (SVG) to create our visualizations destined for your data-story website. These markup, graphical objects have long since been around, but have made recent strides in functionality over the past decade in lieu of HTML5 documents. Consequently, SVG visuals have become integral digital media for web documents across design and content domains.
 
 As a basic introduction, we will use the Inkscape application to create our draft visualization as a SVG file. We will learn about its basic document structure (see image below), and prep it for our future data-story website.
 
@@ -33,7 +33,7 @@ As a basic introduction, we will use the Inkscape application to create our draf
 
 ## General process
 
-<ol id="process-list">
+<ol class="visual-list">
   <li>
     <img class="image" src="/images/500x300.png" alt="Data-gathering image" />
     <div class="content">
@@ -46,7 +46,16 @@ As a basic introduction, we will use the Inkscape application to create our draf
   <li>
     <img class="image" src="/images/500x300.png" alt="Data-gathering image" />
     <div class="content">
-      <h3>Explore your data and choose what conventions help you tell your data-story meaningfully.</h3>
+      <h3>Explore and analyze your data.</h3>
+      <p>
+        .</p>
+    </div>
+  </li>
+
+  <li>
+    <img class="image" src="/images/500x300.png" alt="Data-gathering image" />
+    <div class="content">
+      <h3>Learn and choose what conventions help you tell your data-story meaningfully.</h3>
       <p>
         .</p>
     </div>
@@ -84,7 +93,7 @@ As a basic introduction, we will use the Inkscape application to create our draf
 
 - Overall design expresses your categorical relationships
 - Incorporates meaningful use of space and shapes to define and express your data story
-- Aesthetic defensibly appropriate for the topic
+- Aesthetic defensibly appropriate for the topic and considers basic issues of accessibility
 - Legend articulates relationships clearly
 - Incorporates contextual details that amplify your main narrative
-- Semantically rich SVG markup
+- Semantically-rich SVG markup
