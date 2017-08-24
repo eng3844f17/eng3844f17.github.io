@@ -2,9 +2,9 @@
 title: "Data Collection for Your Data Story"
 collection: projects
 permalink: /projects/p1-data-gathering/
-weight: "15%"
+weight: "10%"
 startdate: 2017-08-30
-enddate: 2017-09-10
+enddate: 2017-09-25
 imgurl: /images/posavec-data-gathering.png
 imgurl2: /images/posavec-dataset-meaningmaking.png
 ---

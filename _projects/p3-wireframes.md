@@ -11,7 +11,7 @@ imgalt: "Example wireframes (src: E M M E A L C U B O, Flickr.com, 2010)"
 
 <ul class="project-top-info">
   <li>
-    <b>Timeframe</b>: 09/18 &ndash; 10/06</li>
+    <b>Timeframe</b>: 10/16 &ndash; 10/23</li>
   <li>
     <b>Weight</b>: 5%</li>
 </ul>
@@ -66,3 +66,4 @@ As a basic introduction, we will use the Inkscape application to create our draf
 
 - Wireframe makes meaningful moves for each of your site's narrative elements: visualization(s), video(s), textual content, etc.
 - Conveys what content should be positioned differently for mobile screens versus larger screens.
+- Annotates rationale for particular locations for content elements.
