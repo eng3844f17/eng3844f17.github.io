@@ -18,11 +18,7 @@ imgalt: "Example wireframes (src: E M M E A L C U B O, Flickr.com, 2010)"
 
 ## Description
 
-After collecting your data, we will analyze your data, developing categories and codes for you to visualize. We will analyze and explore your data in tandem with learning some basic visualization conventions. From there, you will make decisions about how you want to visualize your categories and their relationships.
-
-We will be using Scalable Vector Graphics (SVG) to create our visualizations destined for your data-story website. These markup, graphical objects have long since been around, but have made recent strides in functionality over the past decade in lieu of HTML5 documents. Consequently, SVG visuals have become integral digital media for web documents across design and content domains.
-
-As a basic introduction, we will use the Inkscape application to create our draft visualization as a SVG file. We will learn about its basic document structure (see image below), and prep it for our future data-story website.
+In this sub-project, you will receive a light introduction into wireframing. By now, you should have a clearer sense about what data your are highlighting to tell your data-story. Accordingly, you will also now plan how to let your viualization guide your other choices to include video and textual content. TO do so, you will learn how to draw a wireframe to express a single-page layout conducive to your narrative.
 
 <figure id="twitter-css-body" class="figure-inline proj-img">
   <img src="/images/wireframing-main.jpg" alt="Example wireframe." />
