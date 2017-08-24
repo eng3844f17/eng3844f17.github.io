@@ -5,7 +5,7 @@ permalink: /projects/p4-video/
 weight: "20%"
 startdate: 2017-10-23
 enddate: 2017-11-13
-imgurl: /images/500x300.png
+imgurl: /images/html5-video-main.png
 ---
 
 <ul class="project-top-info">
@@ -24,9 +24,9 @@ We will be using video editing software specific to your particular operating sy
 As a basic introduction, we will use the Inkscape application to create our draft visualization as a SVG file. We will learn about its basic document structure (see image below), and prep it for our future data-story website.
 
 <figure id="twitter-css-body" class="figure-inline">
-  <img src="/images/500x300.png" alt="Tree diagram of the markup body of an SVG object." />
+  <img src="/images/html5-video-main.png" alt="Example of HTML5 video element in use." />
   <figcaption>
-    Caption: Tree diagram of an SVG object's markup body (excerpt from [Cukier, 2012](http://www.jeromecukier.net/wp-content/uploads/2012/10/d3-cheat-sheet.pdf)).
+    Caption: Example of HTML5 video element in use.
   </figcaption>
 </figure>
 

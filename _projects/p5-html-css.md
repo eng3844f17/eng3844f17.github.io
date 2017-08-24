@@ -1,16 +1,16 @@
 ---
 title: "HTML / CSS: Developing Your Data-Story"
 collection: projects
-permalink: /projects/p4-html-css/
+permalink: /projects/p5-html-css/
 weight: "35%"
-startdate: 2017-09-12
-enddate: 2017-09-30
-imgurl: /images/500x300.png
+startdate: 2017-11-13
+enddate: 2017-12-20
+imgurl: /images/wireframe-main.png
 ---
 
 <ul class="project-top-info">
   <li>
-    <b>Timeframe</b>: xx/xx &ndash; xx/xx</li>
+    <b>Timeframe</b>: 11/13 &ndash; 12/20</li>
   <li>
     <b>Weight</b>: 35%</li>
 </ul>
@@ -20,9 +20,9 @@ imgurl: /images/500x300.png
 Desc. here.
 
 <figure id="twitter-css-body" class="figure-inline">
-  <img src="/images/500x300.png" alt="Here." />
+  <img src="/images/wireframe-main.png" alt="Wireframe example of a single-page website." />
   <figcaption>
-    Caption: here.
+    Caption: Wireframe example of a single-page website.
   </figcaption>
 </figure>
 
