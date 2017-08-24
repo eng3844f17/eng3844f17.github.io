@@ -1,7 +1,7 @@
 ---
 title: "Video for Your Web-Bound Data-Story"
 collection: projects
-permalink: /projects/p3-video/
+permalink: /projects/p4-video/
 weight: "20%"
 startdate: 2017-09-12
 enddate: 2017-09-30
@@ -17,7 +17,7 @@ imgurl: /images/500x300.png
 
 ## Description
 
-After visualizing your data, you now have been able to solidify a main narrative thread for your website. Now, you will consider how to utilize video media for the site. Will you use video to introduce your data story, emphasize a particular point, or perhaps provide interesting insights into the data that your collected? You must decide how your video will best serve your narrative.
+Now, you will consider how to utilize video media for the site. Will you use video to introduce your data story, emphasize a particular point, or perhaps provide interesting insights into the data that your collected? You must decide how your video will best serve your narrative.
 
 We will be using video editing software specific to your particular operating system.
 
