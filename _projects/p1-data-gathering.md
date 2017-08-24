@@ -53,7 +53,7 @@ Like any good project, this one begins with a simple, personal felt dissonance&m
     <img class="image" src="/images/deardata-data-process-collectionplan.png" alt="Plan for data collection." />
     <div class="content">
       <h3>Plan data-collection strategies</h3>
-      <p>Learn how to create well-planned and creative set of techniques.</p>
+      <p>Learn how to create a balance of well-planned and creative set of techniques.</p>
     </div>
   </li>
   <li>
@@ -84,9 +84,9 @@ The following rubric has been modified from <a href="https://youtu.be/dwj22Fm3n5
   <li>
     Data integrity: Includes logging truthful changes, modifications, and/or omissions with data collection</li>
   <li>
-    Consistently log your data in a Google Sheets spreadsheet every evening.</li>
+    Consistently log your data in a Google Sheets spreadsheet every evening</li>
   <li>
     Contextualize data in spreadsheet with details / notes</li>
   <li>
-    Follows basic clean data guidlines: Rows == Observation &amp; Columns == Data-type of observation.</li>
+    Follows basic clean data guidlines: Rows == Observation &amp; Columns == Data-type of observation and/or Major Categories</li>
 </ul>
