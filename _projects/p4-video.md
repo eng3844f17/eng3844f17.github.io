@@ -44,9 +44,8 @@ You will use video editing software specific to your particular operating system
 
 ## Rubric
 
-- Overall design expresses your categorical relationships
-- Incorporates meaningful use of space and shapes to define and express your data story
-- Aesthetic defensibly appropriate for the topic
-- Legend articulates relationships clearly
-- Incorporates contextual details that amplify your main narrative
-- Semantically rich SVG markup
+Your video(s):
+
+- Align and amplify the narrative thread of your data-story.
+- Meaningful decisions about what rhetorical purposes your videos fulfill for your future single-page site.
+- Video(s) include(s) appropriate application of basic composition strategies: Rule of Thirds, meaningful cuts/transitions (on motion, similar elements, or narrative connection), and source material pertinent to narrative.
