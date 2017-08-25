@@ -18,9 +18,9 @@ imgurl2: /images/posavec-dataset-meaningmaking.png
 
 ## Description
 
-The main goal of this course starts here: collecting a 5 days of data. In this first project, you will collect the data necessary to complete all of the subsequent media projects in this course. To guide this process, we will all share the following broader research question: **What [writing practices](/assets/docs/writing-practices.pdf) do we participate in explicitly and invisibly**? From there, each of you must choose and refine a particular topic as a mode to explore one of your own networked writing practices. (More on this forthcoming.)
+The main goal of this course begins with the following task: collecting a 5 days of data. In this first sub-project, you will collect the data necessary to complete all of the subsequent media projects in this course. To guide this process, we will all share the following broader research question: **What [writing practices](/assets/docs/writing-practices.pdf) do we participate in visibly and invisibly**? From there, each of you must choose and refine a particular topic as a mode to explore one of your own prominent, networked writing practices. (More on this forthcoming.)
 
-The main point of this data collection is not statistical insight nor applying quasi-experimental design strategies, but to explore, examine, and gain insight into your writing practices and how digital data permeates it. In doing so, we will try to understand how digital media communicates much more than what we originally thought.
+The main point of this data collection is not statistical insight nor applying quasi-experimental design strategies, but to explore, examine, and gain insight into your writing practices and how digital media and data permeate it. In doing so, we will try to understand how digital media performs and communicates much more than what we may have originally thought.
 
 ## General process
 
@@ -60,12 +60,12 @@ Like any good project, this one begins with a simple, personal felt dissonance&m
     <img class="image" src="/images/posavec-data-gathering.png" alt="Collect the data." />
     <div class="content">
       <h3>Collect your data</h3>
-      <p>Gather the data with your well-planned set of techniques. Make way for creative hacks along the way!</p>
+      <p>Gather the data with your well-planned set of techniques, leaving room for creative hacks along the way!</p>
     </div>
   </li>
 </ol>
 
-Your sketch will serve as the inventive seed by which your narrative grows as you work through the next 3 projects: 1) An SVG representation of your visualization, 2) Videos that draw out the contextual details and refined points of the narrative for your website, and 3) the single-page website that will tell the entire arch of your data story.
+Your sketch will serve as the inventive seed by which your narrative grows as you work through the next 4 sub-projects: 1) An SVG representation of your visualization; 2) Wireframes to help you sketch out a plan for your data-story website; 3) Videos that draw out the contextual details and refined points of the narrative for your website; and 4) A single-page website that will tell the entire arch of your data story.
 
 ## Rubric
 
