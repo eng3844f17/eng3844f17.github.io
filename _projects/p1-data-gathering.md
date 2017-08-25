@@ -33,7 +33,7 @@ The main point of this data collection is not statistical insight nor applying q
 
 Like any good project, this one begins with a simple, personal felt dissonance&mdash;a provocation that cannot be ignored. From there, you will do the following to complete your data collection:
 
-<ol id="process-list">
+<ol class="visual-list">
   <li>
     <img class="image" src="/images/3844-datastory-topos.png" alt="Data-gathering image" />
     <div class="content">
@@ -65,7 +65,7 @@ Like any good project, this one begins with a simple, personal felt dissonance&m
   </li>
 </ol>
 
-Your sketch will serve as the inventive seed by which your narrative grows as you work through the next 4 sub-projects: 1) An SVG representation of your visualization; 2) Wireframes to help you sketch out a plan for your data-story website; 3) Videos that draw out the contextual details and refined points of the narrative for your website; and 4) A single-page website that will tell the entire arch of your data story.
+Your data set will serve as the inventive seed by which your narrative grows as you work through the next 4 sub-projects: 1) A data visualization created in SVG (Scalable Vector Graphics); 2) Wireframes to help you sketch out a plan for your data-story website; 3) Videos that draw out the contextual details and refined points of the narrative for your website; and 4) A single-page website that will tell the entire arch of your data story.
 
 ## Rubric
 
@@ -79,5 +79,5 @@ The following rubric has been modified from <a href="https://youtu.be/dwj22Fm3n5
   <li>
     Contextualize data in spreadsheet with details / notes</li>
   <li>
-    Follows basic clean data guidlines: Rows == Observation &amp; Columns == Data-type of observation and/or Major Categories</li>
+    Follows basic clean data guidlines: <b>Rows</b> == Observation; <b>Columns</b> == Data-type of observation and/or Major Categories</li>
 </ul>

@@ -39,7 +39,7 @@ You will use video editing software specific to your particular operating system
   <li>
     Learn about basic video codec, file format, and HTML5 <code>&lt;video&gt;</code> issues and solutions, and then learn how to output video optimized for the web.</li>
   <li>
-    Create 2-5 minutes worth of video media, which can be split among more than 1 video.</li>
+    Create 3-5 minutes worth of video media, which can be split among more than 1 video.</li>
 </ol>
 
 ## Rubric
@@ -48,4 +48,4 @@ Your video(s):
 
 - Align and amplify the narrative thread of your data-story.
 - Meaningful decisions about what rhetorical purposes your videos fulfill for your future single-page site.
-- Video(s) include(s) appropriate application of basic composition strategies: Rule of Thirds, meaningful cuts/transitions (on motion, similar elements, or narrative connection), and source material pertinent to narrative.
+- Demonstrate application of basic composition strategies: Rule of Thirds, meaningful cuts/transitions (on motion, similar elements, or narrative connection), and source material pertinent to narrative.

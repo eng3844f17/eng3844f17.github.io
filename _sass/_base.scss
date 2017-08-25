@@ -513,7 +513,8 @@ ul.visual-list li span {
 }
 
 .visual-list > li > .image,
-.visual-list > li > .image > img {
+.visual-list > li > .image > img,
+.visual-list img.image {
   width:270px; height:150px;
 }
 
