@@ -18,11 +18,11 @@ imgalt: "Tree diagram of an SVG object's markup body (excerpt from Cukier, 2012)
 
 ## Description
 
-After collecting your data, we will analyze your data, developing categories and codes for you to visualize. We will analyze and explore your data in tandem with learning some basic visualization conventions. From there, you will make decisions about how you want to visualize your categories and their relationships.
+After collecting your data, you will analyze your data, developing categories and codes for you to visualize. You will analyze and explore your data in tandem with learning some basic visualization conventions. From there, you will make decisions about how you want to visualize your categories and their relationships.
 
-We will be using Scalable Vector Graphics (SVG) to create our visualizations destined for your data-story website. These markup, graphical objects have long since been around, but have made recent strides in functionality over the past decade in lieu of HTML5 documents. Consequently, SVG visuals have become integral digital media for web documents across design and content domains.
+We will all be using Scalable Vector Graphics (SVG) to create our visualizations destined for your respective data-story websites. These markup, graphical objects have long since been around, but have made recent strides in functionality over the past decade in lieu of HTML5 documents. Consequently, SVG visuals have become integral digital media for web documents across design and content domains.
 
-As a basic introduction, we will use the Inkscape application to create our draft visualization as a SVG file. We will learn about its basic document structure (see image below), and prep it for our future data-story website.
+As a basic introduction, we will use the Inkscape application to create our draft visualization as a SVG file. We will learn about the basic SVG document structure (see image below), and prep it for our future data-story website.
 
 <figure id="twitter-css-body" class="figure-inline proj-img">
   <img src="/images/svg-markup.png" alt="Tree diagram of the markup body of an SVG object." />

@@ -17,11 +17,9 @@ imgurl: /images/html5-video-main.png
 
 ## Description
 
-Now, you will consider how to utilize video media for the site. Will you use video to introduce your data story, emphasize a particular point, or perhaps provide interesting insights into the data that your collected? You must decide how your video will best serve your narrative.
+Based on your wireframing plan, you will consider how to best use video media for the site. Will you use video to introduce your data story, emphasize a particular point, or perhaps provide interesting insights into the data that your collected? You must decide how your video will best serve your narrative.
 
-We will be using video editing software specific to your particular operating system.
-
-As a basic introduction, we will use the Inkscape application to create our draft visualization as a SVG file. We will learn about its basic document structure (see image below), and prep it for our future data-story website.
+You will use video editing software specific to your particular operating system. Based on your choice of editing software, you will be sorted into groups that are more conducive for sharing resources and strategies. In class, I will review some more generic conventions that will provide us common ground, but I will also have you form <i>ad hoc</i> groups to analyze the communicative moves made by videos used similarly to your own.
 
 <figure id="twitter-css-body" class="figure-inline">
   <img src="/images/html5-video-main.png" alt="Example of HTML5 video element in use." />
@@ -32,12 +30,17 @@ As a basic introduction, we will use the Inkscape application to create our draf
 
 ## General process
 
-1. Learn about the basic data visualization conventions.
-2. Based on your data, you must choose what conventions help you tell your data-story meaningfully.
-3. Sketch your data visualization by hand.
-4. Create your drawing as an SVG.
-5. Clean your SVG for the web, making it semantically rich.
+<ol class="visual-list">
 
+  <li>
+    Learn about some basic video composition conventions.</li>
+  <li>
+    Learn how to seek out, analyze, choose, and adapt similar generic conventions to help you tell your data-story meaningfully.</li>
+  <li>
+    Learn about basic video codec, file format, and HTML5 <code>&lt;video&gt;</code> issues and solutions, and then learn how to output video optimized for the web.</li>
+  <li>
+    Create 2-5 minutes worth of video media, which can be split among more than 1 video.</li>
+</ol>
 
 ## Rubric
 

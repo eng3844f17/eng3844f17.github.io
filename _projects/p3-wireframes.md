@@ -34,8 +34,7 @@ In this sub-project, you will receive a light introduction into wireframing. By 
     <img class="image" src="/images/500x300.png" alt="Data-gathering image" />
     <div class="content">
       <h3>Learn about the basic conventions of single-page website and their variations.</h3>
-      <p>
-        .</p>
+
     </div>
   </li>
 
@@ -43,17 +42,15 @@ In this sub-project, you will receive a light introduction into wireframing. By 
     <img class="image" src="/images/500x300.png" alt="Data-gathering image" />
     <div class="content">
       <h3>Learn how to draw basic wireframes with a "mobile-first" mentality.</h3>
-      <p>
-        .</p>
+
     </div>
   </li>
 
   <li>
     <img class="image" src="/images/500x300.png" alt="Data-gathering image" />
     <div class="content">
-      <h3>Draw your draft wireframe.</h3>
-      <p>
-        .</p>
+      <h3>Draw your wireframe.</h3>
+
     </div>
   </li>
 </ol>
