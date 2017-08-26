@@ -340,7 +340,6 @@ div[id^='assign-project-'] p small {
 
 /* Internal-Schedule Styles */
 div#flex-schedule div[id^='proj-'] {
-  background: #eda8b6;
   margin: -5px;
 }
 div[id^='proj-'] div[id^='week-']:before,
@@ -361,6 +360,12 @@ div[id^='proj-'] div[id^='week-']:after {
   margin: 15px auto;
   width: 95%;
   border: 1px solid #9d1d41;
+}
+.week-bordering {
+  clear: both;
+  margin: 15px auto;
+  width: 95%;
+  border: 10px solid #9d1d41;
 }
 .right-info-details {
   float: left;
