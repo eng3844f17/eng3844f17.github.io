@@ -19,7 +19,7 @@ schedule:
         - date: 2017-09-01
           desc: 'Learn about audiences in digital networked environments'
           readings: [ 'Gallaghar, J. (2017). Writing for algorithmic audiences. <i>Computers &amp; Composition, 45</i>, pp. 25-30. [<a href="/assets/readings/candc-gallaghar-2017-writing-alg-audiences.pdf">Link</a>]' ]
-          assign: [ 'Take notes about how Gallaghar discusses the concept of audience. Be prepared to discuss this with the class.' ]
+          assign: [ 'Take notes about how Gallaghar defines the different types and properties or those types of audiences. Be prepared to discuss this with the class.' ]
 
     - num: 2
       wkh: 'Inventing Topics for Data Collection'
@@ -30,12 +30,48 @@ schedule:
           assign: [ 'None.' ]
       wed:
         - date: 2017-09-06
-          desc: 'Something Something'
-          readings: [ 'r1' ]
-          assign: [ 'a1' ]
+          desc: 'Research Topic &amp; Questions'
+          readings: [ 'Research Invention Handout [Link]' ]
+          assign: [ 'Complete handout with 2-3 topics with accompanying research questions.' ]
       fri:
         - date: 2017-09-08
-          desc: 'Something Something'
-          readings: [ 'r1' ]
-          assign: [ 'a1' ]
+          desc: 'Data Collection Strategies'
+          readings: [ 'Data-Collection Handout [Link]' ]
+          assign: [ 'Create a draft Google Sheets spreadsheet.' ]
+
+    - num: 3
+      wkh: 'Student Conferences'
+      mon:
+        - date: 2017-09-11
+          desc: 'No class &ndash; Attend individual conferences'
+          readings: [ 'None.' ]
+          assign: [ 'Bring your draft research materials to your conference.', 'Come to the conference with at least 3 particular questions about your topic, questions, and collection strategies.' ]
+      wed:
+        - date: 2017-09-13
+          desc: 'No class &ndash; Attend individual conferences'
+          readings: [ 'None.' ]
+          assign: [ 'Bring your draft research materials to your conference.', 'Come to the conference with at least 3 particular questions about your topic, questions, and collection strategies.' ]
+      fri:
+        - date: 2017-09-15
+          desc: 'No class &ndash; Attend individual conferences'
+          readings: [ 'None.' ]
+          assign: [ 'Bring your draft research materials to your conference.', 'Come to the conference with at least 3 particular questions about your topic, questions, and collection strategies.' ]
 ---
+
+- num: 2
+  wkh: 'TBA'
+  mon:
+    - date: 2017-xx-xx
+      desc: ''
+      readings: [ 'TBA' ]
+      assign: [ 'TBA' ]
+  wed:
+    - date: 2017-xx-xx
+      desc: 'TBA'
+      readings: [ 'TBA' ]
+      assign: [ 'TBA' ]
+  fri:
+    - date: 2017-xx-xx
+      desc: 'TBA'
+      readings: [ 'TBA' ]
+      assign: [ 'TBA' ]
