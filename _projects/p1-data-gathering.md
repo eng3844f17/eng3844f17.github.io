@@ -1,9 +1,9 @@
 ---
-title: "Data Collection for Your Data Story"
+title: "Data Collection for Your Data-Story"
 collection: projects
 permalink: /projects/p1-data-gathering/
 weight: "10%"
-startdate: 2017-08-30
+startdate: 2017-08-28
 enddate: 2017-09-25
 imgurl: /images/posavec-data-gathering.png
 imgurl2: /images/posavec-dataset-meaningmaking.png
@@ -11,14 +11,14 @@ imgurl2: /images/posavec-dataset-meaningmaking.png
 
 <ul class="project-top-info">
   <li>
-    <b>Timeframe</b>: 08/30 &ndash; 09/10</li>
+    <b>Timeframe</b>: 08/28 &ndash; 09/10</li>
   <li>
     <b>Weight</b>: 15%</li>
 </ul>
 
 ## Description
 
-The main goal of this course begins with the following task: collecting a 5 days of data. In this first sub-project, you will collect the data necessary to complete all of the subsequent media projects in this course. To guide this process, we will all share the following broader research question: **What [writing practices](/assets/docs/writing-practices.pdf) do we participate in visibly and invisibly**? From there, each of you must choose and refine a particular topic as a mode to explore one of your own prominent, networked writing practices. (More on this forthcoming.)
+The main goal of this course begins with the following task: collecting a 5 days of data. In this first sub-project, you will collect the data necessary to complete all of the subsequent media projects in this course. To guide this process, we will all share the following broader research question: **What [writing practices](/assets/docs/writing-practices.pdf) do we participate in visibly and invisibly**? **What information do companies collect, organize, and combine based on my writing practices with their software/apps**? From there, each of you must choose and refine a particular topic as a mode to explore one of your own prominent, networked writing practices. Consider some of the following topics and issues to pursue further:
 
 The main point of this data collection is not statistical insight nor applying quasi-experimental design strategies, but to explore, examine, and gain insight into your writing practices and how digital media and data permeate it. In doing so, we will try to understand how digital media performs and communicates much more than what we may have originally thought.
 

@@ -41,6 +41,26 @@ ol.hokie-shade, ul.hokie-shade {
   margin-left: 25px;
 }
 
+/* -----------------------------------------------------------------------------
+
+  BOX SIZING RESET
+
+----------------------------------------------------------------------------- */
+/**,
+*::before,
+*::after {
+  box-sizing: inherit;
+}*/
+.clearfix:before,
+.clearfix:after {
+  content: " ";
+  display: table;
+  clear: both;
+}
+* {
+  box-sizing: border-box;
+}
+
 /*
    FLEXBOX GRID
    ========================================================================= */
@@ -263,6 +283,178 @@ li ol {
 
 ul.texts-list a {
   text-decoration: underline;
+}
+
+/* -----------------------------------------------------------------------------
+
+  SCHEDULE ELEMENTS
+
+----------------------------------------------------------------------------- */
+/* External-Schedule Styles */
+div#flex-schedule {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+div#flex-schedule div[id^='project-'] {
+  width: 100%;
+  padding: 5px;
+}
+div#project-datagathering {
+  background: #7a0019;
+}
+div#project-usability-test {
+  background: #A31D2A;
+}
+div#project-analytical-report {
+  background: #C13946;
+}
+div#project-instructions {
+  background: #8C2A33;
+}
+div#project-revised-instructions {
+  background: #5B1B21;
+}
+div[id^='project-'] > h3,
+div[id^='assign-project-'] > h3,
+div[id^='project-'] p small {
+  color: #ffd75f;
+  font-family: "BenchNine-Light";
+}
+div[id^='project-'] h3,
+div[id^='assign-project-'] > h3 {
+  font-size: 24px;
+  text-align: left;
+  text-transform: uppercase;
+  margin-bottom: -25px;
+  cursor: row-resize;
+}
+span.h3-small-uppercase {
+  font-size: 20px;
+}
+div[id^='project-'] p small,
+div[id^='assign-project-'] p small {
+  font-size: 16px;
+  text-align: left;
+}
+
+/* Internal-Schedule Styles */
+div#flex-schedule div[id^='proj-'] {
+  background: #eda8b6;
+  margin: -5px;
+}
+div[id^='proj-'] div[id^='week-']:before,
+div[id^='proj-'] div[id^='week-']:after {
+  content: " ";
+  display: table;
+  clear: both;
+}
+.bordering {
+  clear: both;
+  margin: 15px auto;
+  padding-top: 3px;
+  width: 95%;
+  border: 1px solid #7a0019;
+}
+.inner-bordering {
+  clear: both;
+  margin: 15px auto;
+  width: 95%;
+  border: 1px solid #9d1d41;
+}
+.right-info-details {
+  float: left;
+  width: 68%;
+  margin: 10px 10px 10px 10px;
+}
+@media all and (max-width: 480px) {
+  .right-info-details {
+    width: 100%;
+  }
+  .daily-info ul {
+    font-size: 0.9em;
+    margin: 0;
+  }
+}
+.right-info-details code {
+  font-size: 0.8em;
+}
+.synopsis {
+  cursor: row-resize;
+}
+.synopsis:hover {
+  text-decoration: underline;
+  text-indent: 1px;
+}
+.week-side h2,
+.synopsis h3 {
+  font-family: 'Norwester';
+  font-size: 1.05em;
+  font-weight: normal;
+  color: #494e52;
+}
+.daily-info .monday,
+.daily-info .wednesday,
+.daily-info .friday {
+  background: #eda8b6;
+  border: 1px solid #7a0019;
+  padding: 1em 1.2em;
+  margin-bottom: 10px;
+  color: #494e52;
+  font-size: 0.9em;
+}
+.daily-info .monday h3,
+.daily-info .wednesday h3,
+.daily-info .friday h3 {
+  font-size: 0.95em;
+  margin-bottom: 10px;
+  cursor: default;
+}
+.daily-info > ul {
+  font-size: 0.9em;
+  margin-left: -15px;
+}
+.daily-info ul,
+.daily-info ol {
+  background: #eda8b6;
+}
+.phase-description-p {
+  padding: 2%;
+  background-color: #7A0019;
+  color: #ffffff;
+  margin: 2%;
+  border: 1px solid white;
+}
+#week-1-1,
+#week-4-2,
+#week-8-1,
+#week-12-1,
+#week-15-1 {
+  padding-top: 40px;
+}
+/* Schedule circles */
+.week-side {
+  height: 7em;
+  margin: 1em 1em;
+  width: 20%;
+  clear: both;
+  float: left;
+  font-family: 'BenchNine-Light', sans-serif;
+  letter-spacing: 2px;
+}
+.week-side svg {
+  display: block;
+  overflow: visible;
+  font-size: 1.25em;
+}
+.week-side text { fill: #6D6D6D; y: 5; }
+.week-side textpath { letter-spacing: 2px; }
+.week-side path { fill: #FFD75F; stroke: #7A0019; }
+
+@media all and (max-width: 850px) {
+  .right-info-details {
+    width: 100%;
+  }
 }
 
 /*
