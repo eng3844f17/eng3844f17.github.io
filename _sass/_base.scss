@@ -384,6 +384,12 @@ div[id^='proj-'] div[id^='week-']:after {
 .right-info-details code {
   font-size: 0.8em;
 }
+.right-info-details ul li > a {
+  text-decoration: underline;
+}
+.right-info-details ul li > a:hover {
+  text-decoration: none;
+}
 .synopsis {
   cursor: row-resize;
 }
