@@ -56,6 +56,23 @@ schedule:
           desc: 'No class &ndash; Attend individual conferences'
           readings: [ 'None.' ]
           assign: [ 'Bring your draft research materials to your conference.', 'Come to the conference with at least 3 particular questions about your topic, questions, and collection strategies.' ]
+    - num: 4
+      wkh: 'Data-Collection Week'
+      mon:
+        - date: 2017-09-18
+          desc: 'Come with problems, issues, questions, concerns.'
+          readings: [ 'TBA' ]
+          assign: [ 'TBA' ]
+      wed:
+        - date: 2017-09-20
+          desc: 'Troubleshooting + <i>Ad Hoc</i> Help'
+          readings: [ 'TBA' ]
+          assign: [ 'TBA' ]
+      fri:
+        - date: 2017-09-22
+          desc: 'Troubleshooting + <i>Ad Hoc</i> Hel'
+          readings: [ 'TBA' ]
+          assign: [ 'TBA' ]
 ---
 
 - num: 2
