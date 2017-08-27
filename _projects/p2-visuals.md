@@ -91,9 +91,9 @@ As a basic introduction, we will use the Inkscape application to create our draf
 
 ## Rubric
 
-- Overall design expresses your categorical relationships
-- Incorporates meaningful use of space and shapes to define and express your data story
-- Aesthetic defensibly appropriate for the topic and considers basic issues of accessibility
+- Data-Set and Data-Viz reflect each other: Overall design expresses the categorical relationships that you set out to emphasize
+- Appropriate application of visualization conventions: Incorporates meaningful use of space and shapes to define and express your data story
+- Ethically represents your findings: Data represents your findings without masking its flaws or creating an unbalanced relationship between datum.
 - Legend articulates relationships clearly
 - Incorporates contextual details that amplify your main narrative
 - Semantically-rich SVG markup
