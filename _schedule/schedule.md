@@ -74,6 +74,24 @@ schedule:
           desc: 'Troubleshooting + <i>Ad Hoc</i> Help'
           readings: [ 'TBA' ]
           assign: [ 'TBA' ]
+
+    - num: 5
+      wkh: 'Data Exploration &amp; Visualization Conventions'
+      mon:
+        - date: 2017-09-25
+          desc: 'Introduce the next project + Begin analysis of data.'
+          readings: [ '<a href="/projects/p2-visuals/">Visualization project</a> page' ]
+          assign: [ 'Data spreadsheet due via Canvas submission' ]
+      wed:
+        - date: 2017-09-27
+          desc: 'Learn about basic data visualization conventions'
+          readings: [ 'Kirk, A. (2016). <cite>Data visualisation: A handbook for data driven design</cite>. London: SAGE Publications, pp. 157-211.' ]
+          assign: [ 'Pay close attention to Kirk&#39;s different types of charts (CHRTS). Figure out what CHRTS convention align with your data set. Choose 1 chart type and bring a list of 6-10 reasons (claims with evidence) that support your decision.' ]
+      fri:
+        - date: 2017-09-29
+          desc: 'Peer review of draft visualization'
+          readings: [ 'None.' ]
+          assign: [ 'Bring a complete first draft (hand-drawn) version of your data visualization. We will be conducting a round of peer reviews within your respective dataviz groups.' ]
 ---
 
 - num: 2
