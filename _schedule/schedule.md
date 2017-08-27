@@ -56,6 +56,7 @@ schedule:
           desc: 'No class &ndash; Attend individual conferences'
           readings: [ 'None.' ]
           assign: [ 'Bring your draft research materials to your conference.', 'Come to the conference with at least 3 particular questions about your topic, questions, and collection strategies.' ]
+
     - num: 4
       wkh: 'Data-Collection Week'
       mon:
@@ -79,7 +80,7 @@ schedule:
   wkh: 'TBA'
   mon:
     - date: 2017-xx-xx
-      desc: ''
+      desc: 'TBA'
       readings: [ 'TBA' ]
       assign: [ 'TBA' ]
   wed:
