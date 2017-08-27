@@ -28,13 +28,15 @@ In this final assignment, you must write a memo that reports on how you contribu
 
 ## Logistics
 
-- 1-2 pages, single-spaced, 1" margins, memo format
-- More TBA
-
+- TBA
 
 ## Rubric
 
 - Makes clear claims about personal and collegial participation in and outside of class
 - Backs up claims with evidence
 - Provides descriptive headings
-- Adheres to memo formats, as listed below.
+- Adheres to memo formats, as listed below:
+  - 1-2 pages, single-spaced, left-flush alignment, 1" margins
+  - Complete top-matter with To, From, Subject, and Date lines
+  - Clear separation between top-matter and body
+  - Professional typographical choices between heading and paragraph text

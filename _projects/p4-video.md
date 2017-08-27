@@ -45,6 +45,6 @@ You will use video editing software specific to your particular operating system
 
 Your video(s):
 
-- Align and amplify the narrative thread of your data-story.
-- Meaningful decisions about what rhetorical purposes your videos fulfill for your future single-page site.
+- Aligns and amplifies the narrative thread of your data-story: Uses secondary research to deepen a particular finding highlighted in your data visualization.
+- Demonstrate meaningful decisions about what rhetorical purposes your videos fulfill for your future single-page site.
 - Demonstrate application of basic composition strategies: Rule of Thirds, meaningful cuts/transitions (on motion, similar elements, or narrative connection), and source material pertinent to narrative.
