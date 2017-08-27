@@ -71,7 +71,7 @@ schedule:
           assign: [ 'TBA' ]
       fri:
         - date: 2017-09-22
-          desc: 'Troubleshooting + <i>Ad Hoc</i> Hel'
+          desc: 'Troubleshooting + <i>Ad Hoc</i> Help'
           readings: [ 'TBA' ]
           assign: [ 'TBA' ]
 ---

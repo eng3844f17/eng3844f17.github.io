@@ -30,16 +30,10 @@ You will use video editing software specific to your particular operating system
 
 ## General process
 
-<ol class="visual-list">
-  <li>
-    Learn about some basic video composition conventions.</li>
-  <li>
-    Learn how to seek out, analyze, choose, and adapt similar generic conventions to help you tell your data-story meaningfully.</li>
-  <li>
-    Learn about basic video codec, file format, and HTML5 <code>&lt;video&gt;</code> issues and solutions, and then learn how to output video optimized for the web.</li>
-  <li>
-    Create 3-5 minutes worth of video media, which can be split among more than 1 video.</li>
-</ol>
+1. Learn about some basic video composition conventions.
+2. Learn how to seek out, analyze, choose, and adapt similar generic conventions to help you tell your data-story meaningfully.
+3. Learn about basic video codec, file format, and HTML5 <code>&lt;video&gt;</code> issues and solutions, and then learn how to output video optimized for the web.
+4. Create 3-5 minutes worth of video media, which can be split among more than 1 video.
 
 ## Rubric
 

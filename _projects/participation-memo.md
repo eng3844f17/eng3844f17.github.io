@@ -19,6 +19,8 @@ imgurl: /images/ut-prosim.jpg
 
 In this final assignment, you must write a memo that reports on how you contributed to this class as a colleague. Prompts will be provided to help you develop material for this memo.
 
+More TBA.
+
 <figure id="twitter-css-body" class="figure-inline">
   <img src="/images/ut-prosim.jpg" alt="Image of head of the drillfield." />
   <figcaption>

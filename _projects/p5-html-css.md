@@ -28,20 +28,12 @@ In this final project, you will make decisions about how all of your media eleme
 
 ## General process
 
-<ol class="visual-list">
-  <li>
-    Take your wireframe drawings and consider changes.</li>
-  <li>
-    Learn how to use the Github App.</li>
-  <li>
-    Learn about and apply basic architectural and naming conventions for a single-page website.</li>
-  <li>
-    Learn about and apply basic HTML <code>&lt;head&gt;</code> elements, and the <code>&lt;body&gt;</code> with its block and inline elements.</li>
-  <li>
-    Learn about and apply basic CSS element selection and styling &amp; CSS <code>flexbox</code></li>
-  <li>
-    Develop and refine your data-story narrative content.</li>
-</ol>
+1. Take your wireframe drawings and consider changes.
+2. Learn how to use the Github App.
+3. Learn about and apply basic architectural and naming conventions for a single-page website.
+4. Learn about and apply basic HTML <code>&lt;head&gt;</code> elements, and the <code>&lt;body&gt;</code> with its block and inline elements.
+5. Learn about and apply basic CSS element selection and styling &amp; CSS <code>flexbox</code>.
+6. Develop and refine your data-story narrative content.
 
 ## Rubric
 
