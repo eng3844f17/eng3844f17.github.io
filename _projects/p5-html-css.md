@@ -36,7 +36,9 @@ In this final project, you will make decisions about how all of your media eleme
   <li>
     Learn about and apply basic architectural and naming conventions for a single-page website.</li>
   <li>
-    Learn about and apply basic HTML <code>&lt;head&gt;</code> and <code>&lt;body&gt;</code> elements &amp; CSS <code>flexbox</code>.</li>
+    Learn about and apply basic HTML <code>&lt;head&gt;</code> elements, and the <code>&lt;body&gt;</code> with its block and inline elements.</li>
+  <li>
+    Learn about and apply basic CSS element selection and styling &amp; CSS <code>flexbox</code></li>
   <li>
     Develop and refine your data-story narrative content.</li>
 </ol>
@@ -45,6 +47,11 @@ In this final project, you will make decisions about how all of your media eleme
 
 - Website amplifies a particular set of insights about your writing practices and how digital data are intertwined with it.
 - HTML5/CSS3 flexbox grid is written cleanly (spacing, syntax, and structure) and has aptly named tags, IDs, and classes.
-- Markup and styles inclusive and accessible.
+- HTML Markup:
+  - Conveys knowledge of block-level vs. inline-level elements; and
+  - Passes HTML5 validation test.
+- CSS sheet:
+  - Structure of document reflects hierarchy of HTML within sheet; and
+  - Provides consistent commenting scheme.
 - Simple and readable typography styles and hierarchy. Aesthetic matches your narrative.
 - Integrates text, visuals, and videos in manner appropriate for intended genre, purposes, and audiences.
