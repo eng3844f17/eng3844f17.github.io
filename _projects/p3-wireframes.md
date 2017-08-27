@@ -2,7 +2,7 @@
 title: "Wireframes for Your Data-Story"
 collection: projects
 permalink: /projects/p3-wireframes/
-weight: "5%"
+points: "50"
 startdate: 2017-09-12
 enddate: 2017-09-30
 imgurl: /images/wireframing-main.jpg
@@ -13,7 +13,7 @@ imgalt: "Example wireframes (src: E M M E A L C U B O, Flickr.com, 2010)"
   <li>
     <b>Timeframe</b>: 10/16 &ndash; 10/23</li>
   <li>
-    <b>Weight</b>: 5%</li>
+    <b>Points</b>: 50</li>
 </ul>
 
 ## Description

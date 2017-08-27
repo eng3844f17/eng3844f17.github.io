@@ -2,7 +2,7 @@
 title: "Data Visualization for Your Web-Bound Data-Story"
 collection: projects
 permalink: /projects/p2-visuals/
-weight: "20%"
+points: "200"
 startdate: 2017-09-25
 enddate: 2017-10-16
 imgurl: /images/deardata-examples.png
@@ -13,7 +13,7 @@ imgalt: "Tree diagram of an SVG object's markup body (excerpt from Cukier, 2012)
   <li>
     <b>Timeframe</b>: 09/25 &ndash; 10/16</li>
   <li>
-    <b>Weight</b>: 20%</li>
+    <b>Points</b>: 200</li>
 </ul>
 
 ## Description

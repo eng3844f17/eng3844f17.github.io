@@ -2,7 +2,7 @@
 title: "Participation Memo: <i>Ut Prosim</i>"
 collection: participation
 permalink: /projects/p6-participation/
-weight: "10%"
+points: "100"
 startdate: 2017-08-28
 enddate: 2017-12-20
 imgurl: /images/ut-prosim.jpg
@@ -12,7 +12,7 @@ imgurl: /images/ut-prosim.jpg
   <li>
     <b>Timeframe</b>: 11/13 &ndash; 12/20</li>
   <li>
-    <b>Weight</b>: 10%</li>
+    <b>Points</b>: 100</li>
 </ul>
 
 ## Description

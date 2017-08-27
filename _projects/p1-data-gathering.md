@@ -2,7 +2,7 @@
 title: "Data Collection for Your Data-Story"
 collection: projects
 permalink: /projects/p1-data-gathering/
-weight: "10%"
+points: "100"
 startdate: 2017-08-28
 enddate: 2017-09-25
 imgurl: /images/posavec-data-gathering.png
@@ -13,7 +13,7 @@ imgurl2: /images/posavec-dataset-meaningmaking.png
   <li>
     <b>Timeframe</b>: 08/28 &ndash; 09/10</li>
   <li>
-    <b>Weight</b>: 10%</li>
+    <b>Points</b>: 100</li>
 </ul>
 
 ## Description

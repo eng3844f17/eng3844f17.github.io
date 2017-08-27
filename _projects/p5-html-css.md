@@ -2,7 +2,7 @@
 title: "HTML/CSS: Developing Your Data-Story"
 collection: projects
 permalink: /projects/p5-html-css/
-weight: "35%"
+points: "350"
 startdate: 2017-11-13
 enddate: 2017-12-20
 imgurl: /images/wireframe-main.png
@@ -12,7 +12,7 @@ imgurl: /images/wireframe-main.png
   <li>
     <b>Timeframe</b>: 11/13 &ndash; 12/20</li>
   <li>
-    <b>Weight</b>: 35%</li>
+    <b>Points</b>: 350</li>
 </ul>
 
 ## Description

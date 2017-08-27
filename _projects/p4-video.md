@@ -2,7 +2,7 @@
 title: "Video for Your Web-Bound Data-Story"
 collection: projects
 permalink: /projects/p4-video/
-weight: "20%"
+points: "200"
 startdate: 2017-10-23
 enddate: 2017-11-13
 imgurl: /images/html5-video-main.png
@@ -12,7 +12,7 @@ imgurl: /images/html5-video-main.png
   <li>
     <b>Timeframe</b>: 10/23 &ndash; 11/13</li>
   <li>
-    <b>Weight</b>: 20%</li>
+    <b>Points</b>: 200</li>
 </ul>
 
 ## Description

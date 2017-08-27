@@ -45,7 +45,7 @@
         <li>
           <b>Timeframe</b>: {{ post.startdate | default: "1900-01-01" | date: "%m/%d/%Y" }} &ndash; {{ post.enddate | default: "1900-01-01" | date: "%m/%d/%Y" }}
         <li>
-          <b>Weight</b>: {{ post.weight }}
+          <b>Points</b>: {{ post.points }}
       </ul>
 
     {% elsif post.collection == 'schedule' %}
