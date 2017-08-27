@@ -17,7 +17,7 @@ imgurl: /images/wireframe-main.png
 
 ## Description
 
-In this final project, you will make decisions about how all of your media elements come together into a cohesive whole. You will learn about some fundamental elements and their behaviors and how to write web-ready content for a single-page website.
+In this final project, you will make decisions about how all of your media elements come together into a cohesive whole. You will learn about some fundamental elements &ndash; their relationships and behaviors &ndash; as you write web-ready content for a single-page website.
 
 <figure id="twitter-css-body" class="figure-inline">
   <img src="/images/wireframe-main.png" alt="Wireframe example of a single-page website." />

@@ -13,7 +13,7 @@ imgurl2: /images/posavec-dataset-meaningmaking.png
   <li>
     <b>Timeframe</b>: 08/28 &ndash; 09/10</li>
   <li>
-    <b>Weight</b>: 15%</li>
+    <b>Weight</b>: 10%</li>
 </ul>
 
 ## Description
