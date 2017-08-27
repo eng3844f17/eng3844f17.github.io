@@ -1,5 +1,5 @@
 ---
-title: "HTML / CSS: Developing Your Data-Story"
+title: "HTML/CSS: Developing Your Data-Story"
 collection: projects
 permalink: /projects/p5-html-css/
 weight: "35%"
@@ -17,7 +17,7 @@ imgurl: /images/wireframe-main.png
 
 ## Description
 
-Desc. here.
+In this final project, you will make decisions about how all of your media elements come together into a cohesive whole. You will learn about some fundamental elements and their behaviors and how to write web-ready content for a single-page website.
 
 <figure id="twitter-css-body" class="figure-inline">
   <img src="/images/wireframe-main.png" alt="Wireframe example of a single-page website." />
@@ -28,12 +28,22 @@ Desc. here.
 
 ## General process
 
-1. Take your wireframe drawings and begin prototyping your website's grid.
-
+<ol class="visual-list">
+  <li>
+    Take your wireframe drawings and consider changes.</li>
+  <li>
+    Learn how to use the Github App.</li>
+  <li>
+    Learn about and apply basic architectural and naming conventions for a single-page website.</li>
+  <li>
+    Learn about and apply basic HTML <code>&lt;head&gt;</code> and <code>&lt;body&gt;</code> elements &amp; CSS <code>flexbox</code>.</li>
+  <li>
+    Develop and refine your data-story narrative content.</li>
+</ol>
 
 ## Rubric
 
-- Website amplifies a particular set of insights about your writing practices and how digital data is intertwined with it.
+- Website amplifies a particular set of insights about your writing practices and how digital data are intertwined with it.
 - HTML5/CSS3 flexbox grid is written cleanly (spacing, syntax, and structure) and has aptly named tags, IDs, and classes.
 - Markup and styles inclusive and accessible.
 - Simple and readable typography styles and hierarchy. Aesthetic matches your narrative.

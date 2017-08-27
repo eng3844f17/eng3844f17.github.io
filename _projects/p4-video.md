@@ -31,7 +31,6 @@ You will use video editing software specific to your particular operating system
 ## General process
 
 <ol class="visual-list">
-
   <li>
     Learn about some basic video composition conventions.</li>
   <li>

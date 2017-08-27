@@ -22,13 +22,13 @@ In this final assignment, you must write a memo that reports on how you contribu
 <figure id="twitter-css-body" class="figure-inline">
   <img src="/images/ut-prosim.jpg" alt="Image of head of the drillfield." />
   <figcaption>
-    Caption: Head of the drillfield (src: <a href="https://www.flickr.com/photos/robwalters/100663253" target="_blank">neuro_rob, Flickr.com, 2006</a>).
+    Caption: Head of the drillfield (src: <a href="https://www.flickr.com/photos/robwalters/100663253" target="_blank">R. Walters, Flickr.com, 2006</a>).
   </figcaption>
 </figure>
 
 ## Logistics
 
-- 1-2 pages, single-spaced, TNR, 12-pt font, 1" margins, memo format
+- 1-2 pages, single-spaced, 1" margins, memo format
 - More TBA
 
 
