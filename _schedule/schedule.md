@@ -40,8 +40,11 @@ schedule:
       wed:
         - date: 2017-09-06
           desc: 'Research Topic &amp; Questions'
-          readings: [ 'Research Invention Handout. Link.', 'Writing Practices Handout. [<a href="https://docs.google.com/document/d/13G1aiUTT2u33hTpaWCnUfg5HIouQ3eZE7uQcjflKzB4/edit?usp=sharing" target="_blank">Link</a>]' ]
-          assign: [ 'Complete handout with 2-3 topics with accompanying research questions.' ]
+          readings: [
+            'Research Invention Instructions. [Link]',
+            'Writing Practices Handout. [<a href="https://docs.google.com/document/d/13G1aiUTT2u33hTpaWCnUfg5HIouQ3eZE7uQcjflKzB4/edit?usp=sharing" target="_blank">Link</a>]'
+          ]
+          assign: [ 'Follow the directions on Research Invention handout. Write out 5 different main research questions that include 3-5 sub-questions.' ]
       fri:
         - date: 2017-09-08
           desc: 'Data Collection Strategies'
