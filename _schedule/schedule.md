@@ -31,7 +31,7 @@ schedule:
       wed:
         - date: 2017-09-06
           desc: 'Research Topic &amp; Questions'
-          readings: [ 'Research Invention Handout [Link]', Writing Practices Handout [<a href="[writing practices](https://docs.google.com/document/d/13G1aiUTT2u33hTpaWCnUfg5HIouQ3eZE7uQcjflKzB4/edit?usp=sharing)" target="_blank">Link</a>] ]
+          readings: [ 'Research Invention Handout. Link.', 'Writing Practices Handout. [<a href="https://docs.google.com/document/d/13G1aiUTT2u33hTpaWCnUfg5HIouQ3eZE7uQcjflKzB4/edit?usp=sharing" target="_blank">Link</a>]' ]
           assign: [ 'Complete handout with 2-3 topics with accompanying research questions.' ]
       fri:
         - date: 2017-09-08
