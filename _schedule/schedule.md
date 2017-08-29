@@ -4,6 +4,8 @@ collection: schedule
 schedule:
   - wk:
     - num: 1
+      startproj: true
+      sp-title: 'Project: Data Collection'
       wkh: 'Introductions &amp; Audiences'
       mon:
         - date: 2017-08-28
@@ -89,6 +91,8 @@ schedule:
 
     - num: 5
       wkh: 'Data Exploration &amp; Visualization Conventions'
+      startproj: true
+      sp-title: 'Project: Data Visualization'
       mon:
         - date: 2017-09-25
           desc: 'Introduce the next project + Begin analysis of data.'

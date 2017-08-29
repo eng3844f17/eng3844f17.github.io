@@ -468,6 +468,15 @@ div[id^='proj-'] div[id^='week-']:after {
   }
 }
 
+div[id^="startproj-"] {
+  min-height: 100px;
+  border: #eda8b6 1px solid;
+}
+h2.project-heading {
+  padding-bottom: 30px;
+  padding-left: 10px;
+}
+
 /*
    Media and embeds
    ========================================================================== */

@@ -57,6 +57,13 @@
       <div id="proj-1-container clearfix">
 
         {% if w.wk %}{% for n in w.wk %}
+          {% if n.startproj == true %}
+          <div id="startproj-data-collection">
+            <h2 class="project-heading">
+              {{ n.sp-title }}
+            </h2>
+          </div>
+          {% endif %}
           <!-- WK -->
           <div id="week-{{ n.num }}">
             <div class="week-side">
@@ -153,7 +160,9 @@
           <!-- /WK -->
           <div class="inner-bordering"></div>
         {% endfor %}{% endif %}
-
+        <p>
+          <em>More schedule items coming soon.</em>
+        </p>
       </div>
     </div>
     {% endfor %}
