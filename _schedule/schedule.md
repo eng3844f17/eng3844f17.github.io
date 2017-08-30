@@ -45,7 +45,7 @@ schedule:
           desc: 'Research Topic &amp; Questions'
           readings: [
             'Research Invention Instructions. [Link]',
-            'Writing Practices Handout. [<a href="https://docs.google.com/document/d/13G1aiUTT2u33hTpaWCnUfg5HIouQ3eZE7uQcjflKzB4/edit?usp=sharing" target="_blank">Link</a>]'
+            '<span style="text-decoration: line-through;">Writing Practices Handout. [<a href="https://docs.google.com/document/d/13G1aiUTT2u33hTpaWCnUfg5HIouQ3eZE7uQcjflKzB4/edit?usp=sharing" target="_blank">Link</a>]</span>. Skip this reading for now. We will cover this concept during the 2nd phase of the course.'
           ]
           assign: [ 'Follow the directions on Research Invention handout. Write out 5 different main research questions that include 3-5 sub-questions.' ]
       fri:
