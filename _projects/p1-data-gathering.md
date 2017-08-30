@@ -22,6 +22,12 @@ We are living in a society that uses digital technology and media to collect, or
 
 The main point of this data collection is not statistical insight nor applying quasi-experimental design strategies, but to explore, examine, and gain insight into your writing practices and how digital media and data permeate it. In doing so, we will try to understand how digital media performs and communicates much more than what we may have originally thought.
 
+To help us acclimate to the goals of this sub-project and the course, I will review this [slideshow](https://docs.google.com/presentation/d/18c3SVpuc_m8mxHyvwAaf-wm1SPUTxYt-ZykAKx0zbJA/edit?usp=sharing) during class. I hope that it will provide you with more information and stir up more questions about the following 2 topics:
+
+  1. What constitutes a good start to your Data Collection project.
+  2. How your Data Collection project fits into the scheme of the other projects.
+  3. How your Data Collection project provides you with the means to develop a good content strategy for your data-story: A single-page website.
+
 ## General process
 
 <figure id="twitter-css-body" class="figure-inline proj-img">
