@@ -38,7 +38,7 @@ In this final project, you will make decisions about how all of your media eleme
 ## Rubric
 
 - Website amplifies a particular set of insights about your writing practices and how digital data are intertwined with it.
-- HTML5/CSS3 flexbox grid is written cleanly (spacing, syntax, and structure) and has aptly named tags, IDs, and classes.
+- Flexbox grid or CSS Grid is written cleanly (spacing, syntax, and structure) and has aptly named tags, IDs, and classes.
 - HTML Markup:
   - Conveys knowledge of block-level vs. inline-level elements; and
   - Passes HTML5 validation test.
