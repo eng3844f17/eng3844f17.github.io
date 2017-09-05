@@ -30,15 +30,15 @@ In this final project, you will make decisions about how all of your media eleme
 
 1. Take your wireframe drawings and consider changes.
 2. Learn how to use the Github App.
-3. Learn about and apply basic architectural and naming conventions for a single-page website.
-4. Learn about and apply basic HTML <code>&lt;head&gt;</code> elements, and the <code>&lt;body&gt;</code> with its block and inline elements.
-5. Learn about and apply basic CSS element selection and styling &amp; CSS <code>flexbox</code>.
+3. Learn about and apply basic architectural and folder-naming and file-naming conventions for a single-page website.
+4. Learn about and apply basic HTML <code>&lt;head&gt;</code> elements, and the <code>&lt;body&gt;</code>, its block and inline elements, and their <code>display</code> properties and behaviors.
+5. Learn about and apply basic CSS element selection and styling &amp; the CSS <code>Grid</code> display.
 6. Develop and refine your data-story narrative content.
 
 ## Rubric
 
-- Website amplifies a particular set of insights about your writing practices and how digital data are intertwined with it.
-- Flexbox grid or CSS Grid is written cleanly (spacing, syntax, and structure) and has aptly named tags, IDs, and classes.
+- Website amplifies a particular set of insights about your online practices and how digital data are intertwined with it.
+- CSS Grid is written cleanly (spacing, syntax, and structure) and has aptly named tags, IDs, and classes.
 - HTML Markup:
   - Conveys knowledge of block-level vs. inline-level elements; and
   - Passes HTML5 validation test.
