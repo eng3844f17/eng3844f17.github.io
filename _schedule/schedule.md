@@ -51,8 +51,8 @@ schedule:
       fri:
         - date: 2017-09-08
           desc: 'Data Collection Strategies'
-          readings: [ 'Data-Collection Handout [Link]' ]
-          assign: [ 'Create a draft Google Sheets spreadsheet.' ]
+          readings: [ 'None.' ]
+          assign: [ 'Follow the directions in the Data-Collection Handout [<a href="https://docs.google.com/a/vt.edu/document/d/1fjjkzvF7zwcSueL2s7FSKeq1v6Lrxk0ORX0WWdJHuoU/edit?usp=sharing" target="_blank">Link</a>]. You will create a draft Spreadsheet and Data-Collection Plan.' ]
 
     - num: 3
       wkh: 'Student Conferences'
