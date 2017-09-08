@@ -85,7 +85,7 @@ The following rubric has been modified from <a href="https://youtu.be/dwj22Fm3n5
   <li>
     Contextualize data in spreadsheet with details / notes</li>
   <li>
-    Follows basic clean data guidlines:
+    Follows basic *tidy data* guidlines:
       <ul>
         <li><b>Rows</b>: Main thing/activity being observed; and</li>
         <li><b>Columns</b>: Attributes of the main thing being observed as different data-types</li>
