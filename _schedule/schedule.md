@@ -60,35 +60,35 @@ schedule:
         - date: 2017-09-11
           desc: 'No class &ndash; Attend individual conferences'
           readings: [ 'None.' ]
-          assign: [ 'Bring your draft research materials to your conference.', 'Come to the conference with at least 3 particular questions about your topic, questions, and collection strategies.' ]
+          assign: [ 'Share your course Google Drive folder with me: lindgren@vt.edu.', 'Bring your draft research materials to your conference.', 'Come to the conference with at least 3 particular questions about your topic, questions, and collection strategies.' ]
       wed:
         - date: 2017-09-13
           desc: 'No class &ndash; Attend individual conferences'
           readings: [ 'None.' ]
-          assign: [ 'Bring your draft research materials to your conference.', 'Come to the conference with at least 3 particular questions about your topic, questions, and collection strategies.' ]
+          assign: [ 'Share your course Google Drive folder with me: lindgren@vt.edu.', 'Bring your draft research materials to your conference.', 'Come to the conference with at least 3 particular questions about your topic, questions, and collection strategies.' ]
       fri:
         - date: 2017-09-15
           desc: 'No class &ndash; Attend individual conferences'
           readings: [ 'None.' ]
-          assign: [ 'Bring your draft research materials to your conference.', 'Come to the conference with at least 3 particular questions about your topic, questions, and collection strategies.' ]
+          assign: [ 'Share your course Google Drive folder with me: lindgren@vt.edu.', 'Bring your draft research materials to your conference.', 'Come to the conference with at least 3 particular questions about your topic, questions, and collection strategies.' ]
 
     - num: 4
       wkh: 'Data-Collection Week'
       mon:
         - date: 2017-09-18
           desc: 'Come with problems, issues, questions, concerns.'
-          readings: [ 'TBA' ]
-          assign: [ 'TBA' ]
+          readings: [ 'None.' ]
+          assign: [ 'Collect your data, and also jot down difficulties and issues that you wish to bring up during class.' ]
       wed:
         - date: 2017-09-20
           desc: 'Troubleshooting + <i>Ad Hoc</i> Help'
           readings: [ 'TBA' ]
-          assign: [ 'TBA' ]
+          assign: [ 'Collect your data, and also jot down difficulties and issues that you wish to bring up during class.' ]
       fri:
         - date: 2017-09-22
           desc: 'Troubleshooting + <i>Ad Hoc</i> Help'
           readings: [ 'TBA' ]
-          assign: [ 'TBA' ]
+          assign: [ 'Collect your data, and also jot down difficulties and issues that you wish to bring up during class.' ]
 
     - num: 5
       wkh: 'Data Exploration &amp; Visualization Conventions'
