@@ -79,16 +79,19 @@ schedule:
           desc: 'Come with problems, issues, questions, concerns.'
           readings: [ 'None.' ]
           assign: [ 'Collect your data, and also jot down difficulties and issues that you wish to bring up during class.' ]
+          other: [ 'Half of class will be devoted to tips and strategies to produce a readable data set; the other half will address questions and concerns about the data-collection process.' ]
       wed:
         - date: 2017-09-20
           desc: 'Troubleshooting + <i>Ad Hoc</i> Help'
           readings: [ 'TBA' ]
           assign: [ 'Collect your data, and also jot down difficulties and issues that you wish to bring up during class.' ]
+          other: [ 'Half of class will be devoted to tips and strategies to produce a readable data set; the other half will address questions and concerns about the data-collection process.' ]
       fri:
         - date: 2017-09-22
           desc: 'Troubleshooting + <i>Ad Hoc</i> Help'
           readings: [ 'TBA' ]
           assign: [ 'Collect your data, and also jot down difficulties and issues that you wish to bring up during class.' ]
+          other: [ 'Half of class will be devoted to tips and strategies to produce a readable data set; the other half will address questions and concerns about the data-collection process.' ]
 
     - num: 5
       wkh: 'Data Exploration &amp; Visualization Conventions'
@@ -99,16 +102,54 @@ schedule:
           desc: 'Introduce the next project + Begin analysis of data.'
           readings: [ '<a href="/projects/p2-visuals/">Visualization project</a> page' ]
           assign: [ 'Data spreadsheet due via Canvas submission' ]
+          other: [ 'A portion of class will also introduce some basic organizational strategies to help you analyze your data.' ]
       wed:
         - date: 2017-09-27
           desc: 'Learn about basic data visualization conventions'
-          readings: [ 'Kirk, A. (2016). <cite>Data visualisation: A handbook for data driven design</cite>. London: SAGE Publications, pp. 151-211.' ]
-          assign: [ 'Pay close attention to Kirk&#39;s different types of charts (CHRTS). Figure out what CHRTS convention align with your data set. Choose 1 chart type and bring a list of 6-10 reasons (claims with evidence) that support your decision.' ]
+          readings: [ 'Continue your analysis work.', 'Kirk, A. (2016). <cite>Data visualisation: A handbook for data driven design</cite>. London: SAGE Publications, pp. 151-211.' ]
+          assign: [ 'Pay close attention to Kirk&#39;s different types of charts (CHRTS). Figure out what CHRTS convention align with your data set. Based on what you know about patterns in your data thus far, choose 1 chart type and bring a list of 6-10 reasons (claims with evidence) that support your decision.' ]
+          other: [ 'Bring your data set to class and prepare to share a short 2-3 minute rationale for a partner to share.' ]
       fri:
         - date: 2017-09-29
-          desc: 'Peer review of draft visualization'
-          readings: [ 'None.' ]
-          assign: [ 'Bring a complete first draft (hand-drawn) version of your data visualization. We will be conducting a round of peer reviews within your respective dataviz groups.' ]
+          desc: 'Continued data + visualization convention work'
+          readings: [ 'Excerpts from Lupi, G. and Posavec, S. (2016). <cite>Dear Data</cite>. New York, NY: Princeton Architectural Press.', 'Continue your analysis work.' ]
+          assign: [ 'Review and analyze how Lupi and Posavec employ some of the conventions that Kirk discusses.' ]
+          other: [ 'Bring your data set / notes to class and consider how you will draft an initial sketch of your data.' ]
+
+    - num: 6
+      wkh: 'Data Visualizations, SVGs, &amp; Inkscape'
+      mon:
+        - date: 2017-10-02
+          desc: 'Drafted hand-drawn visualization due'
+          readings: [ 'Continue your data analysis work.' ]
+          assign: [ 'Bring a complete first draft, hand-drawn version of your data visualization to class.' ]
+          other: [ 'In class, we will take time to have at least 2 peers interpret your dataviz, then prepare feedback for you to consider.' ]
+      wed:
+        - date: 2017-10-04
+          desc: 'What are SVGs?'
+          readings: [ 'Lynda.com videos TBA.' ]
+          assign: [ 'TBA' ]
+      fri:
+        - date: 2017-10-06
+          desc: 'Inkscape basics'
+          readings: [ 'Lynda.com tutorials TBA.' ]
+          assign: [ 'TBA' ]
+
+    - num: 7
+      wkh: 'Inkscape Studio Week'
+      mon:
+        - date: 2017-10-09
+          desc: 'SVG semantics'
+          assign: [ 'Continue your SVG work in Inkscape.' ]
+          other: [ 'Come prepared to bring your laptop to work on your data visualization in Inkscape. I will field questions throughout class.' ]
+      wed:
+        - date: 2017-10-11
+          desc: 'Inkscape tips'
+          assign: [ 'Continue your SVG work in Inkscape.' ]
+          other: [ 'Come prepared to bring your laptop to work on your data visualization in Inkscape. I will field questions throughout class.' ]
+      fri:
+        - date: 2017-10-13
+          desc: 'No Class: Fall Break'
 ---
 
 - num: 2

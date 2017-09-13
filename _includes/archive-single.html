@@ -97,6 +97,15 @@
                     </ul>
                   {% endif %}
 
+                  {% if w.other %}
+                    <h4>Other Information</h4>
+                    <ul>
+                      {% for o in w.other %}
+                        <li>{{ o }}</li>
+                      {% endfor %}
+                    </ul>
+                  {% endif %}
+
                 </div>
                 {% endfor %}{% endif %}
 
@@ -124,6 +133,15 @@
                     </ul>
                   {% endif %}
 
+                  {% if w.other %}
+                    <h4>Other Information</h4>
+                    <ul>
+                      {% for o in w.other %}
+                        <li>{{ o }}</li>
+                      {% endfor %}
+                    </ul>
+                  {% endif %}
+
                 </div>
                 {% endfor %}{% endif %}
 
@@ -147,6 +165,15 @@
                     <ul>
                       {% for a in f.assign %}
                         <li>{{ a }}</li>
+                      {% endfor %}
+                    </ul>
+                  {% endif %}
+
+                  {% if w.other %}
+                    <h4>Other Information</h4>
+                    <ul>
+                      {% for o in w.other %}
+                        <li>{{ o }}</li>
                       {% endfor %}
                     </ul>
                   {% endif %}
