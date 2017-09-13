@@ -140,13 +140,11 @@ schedule:
       mon:
         - date: 2017-10-09
           desc: 'SVG semantics'
-          assign: [ 'Continue your SVG work in Inkscape.' ]
-          other: [ 'Come prepared to bring your laptop to work on your data visualization in Inkscape. I will field questions throughout class.' ]
+          assign: [ 'Continue your SVG work in Inkscape. Come prepared to bring your laptop to work on your data visualization in Inkscape. I will field questions throughout class.' ]
       wed:
         - date: 2017-10-11
           desc: 'Inkscape tips'
-          assign: [ 'Continue your SVG work in Inkscape.' ]
-          other: [ 'Come prepared to bring your laptop to work on your data visualization in Inkscape. I will field questions throughout class.' ]
+          assign: [ 'Continue your SVG work in Inkscape. Come prepared to bring your laptop to work on your data visualization in Inkscape. I will field questions throughout class.' ]
       fri:
         - date: 2017-10-13
           desc: 'No Class: Fall Break'
