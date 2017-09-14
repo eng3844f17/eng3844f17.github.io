@@ -163,7 +163,9 @@ schedule:
           assign: [ 'Continue your SVG work in Inkscape. Come prepared to bring your laptop to work on your data visualization in Inkscape. I will field questions throughout class.' ]
       fri:
         - date: 2017-10-20
-          desc: 'No Class: Fall Break'
+          desc: 'Data Visualization Due + Introduce Video Project'
+          readings: [ 'Video Production project page' ]
+          assign: [ 'Dataviz due' ]
 ---
 
 - num: 2

@@ -11,9 +11,9 @@ imgalt: "Tree diagram of an SVG object's markup body (excerpt from Cukier, 2012)
 
 <ul class="project-top-info">
   <li>
-    <b>Timeframe</b>: 09/25 &ndash; 10/16</li>
+    <b>Timeframe</b>: 09/25 &ndash; 10/20</li>
   <li>
-    <b>Points</b>: 200</li>
+    <b>Points</b>: 250</li>
 </ul>
 
 ## Description
