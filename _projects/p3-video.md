@@ -1,7 +1,7 @@
 ---
 title: "Video for Your Web-Bound Data-Story"
 collection: projects
-permalink: /projects/p4-video/
+permalink: /projects/p3-video/
 points: "200"
 startdate: 2017-10-23
 enddate: 2017-11-13

@@ -126,27 +126,43 @@ schedule:
           other: [ 'In class, we will take time to have at least 2 peers interpret your dataviz, then prepare feedback for you to consider.' ]
       wed:
         - date: 2017-10-04
-          desc: 'What are SVGs?'
-          readings: [ 'Lynda.com videos TBA.' ]
-          assign: [ 'TBA' ]
+          desc: 'Second draft of hand-drawn data visualization'
+          readings: [ 'None.' ]
+          assign: [ 'Bring a second draft of dataviz to class.' ]
       fri:
         - date: 2017-10-06
-          desc: 'Inkscape basics'
-          readings: [ 'Lynda.com tutorials TBA.' ]
-          assign: [ 'TBA' ]
+          desc: 'What are SVGs?'
+          readings: [ 'Lynda.com videos TBA.' ]
+          assign: [ 'Make any revisions to your dataviz and scan it as a digital image file onto your laptop.', 'Be sure to have Inkscape installed on your laptop.' ]
+          other: [ 'Come prepared for an introduction of SVGs and Inkscape.' ]
 
     - num: 7
-      wkh: 'Inkscape Studio Week'
+      wkh: 'Inkscape Studio Week #1'
       mon:
         - date: 2017-10-09
-          desc: 'SVG semantics'
-          assign: [ 'Continue your SVG work in Inkscape. Come prepared to bring your laptop to work on your data visualization in Inkscape. I will field questions throughout class.' ]
+          desc: 'Inkscape Basics + Ad Hoc Inkscape Groups'
+          readings: [ 'Lynda.com tutorials TBA.' ]
+          assign: [ 'Come to class with 1-2 questions about what you need to accomplish, when translating your dataviz into a SVG file.' ]
       wed:
         - date: 2017-10-11
-          desc: 'Inkscape tips'
+          desc: 'Ad Hoc Inkscape Groups'
           assign: [ 'Continue your SVG work in Inkscape. Come prepared to bring your laptop to work on your data visualization in Inkscape. I will field questions throughout class.' ]
       fri:
         - date: 2017-10-13
+          desc: 'No Class: Fall Break'
+
+    - num: 8
+      wkh: 'Inkscape Studio Week #2'
+      mon:
+        - date: 2017-10-16
+          desc: 'SVG semantics'
+          assign: [ 'Continue your SVG work in Inkscape. Come prepared to bring your laptop to work on your data visualization in Inkscape. I will field questions throughout class.' ]
+      wed:
+        - date: 2017-10-18
+          desc: 'Inkscape tips'
+          assign: [ 'Continue your SVG work in Inkscape. Come prepared to bring your laptop to work on your data visualization in Inkscape. I will field questions throughout class.' ]
+      fri:
+        - date: 2017-10-20
           desc: 'No Class: Fall Break'
 ---
 

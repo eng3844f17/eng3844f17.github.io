@@ -2,7 +2,7 @@
 title: "Data Visualization for Your Web-Bound Data-Story"
 collection: projects
 permalink: /projects/p2-visuals/
-points: "200"
+points: "250"
 startdate: 2017-09-25
 enddate: 2017-10-16
 imgurl: /images/deardata-examples.png

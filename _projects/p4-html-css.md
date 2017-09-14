@@ -1,7 +1,7 @@
 ---
 title: "HTML/CSS: Developing Your Data-Story"
 collection: projects
-permalink: /projects/p5-html-css/
+permalink: /projects/p4-html-css/
 points: "350"
 startdate: 2017-11-13
 enddate: 2017-12-20
