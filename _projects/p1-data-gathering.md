@@ -85,10 +85,12 @@ The following rubric has been modified from <a href="https://youtu.be/dwj22Fm3n5
   <li>
     Contextualize data in spreadsheet with details / notes</li>
   <li>
-    Follows basic *tidy data* guidlines:
+    Follows basic *tidy data* guidelines:
       <ul>
-        <li><b>Rows</b>: Main thing/activity being observed; and</li>
-        <li><b>Columns</b>: Attributes of the main thing being observed as different data-types</li>
+        <li><b>Rows</b>: Clear unit indexed per row: Every instance that I X</li>
+        <li><b>Columns</b>: Naming; Format and arrangement of columns</li>
+        <li><b>Cells</b>: 1 value, consistency of values, modify sheet according to redundancies, and limited amount of more complex cell data (1 preferable; 2 at the most)</li>
+        <li><b>Sheets features</b>: Meaningful uses of some spreadsheet features: conditional formatting, etc.</li>
       </ul>
   </li>
 </ul>
