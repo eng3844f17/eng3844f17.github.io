@@ -85,7 +85,7 @@ The following rubric has been modified from <a href="https://youtu.be/dwj22Fm3n5
   <li>
     Contextualize data in spreadsheet with details / notes</li>
   <li>
-    Follows basic *tidy data* guidelines:
+    Follows basic <i>tidy data</i> guidelines:
       <ul>
         <li><b>Rows</b>: Clear unit indexed per row: Every instance that I X</li>
         <li><b>Columns</b>: Naming; Format and arrangement of columns</li>
