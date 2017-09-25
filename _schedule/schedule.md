@@ -106,8 +106,8 @@ schedule:
       wed:
         - date: 2017-09-27
           desc: 'Learn about basic data visualization conventions'
-          readings: [ 'Continue your analysis work.', 'Kirk, A. (2016). <cite>Data visualisation: A handbook for data driven design</cite>. London: SAGE Publications, pp. 150-211. (Download pp. <a href="https://drive.google.com/a/vt.edu/file/d/0B96D1mtg-kMRbjN5YVhwcnBINHM/view?usp=sharing" target="_blank">150-160</a>)' ]
-          assign: [ 'Pay close attention to Kirk&#39;s discussion of visual encoding and different types of charts (CHRTS). Figure out what CHRTS convention align with your data set. Based on what you know about patterns in your data thus far, choose 1 chart type and bring a list of 6-10 reasons (claims with evidence) that support your decision.' ]
+          readings: [ 'Continue your analysis work.', 'Kirk, A. (2016). <cite>Data visualisation: A handbook for data driven design</cite>. London: SAGE Publications, pp. 150-211. (Download pp. <a href="https://drive.google.com/a/vt.edu/file/d/0B96D1mtg-kMRbjN5YVhwcnBINHM/view?usp=sharing" target="_blank">150-160</a>, <a href="https://drive.google.com/a/vt.edu/file/d/0B96D1mtg-kMRNVMybVJLQnlzRE0/view?usp=sharing" target="_blank">161-206</a>)' ]
+          assign: [ 'Pay close attention to Kirk&#39;s discussion about visual encoding and the different types of charts (CHRTS). Figure out what CHRTS type and conventions align with your data set. Based on what you know about patterns in your data thus far, try to narrow down a choise based on 1 chart type. Bring a list of 6-10 reasons (claims with evidence) that support your decision.' ]
           other: [ 'Bring your data set to class and prepare to share a short 2-3 minute rationale for a partner to share.' ]
       fri:
         - date: 2017-09-29
