@@ -112,9 +112,9 @@ schedule:
       fri:
         - date: 2017-09-29
           desc: 'Continued data + visualization convention work'
-          readings: [ 'Excerpts from Lupi, G. and Posavec, S. (2016). <cite>Dear Data</cite>. New York, NY: Princeton Architectural Press.', 'Continue your analysis work.' ]
-          assign: [ 'Review and analyze how Lupi and Posavec employ some of the conventions that Kirk discusses.' ]
-          other: [ 'Bring your data set / notes to class and consider how you will draft an initial sketch of your data.' ]
+          readings: [ 'Review visualizations from the a href="http://www.dear-data.com/theproject/" target="_blank">Dear Data</a> website.', 'Continue your analysis work.' ]
+          assign: [ 'Use what you have been learning from Kirk to sharpen your ideas about how what type of chart, marks, and attributes to use for your data.' ]
+          other: [ 'Bring your data set and revised reasons to class. First, we will conduct the partner pitches. Then, we will use the remaining class time to begin considering how you will draft an initial sketch of your data.' ]
 
     - num: 6
       wkh: 'Data Visualizations, SVGs, &amp; Inkscape'
