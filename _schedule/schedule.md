@@ -123,12 +123,13 @@ schedule:
           desc: 'Drafted hand-drawn visualization due'
           readings: [ 'Continue your data analysis work.' ]
           assign: [ 'Bring a complete first draft, hand-drawn version of your data visualization to class.' ]
-          other: [ 'In class, we will take time to have at least 2 peers interpret your dataviz, then prepare feedback for you to consider.' ]
+          other: [ 'In class, we will take time to have at least 2 peers interpret your dataviz, then prepare feedback for you to consider.', 'Try to install Inkscape on your machine. [<a href="https://inkscape.org/en/release/0.92.2/" target="_blank">Download and install link</a>]', 'Regarding what type of CPU your computer is (32-bt vs 64-bit), refer to this <a href="https://www.computerhope.com/issues/ch001121.htm" target="_blank">online guide</a>.' ]
       wed:
         - date: 2017-10-04
           desc: 'Second draft of hand-drawn data visualization'
           readings: [ 'None.' ]
           assign: [ 'Bring a second draft of dataviz to class.' ]
+          other: [ 'Again, if you have not installed Inkscape, do so.' ]
       fri:
         - date: 2017-10-06
           desc: 'What are SVGs?'
