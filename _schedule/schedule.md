@@ -126,12 +126,12 @@ schedule:
           other: [ 'In class, we will take time to have at least 2 peers interpret your dataviz, then prepare feedback for you to consider.', 'Try to install Inkscape on your machine. [<a href="https://inkscape.org/en/release/0.92.2/" target="_blank">Download and install link</a>]', 'Regarding what type of CPU your computer is (32-bt vs 64-bit), refer to this <a href="https://www.computerhope.com/issues/ch001121.htm" target="_blank">online guide</a>.' ]
       wed:
         - date: 2017-10-04
-          desc: 'Second draft of hand-drawn data visualization'
+          desc: 'Second drafts + What are SVGs?'
           readings: [ 'Rankin, M. (2015). Inkscape Essential Training: Introduction, 1. Getting Started videos, &amp; 2. Navigating an Inkscape Document. [<a href="https://www.lynda.com/SharedPlaylist/1ff0bd2d7f864a9086920140e5db7fa3?org=vt.edu" target="_blank">Outbound link to Lynda.com playlist</a>]' ]
           assign: [ 'Bring a second draft of dataviz to class.', 'Install Inkscape by following along in the Lynda.com course videos.' ]
       fri:
         - date: 2017-10-06
-          desc: 'What are SVGs?'
+          desc: 'Tracing your hand-drawn visualizations into Inkscape'
           readings: [ 'Inkscape Essential Training: 3. Drawing Basic Shapes, 4. Transforming Objects, &amp; 5. Working with Fills and Strokes. [<a href="https://www.lynda.com/SharedPlaylist/1ff0bd2d7f864a9086920140e5db7fa3?org=vt.edu" target="_blank">Outbound link to Lynda.com playlist</a>]' ]
           assign: [ 'Make any revisions to your dataviz and scan it as a digital image file onto your laptop.' ]
           other: [ 'Come prepared to work on "tracing" and translating your images into Inkscape.' ]
