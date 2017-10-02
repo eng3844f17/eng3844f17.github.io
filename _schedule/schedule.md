@@ -127,7 +127,7 @@ schedule:
       wed:
         - date: 2017-10-04
           desc: 'Second draft of hand-drawn data visualization'
-          readings: [ 'Inkscape Essential Training -- Introduction and 1. Getting Started videos. [<a href="https://www.lynda.com/SharedPlaylist/1ff0bd2d7f864a9086920140e5db7fa3?org=vt.edu" target="_blank">Outbound link to Lynda.com playlist</a>]' ]
+          readings: [ 'Inkscape Essential Training: Introduction, 1. Getting Started videos, &amp; 2. Navigating an Inkscape Document. [<a href="https://www.lynda.com/SharedPlaylist/1ff0bd2d7f864a9086920140e5db7fa3?org=vt.edu" target="_blank">Outbound link to Lynda.com playlist</a>]' ]
           assign: [ 'Bring a second draft of dataviz to class.', 'Install Inkscape by following along in the Lynda.com course videos.' ]
       fri:
         - date: 2017-10-06
