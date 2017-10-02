@@ -127,14 +127,14 @@ schedule:
       wed:
         - date: 2017-10-04
           desc: 'Second draft of hand-drawn data visualization'
-          readings: [ 'Inkscape Essential Training: Introduction, 1. Getting Started videos, &amp; 2. Navigating an Inkscape Document. [<a href="https://www.lynda.com/SharedPlaylist/1ff0bd2d7f864a9086920140e5db7fa3?org=vt.edu" target="_blank">Outbound link to Lynda.com playlist</a>]' ]
+          readings: [ 'Rankin, M. (2015). Inkscape Essential Training: Introduction, 1. Getting Started videos, &amp; 2. Navigating an Inkscape Document. [<a href="https://www.lynda.com/SharedPlaylist/1ff0bd2d7f864a9086920140e5db7fa3?org=vt.edu" target="_blank">Outbound link to Lynda.com playlist</a>]' ]
           assign: [ 'Bring a second draft of dataviz to class.', 'Install Inkscape by following along in the Lynda.com course videos.' ]
       fri:
         - date: 2017-10-06
           desc: 'What are SVGs?'
-          readings: [ 'Lynda.com videos TBA.' ]
-          assign: [ 'Make any revisions to your dataviz and scan it as a digital image file onto your laptop.', 'Be sure to have Inkscape installed on your laptop.' ]
-          other: [ 'Come prepared for an introduction of SVGs and Inkscape.' ]
+          readings: [ 'Inkscape Essential Training: 3. Drawing Basic Shapes, 4. Transforming Objects, &amp; 5. Working with Fills and Strokes. [<a href="https://www.lynda.com/SharedPlaylist/1ff0bd2d7f864a9086920140e5db7fa3?org=vt.edu" target="_blank">Outbound link to Lynda.com playlist</a>]' ]
+          assign: [ 'Make any revisions to your dataviz and scan it as a digital image file onto your laptop.' ]
+          other: [ 'Come prepared to work on "tracing" and translating your images into Inkscape.' ]
 
     - num: 7
       wkh: 'Inkscape Studio Week #1'
