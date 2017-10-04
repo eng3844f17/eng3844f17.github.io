@@ -131,17 +131,17 @@ schedule:
           assign: [ 'Bring a second draft of dataviz to class.', 'Install Inkscape by following along in the Lynda.com course videos.' ]
       fri:
         - date: 2017-10-06
-          desc: 'Tracing your hand-drawn visualizations into Inkscape'
-          readings: [ 'Inkscape Essential Training: 3. Drawing Basic Shapes, 4. Transforming Objects, &amp; 5. Working with Fills and Strokes. [<a href="https://www.lynda.com/SharedPlaylist/1ff0bd2d7f864a9086920140e5db7fa3?org=vt.edu" target="_blank">Outbound link to Lynda.com playlist</a>]' ]
-          assign: [ 'Make any revisions to your dataviz and scan it as a digital image file onto your laptop.' ]
-          other: [ 'Come prepared to work on "tracing" and translating your images into Inkscape.' ]
+          desc: 'Start drawing or tracing your visualizations into Inkscape'
+          readings: [ 'Inkscape Essential Training: 3. Drawing Basic Shapes. [<a href="https://www.lynda.com/SharedPlaylist/1ff0bd2d7f864a9086920140e5db7fa3?org=vt.edu" target="_blank">Outbound link to Lynda.com playlist</a>]' ]
+          assign: [ 'Make any revisions to your dataviz. If you plan on tracing it, scan it as a digital image file onto your laptop. If you are drawing it in Inkscape, simply bring your final drawing to class to begin drawing it.' ]
+          other: [ 'Come prepared to work on drawing or "tracing" and translating your images into Inkscape.' ]
 
     - num: 7
       wkh: 'Inkscape Studio Week #1'
       mon:
         - date: 2017-10-09
           desc: 'Inkscape Basics + Ad Hoc Inkscape Groups'
-          readings: [ 'Lynda.com tutorials TBA.' ]
+          readings: [ 'Inkscape Essential Training: 4. Transforming Objects &amp; 5. Working with Fills and Strokes. [<a href="https://www.lynda.com/SharedPlaylist/1ff0bd2d7f864a9086920140e5db7fa3?org=vt.edu" target="_blank">Outbound link to Lynda.com playlist</a>]' ]
           assign: [ 'Come to class with 1-2 questions about what you need to accomplish, when translating your dataviz into a SVG file.' ]
       wed:
         - date: 2017-10-11
