@@ -133,7 +133,7 @@ schedule:
         - date: 2017-10-06
           desc: 'Start drawing or tracing your visualizations into Inkscape'
           readings: [ 'Inkscape Essential Training: 3. Drawing Basic Shapes. [<a href="https://www.lynda.com/SharedPlaylist/1ff0bd2d7f864a9086920140e5db7fa3?org=vt.edu" target="_blank">Outbound link to Lynda.com playlist</a>]' ]
-          assign: [ 'Make any revisions to your dataviz. If you plan on tracing it, scan it as a digital image file onto your laptop. If you are drawing it in Inkscape, simply bring your final drawing to class to begin drawing it.' ]
+          assign: [ 'Make any revisions to your dataviz. If you plan on tracing it, scan it as a digital image file onto your laptop. I recommend scanning at 300 dpi. If you are drawing it in Inkscape, simply bring your final drawing to class to begin drawing it.' ]
           other: [ 'Come prepared to work on drawing or "tracing" and translating your images into Inkscape.' ]
 
     - num: 7
