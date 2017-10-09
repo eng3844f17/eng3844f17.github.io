@@ -146,7 +146,7 @@ schedule:
       wed:
         - date: 2017-10-11
           desc: 'Ad Hoc Inkscape Groups'
-          assign: [ 'Continue your SVG work in Inkscape. Come prepared to bring your laptop to work on your data visualization in Inkscape. I will field questions throughout class.' ]
+          assign: [ 'Continue your SVG work in Inkscape. Come prepared to bring your laptop to work on your data visualization in Inkscape.', 'Come to class with 1-2 questions about what you need to accomplish, when translating your dataviz into a SVG file.' ]
       fri:
         - date: 2017-10-13
           desc: 'No Class: Fall Break'
@@ -155,8 +155,10 @@ schedule:
       wkh: 'Inkscape Studio Week #2'
       mon:
         - date: 2017-10-16
-          desc: 'SVG semantics'
-          assign: [ 'Continue your SVG work in Inkscape. Come prepared to bring your laptop to work on your data visualization in Inkscape. I will field questions throughout class.' ]
+          desc: 'SVG semantics + Legends'
+          readings: [ 'TBA' ]
+          assign: [ 'Create a legend for your chart. Be sure all marks and attributes are located in a functional location on your SVG document.' ]
+          other: [ 'We will review some legends by Lupi and Posavec in class to develop some strategies.' ]
       wed:
         - date: 2017-10-18
           desc: 'Inkscape tips'
