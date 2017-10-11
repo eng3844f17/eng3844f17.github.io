@@ -210,8 +210,7 @@
     display: table;
 
     li {
-      display: table-cell;
-      vertical-align: middle;
+      display: inline-grid;
 
       &:first-child {
         font-weight: bold;

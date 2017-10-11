@@ -250,6 +250,14 @@ defaults:
       layout: single
       author_profile: false
       share: false
+  # _resources
+  - scope:
+      path: ""
+      type: resources
+    values:
+      layout: single
+      author_profile: false
+      share: false
 
 # Sass/SCSS
 sass:
