@@ -155,14 +155,14 @@ schedule:
       wkh: 'Inkscape Studio Week #2'
       mon:
         - date: 2017-10-16
-          desc: 'SVG semantics + Legends'
-          readings: [ 'TBA' ]
-          assign: [ 'Create a legend for your chart. Be sure all marks and attributes are located in a functional location on your SVG document.' ]
-          other: [ 'We will review some legends by Lupi and Posavec in class to develop some strategies.' ]
+          desc: 'Legends'
+          readings: [ 'None.' ]
+          assign: [ 'Create a draft legend for your chart. Consider this guiding question: "What does someone need to interpret my visualization?" All of your design elements that represent your data should be included in your legend. Consider its placement, as well as the order in which you place your labels.' ]
+          other: [ 'We will discuss some legends by Lupi and Posavec in class to help us refine our strategies. Then, we will conduct a short round of peer reviews.' ]
       wed:
         - date: 2017-10-18
-          desc: 'Inkscape tips'
-          assign: [ 'Continue your SVG work in Inkscape. Come prepared to bring your laptop to work on your data visualization in Inkscape. I will field questions throughout class.' ]
+          desc: 'SVG semantics'
+          assign: [ 'Begin making final revisions to your visualization. In class, we will review how to develop semantic groupings of your design elements within Inkscape.' ]
       fri:
         - date: 2017-10-20
           desc: 'Data Visualization Due + Introduce Video Project'
