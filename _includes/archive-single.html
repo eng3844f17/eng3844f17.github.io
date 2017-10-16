@@ -40,7 +40,7 @@
 
     {% if post.collection == 'projects' %}
 
-      <img src="{{ post.imgurl }}" />
+      <img class="proj-img" src="{{ post.imgurl }}" />
       <ul class="project-top-info">
         <li>
           <b>Timeframe</b>: {{ post.startdate | default: "1900-01-01" | date: "%m/%d/%Y" }} &ndash; {{ post.enddate | default: "1900-01-01" | date: "%m/%d/%Y" }}
