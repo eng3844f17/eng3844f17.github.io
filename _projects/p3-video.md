@@ -22,6 +22,7 @@ During the first phase of the course, we collected and examined a small window i
 Accordingly, your video begins with an exploration of issues linked to your digital media/technological practice and how corporations and companies commodify such practices. You can choose issues such as the following:
 
   - <b>Data Brokering</b>: How are you and your activities commodified and sold to 3rd parties?
+  - <b>Psychographics</b>: How do companies use your data to categorize you into particular rhetorical audiences at an aggregate level?
   - <b>Public / Private</b>: How can you think more explicitly how you digital practice may blur the lines between public and private activity?
   - <b>User Rights</b>: Research government regulations and a company's End-User License Agreement (EULA). Such research serves as one important document that can help you better understand how particular applications define your rights, when agreeing to use their service.
 
