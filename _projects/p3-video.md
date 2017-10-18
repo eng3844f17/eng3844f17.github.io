@@ -48,7 +48,7 @@ In class, I will review some more generic conventions that will provide us commo
 1. Learn about some basic video composition conventions.
 2. Learn how to seek out, analyze, choose, and adapt similar generic conventions to help you tell your data-story meaningfully.
 3. Learn how to create a storyboard that outlines your video.
-4. Learn about basic video codec, file format, and HTML5 <code>&lt;video&gt;</code> issues and solutions, and then learn how to output video optimized for the web.
+4. Learn about basic video codecs, file format, and HTML5 <code>&lt;video&gt;</code> issues and solutions, and then learn how to output video optimized for the web.
 5. Create a 3-5 minute video.
 
 ## Rubric
