@@ -166,8 +166,8 @@ schedule:
       fri:
         - date: 2017-10-20
           desc: 'Data Visualization Due + Introduce Video Project'
-          readings: [ 'Video Production project page' ]
-          assign: [ 'Dataviz due' ]
+          readings: [ 'Read the Video Production project page. I will send an announcement through Canvas on Thursday (10/19), when the updated version is available.' ]
+          assign: [ 'Dataviz due. Be sure to follow the submission directions provided in Canvas.' ]
 
     - num: 9
       startproj: true
