@@ -23,7 +23,7 @@ Accordingly, your video begins with an exploration of issues linked to your digi
 
   - <b>Data Brokering</b>: How are you and your activities commodified and sold to 3rd parties?
   - <b>Public / Private</b>: How can you think more explicitly how you digital practice may blur the lines between public and private activity?
-  - <b>User Rights</b>: An End-User License Agreement (EULA) serves as one important document that can help you better understand how particular applications define your rights, when agreeing to use their service.
+  - <b>User Rights</b>: Research government regulations and a company's End-User License Agreement (EULA). Such research serves as one important document that can help you better understand how particular applications define your rights, when agreeing to use their service.
 
 Overall, the goal of your video is to research and convey how your everyday practice are influenced by the decisions that web applications and phone and internet service providers make about your data. So, what can you learn about the data connected to your digital media and technologies? How do your own social practices hook into business practices? What's your own commentary on what you learned? These are just a few example questions to help you begin your own process to plan and create a short video about such digital-life concerns.
 
