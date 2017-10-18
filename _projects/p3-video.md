@@ -17,9 +17,23 @@ imgurl: /images/html5-video-main.png
 
 ## Description
 
-Based on your wireframing plan, you will consider how to best use video media for the site. Will you use video to introduce your data story, emphasize a particular point, or perhaps provide interesting insights into the data that your collected? You must decide how your video will best serve your narrative.
+During the first phase of the course, we collected and examined a small window into our everyday lives with some digital media or technology. We designed a data visualization that helped us understand and convey something interesting that happened during this period of time. Now, we enter the second phase of the course, wherein we research and develop content about a broader social issue connected to our everyday digital practices. As Gallagher noted, writers now write with and for algorithms, but we should understand and learn how people write algorithms to collect and use data about our digital practices.
 
-You will use video editing software specific to your particular operating system. Based on your choice of editing software, you will be sorted into groups that are more conducive for sharing resources and strategies. In class, I will review some more generic conventions that will provide us common ground, but I will also have you form <i>ad hoc</i> groups to analyze the communicative moves made by videos used similarly to your own.
+Accordingly, your video begins with an exploration of issues linked to your digital media/technological practice and how corporations and companies commodify such practices. You can choose issues such as the following:
+
+  - <b>Data Brokering</b>: How are you and your activities commodified and sold to 3rd parties?
+  - <b>Public / Private</b>: How can you think more explicitly how you digital practice may blur the lines between public and private activity?
+  - <b>User Rights</b>: An End-User License Agreement (EULA) serves as one important document that can help you better understand how particular applications define your rights, when agreeing to use their service.
+
+Overall, the goal of your video is to research and convey how your everyday practice are influenced by the decisions that web applications and phone and internet service providers make about your data. So, what can you learn about the data connected to your digital media and technologies? How do your own social practices hook into business practices? What's your own commentary on what you learned? These are just a few example questions to help you begin your own process to plan and create a short video about such digital-life concerns.
+
+In class, I will review some more generic conventions that will provide us common ground. I will also form <i>ad hoc</i> groups based on what video editing software you decide to use for this project:
+
+  - Adobe Premiere
+  - Windows Movie Maker
+  - Apple iMovie
+
+ Based on your choice of editing software, you will be sorted into groups that are more conducive for sharing resources and strategies.
 
 <figure id="twitter-css-body" class="figure-inline">
   <img src="/images/html5-video-main.png" alt="Example of HTML5 video element in use." />
@@ -32,13 +46,15 @@ You will use video editing software specific to your particular operating system
 
 1. Learn about some basic video composition conventions.
 2. Learn how to seek out, analyze, choose, and adapt similar generic conventions to help you tell your data-story meaningfully.
-3. Learn about basic video codec, file format, and HTML5 <code>&lt;video&gt;</code> issues and solutions, and then learn how to output video optimized for the web.
-4. Create 3-5 minutes worth of video media, which can be split among more than 1 video.
+3. Learn how to create a storyboard that outlines your video.
+4. Learn about basic video codec, file format, and HTML5 <code>&lt;video&gt;</code> issues and solutions, and then learn how to output video optimized for the web.
+5. Create a 3-5 minute video.
 
 ## Rubric
 
 Your video(s):
 
-- Aligns and amplifies the narrative thread of your data-story: Uses secondary research to deepen a particular finding highlighted in your data visualization.
-- Demonstrate meaningful decisions about what rhetorical purposes your videos fulfill for your future single-page site.
-- Demonstrate application of basic composition strategies: Rule of Thirds, meaningful cuts/transitions (on motion, similar elements, or narrative connection), and source material pertinent to narrative.
+- Develops a new topic connected to your digital practices: Uses secondary research to deepen a particular finding highlighted in your data visualization.
+- Demonstrates meaningful decisions about what rhetorical purposes your videos fulfill for your future single-page site.
+- Demonstrates application of basic composition strategies:
+  - Meaningful editing and composition moves: Narration, pans, zooms, trims, splits, cuts/transitions (on motion, similar elements, or narrative connection), and source material pertinent to narrative.
