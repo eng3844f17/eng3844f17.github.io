@@ -51,5 +51,4 @@ As a basic introduction, we will use the Inkscape application to create our draf
 - Appropriate application of visualization conventions: Incorporates meaningful use of space and shapes to define and express your data story
 - Ethically represents your findings: Data represents your findings without masking its flaws or creating an unbalanced relationship between datum.
 - Legend articulates relationships clearly
-- Incorporates contextual details that amplify your main narrative
 - Semantically-rich SVG markup
