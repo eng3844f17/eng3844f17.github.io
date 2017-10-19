@@ -19,7 +19,7 @@ imgurl: /images/html5-video-main.png
 
 During the first phase of the course, we collected and examined a small window into our everyday lives with some digital media or technology. We designed a data visualization that helped us understand and convey something interesting that happened during this period of time. Now, we enter the second phase of the course, wherein we research and develop content about a broader social issue connected to our everyday digital practices. As Gallagher noted, writers now write with and for algorithms, but we should understand and learn how people write algorithms to collect and use data about our digital practices.
 
-Accordingly, your video explores and explains issues linked to your digital media/technological practice and how corporations and companies commodify such practices. You can choose and combine issues such as the following:
+Accordingly, your video explores and explains issues linked to your digital media/technological practice and how corporations and companies commodify such practices. You can choose and combine issues such as the following (and see the <a href="/resources/" target="_blank">Resources</a> page for some initial sources):
 
   - <b>Algorithmic Audiences</b>: Pick up where we left off by digging deeper into how a people write and write with algorithms to serve-up and circulate content. What are the broader implications?
   - <b>Data Brokering</b>: How are you and your activities commodified and sold to 3rd parties?
