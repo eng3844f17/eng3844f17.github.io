@@ -21,6 +21,8 @@ During the first phase of the course, we collected and examined a small window i
 
 Accordingly, your video begins with an exploration of issues linked to your digital media/technological practice and how corporations and companies commodify such practices. You can choose issues such as the following:
 
+
+  - <b>Algorithmic Audiences</b>: Pick up where we left off by digging deeper into how a people write algorithms and write with them to serve-up and circulate content. What are the broader implications?
   - <b>Data Brokering</b>: How are you and your activities commodified and sold to 3rd parties?
   - <b>Psychographics</b>: How do companies use your data to categorize you into particular rhetorical audiences at an aggregate level?
   - <b>Public / Private</b>: How can you think more explicitly how you digital practice may blur the lines between public and private activity?
