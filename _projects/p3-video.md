@@ -55,7 +55,7 @@ In class, I will review some more generic conventions that will provide us commo
 
 Your video(s):
 
-- Develops a new topic connected to your digital practices: Uses secondary research to deepen a particular finding highlighted in your data visualization.
-- Demonstrates meaningful decisions about what rhetorical purposes your videos fulfill for your future single-page site.
+- Develops a new topic connected to your digital practice through secondary-source research.
+- Demonstrates meaningful decisions about what rhetorical purposes your video fulfills for your future single-page site.
 - Demonstrates application of basic composition strategies:
   - Meaningful editing and composition moves: Narration, pans, zooms, trims, splits, cuts/transitions (on motion, similar elements, or narrative connection), and source material pertinent to narrative.
