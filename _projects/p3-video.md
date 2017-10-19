@@ -1,5 +1,5 @@
 ---
-title: "Video for Your Web-Bound Data-Story"
+title: "Explained Video for Your Web-Bound Data-Story"
 collection: projects
 permalink: /projects/p3-video/
 points: "200"
@@ -19,16 +19,16 @@ imgurl: /images/html5-video-main.png
 
 During the first phase of the course, we collected and examined a small window into our everyday lives with some digital media or technology. We designed a data visualization that helped us understand and convey something interesting that happened during this period of time. Now, we enter the second phase of the course, wherein we research and develop content about a broader social issue connected to our everyday digital practices. As Gallagher noted, writers now write with and for algorithms, but we should understand and learn how people write algorithms to collect and use data about our digital practices.
 
-Accordingly, your video begins with an exploration of issues linked to your digital media/technological practice and how corporations and companies commodify such practices. You can choose issues such as the following:
+Accordingly, your video begins with an exploration of issues linked to your digital media/technological practice and how corporations and companies commodify such practices. You can choose and combine issues such as the following:
 
 
-  - <b>Algorithmic Audiences</b>: Pick up where we left off by digging deeper into how a people write algorithms and write with them to serve-up and circulate content. What are the broader implications?
+  - <b>Algorithmic Audiences</b>: Pick up where we left off by digging deeper into how a people write and write with algorithms to serve-up and circulate content. What are the broader implications?
   - <b>Data Brokering</b>: How are you and your activities commodified and sold to 3rd parties?
   - <b>Psychographics</b>: How do companies use your data to categorize you into particular rhetorical audiences at an aggregate level?
   - <b>Public / Private</b>: How can you think more explicitly how you digital practice may blur the lines between public and private activity?
   - <b>User Rights</b>: Research government regulations and a company's End-User License Agreement (EULA). Such research serves as one important document that can help you better understand how particular applications define your rights, when agreeing to use their service.
 
-Overall, the goal of your video is to research and convey how your everyday practice are influenced by the decisions that web applications and phone and internet service providers make about your data. So, what can you learn about the data connected to your digital media and technologies? How do your own social practices hook into business practices? What's your own commentary on what you learned? These are just a few example questions to help you begin your own process to plan and create a short video about such digital-life concerns.
+<em>Overall, your goal is to research and create a short explanatory video about what can you learn about the data connected to your digital media and technologies</em>. We will analyze some videos within the genre of "[Complex-thing] Explained." You will pursue broader questions, such as the following: How do your own social practices hook into business practices? And, what are your own opinions based on what you learned? These are just a few example questions to help you begin your own process to plan and create a short <i>Explained</i> video about such digital-life concerns.
 
 In class, I will review some more generic conventions that will provide us common ground. I will also form <i>ad hoc</i> groups based on what video editing software you decide to use for this project:
 
@@ -36,7 +36,7 @@ In class, I will review some more generic conventions that will provide us commo
   - Windows Movie Maker
   - Apple iMovie
 
- Based on your choice of editing software, you will be sorted into groups that are more conducive for sharing resources and strategies.
+ Based on your choice of topic and editing software, you will be sorted into groups that are conducive for sharing ideas, resources, and strategies.
 
 <figure id="twitter-css-body" class="figure-inline">
   <img src="/images/html5-video-main.png" alt="Example of HTML5 video element in use." />
@@ -47,7 +47,7 @@ In class, I will review some more generic conventions that will provide us commo
 
 ## General process
 
-1. Learn about some basic video composition conventions.
+1. Learn about some basic video composition conventions of the <i>Explained</i> genre.
 2. Learn how to seek out, analyze, choose, and adapt similar generic conventions to help you tell your data-story meaningfully.
 3. Learn how to create a storyboard that outlines your video.
 4. Learn about basic video codecs, file format, and HTML5 <code>&lt;video&gt;</code> issues and solutions, and then learn how to output video optimized for the web.
