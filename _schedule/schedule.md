@@ -176,8 +176,9 @@ schedule:
       mon:
         - date: 2017-10-23
           desc: 'Researching your topic.'
-          readings: [ 'Find at least 3 sources about one of the following issues about your digital data: privacy, commodification, or other uses.', 'Review the provided sources on the Resources page to help you start your research.' ]
+          readings: [ 'Find at least 3 sources about one of the issues listed on the Video project page.', 'Review the provided sources on the Resources page to help you start your research.' ]
           assign: [ 'Create a bulletted list of interesting things that you learned about how your data are used.', 'Create a list of references after your list in APA, making sure that you also cite your sources for each bullet point in APA format: (Author Name, Year).' ]
+          other: [ 'Link to the <a href="https://docs.google.com/a/vt.edu/presentation/d/15xGXV-53gE4bfuHOm7MIytYpxZYAPN3Ti_aYylFOqBs/edit?usp=sharing" target="_blank">Introduction to the Explained Video</a> project' ]
       wed:
         - date: 2017-10-25
           desc: 'Rough outlines for a ~2-3 minute video'
