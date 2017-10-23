@@ -151,23 +151,23 @@ schedule:
     #     - date: 2017-10-13
     #       desc: 'No Class: Fall Break'
 
-    - num: 8
-      wkh: 'Inkscape Studio Week #2'
-      mon:
-        - date: 2017-10-16
-          desc: 'Legends'
-          readings: [ 'None.' ]
-          assign: [ 'Create a draft legend for your chart. Consider this guiding question: "What does someone need to interpret my visualization?" All of your design elements that represent your data should be included in your legend. Consider its placement, as well as the order in which you place your labels.' ]
-          other: [ 'We will discuss some legends by Lupi and Posavec in class to help us refine our strategies. Then, we will conduct a short round of peer reviews.' ]
-      wed:
-        - date: 2017-10-18
-          desc: 'SVG semantics'
-          assign: [ 'Begin making final revisions to your visualization. In class, we will review how to develop semantic groupings of your design elements within Inkscape.' ]
-      fri:
-        - date: 2017-10-20
-          desc: 'Data Visualization Due + Introduce Video Project'
-          readings: [ 'Read the Video Production project page. I will send an announcement through Canvas on Thursday (10/19), when the updated version is available.' ]
-          assign: [ 'Dataviz due. Be sure to follow the submission directions provided in Canvas.' ]
+    # - num: 8
+    #   wkh: 'Inkscape Studio Week #2'
+    #   mon:
+    #     - date: 2017-10-16
+    #       desc: 'Legends'
+    #       readings: [ 'None.' ]
+    #       assign: [ 'Create a draft legend for your chart. Consider this guiding question: "What does someone need to interpret my visualization?" All of your design elements that represent your data should be included in your legend. Consider its placement, as well as the order in which you place your labels.' ]
+    #       other: [ 'We will discuss some legends by Lupi and Posavec in class to help us refine our strategies. Then, we will conduct a short round of peer reviews.' ]
+    #   wed:
+    #     - date: 2017-10-18
+    #       desc: 'SVG semantics'
+    #       assign: [ 'Begin making final revisions to your visualization. In class, we will review how to develop semantic groupings of your design elements within Inkscape.' ]
+    #   fri:
+    #     - date: 2017-10-20
+    #       desc: 'Data Visualization Due + Introduce Video Project'
+    #       readings: [ 'Read the Video Production project page. I will send an announcement through Canvas on Thursday (10/19), when the updated version is available.' ]
+    #       assign: [ 'Dataviz due. Be sure to follow the submission directions provided in Canvas.' ]
 
     - num: 9
       startproj: true
@@ -181,9 +181,9 @@ schedule:
           other: [ 'Link to the <a href="https://docs.google.com/a/vt.edu/presentation/d/15xGXV-53gE4bfuHOm7MIytYpxZYAPN3Ti_aYylFOqBs/edit?usp=sharing" target="_blank">Introduction to the Explained Video</a> project' ]
       wed:
         - date: 2017-10-25
-          desc: 'Rough outlines for a ~2-3 minute video'
-          readings: [ 'TBA' ]
-          assign: [ 'Create a rough 3-part outline of your video with the following 3 Acts: 1) Introduction: What is this video about?, 2) What story does your dataviz tell?, and 3) What broader issues about data are linked to your digital practice? Within each Act, develop ideas for scenes that utilize your different sources.' ]
+          desc: 'Genre analysis &amp; Rough outlines for a ~2-3 minute video'
+          readings: [ 'Marshall, M. and Morgan, A. (26 Feb. 2015). Net Neutrality Explained. <cite>Wall Street Journal</cite> [YouTube.com]. Retrieved 18 Oct. 2017 from <a href="https://www.youtube.com/watch?v=p90McT24Z6w" target="_blank">https://www.youtube.com/watch?v=p90McT24Z6w</a>.' ]
+          assign: [ 'Analyze the major genre moves that the Explained video makes.', 'Continue your research into your topic. Locate and read at least 3 more sources.', 'Create a rough 4-part outline of your video with the following 4 Acts: 1) DataViz Summary: What story does your dataviz tell?, 2) What broader issues about data are linked to your digital practice?, 3) How might you explain this issue to a novice audience?, and 4) Call to Action: What action can you and others take in lieu of this issue? <br /><br /> Within each Act, develop ideas for scenes that utilize your different sources.' ]
       fri:
         - date: 2017-10-27
           desc: 'Storyboarding'
