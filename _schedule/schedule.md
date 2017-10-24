@@ -182,13 +182,31 @@ schedule:
       wed:
         - date: 2017-10-25
           desc: 'Genre analysis &amp; Rough outlines for a ~2-3 minute video'
-          readings: [ 'Marshall, M. and Morgan, A. (26 Feb. 2015). Net Neutrality Explained. <cite>Wall Street Journal</cite> [YouTube.com]. Retrieved 18 Oct. 2017 from <a href="https://www.youtube.com/watch?v=p90McT24Z6w" target="_blank">https://www.youtube.com/watch?v=p90McT24Z6w</a>.' ]
+          readings: [ 'Marshall, M. and Morgan, A. (26 Feb. 2015). Net Neutrality Explained. <cite>Wall Street Journal</cite> [YouTube Channel]. Retrieved 18 Oct. 2017 from <a href="https://www.youtube.com/watch?v=p90McT24Z6w" target="_blank">https://www.youtube.com/watch?v=p90McT24Z6w</a>.' ]
           assign: [ 'Analyze the major genre moves that the Explained video makes.', 'Continue your research into your topic. Locate and read at least 3 more sources.', 'Create a rough 4-part outline of your video with the following 4 Acts: 1) DataViz Summary: What story does your dataviz tell?, 2) What broader issues about data are linked to your digital practice?, 3) How might you explain this issue to a novice audience?, and 4) Call to Action: What action can you and others take in lieu of this issue? <br /><br /> Within each Act, develop ideas for scenes that utilize your different sources.' ]
       fri:
         - date: 2017-10-27
-          desc: 'Storyboarding'
+          desc: 'Video Composition &amp; Storyboarding'
+          readings: [ 'Connor, D. (07 Jul. 2016). Acts, sequences, and scenes. [Lynda.com] Retrieved 22 Oct. 2017 from <a href="https://www.lynda.com/Animation-tutorials/Acts-sequences-scenes/466191/511819-4.html" target="_blank">https://www.lynda.com/Animation-tutorials/Acts-sequences-scenes/466191/511819-4.html</a>', 'Olson, D. (2017 Mar. 4). Language of Editing: Basic Cuts. Folding Ideas [YouTube Channel]. Retrieved 22 Oct. 2017 from <a href="https://www.youtube.com/watch?v=RzgLbuj6dHM" target="_blank">https://www.youtube.com/watch?v=RzgLbuj6dHM</a>' ]
+          assign: [ '' ]
+
+    - num: 10
+      wkh: 'Storyboarding and Composing Videos'
+      mon:
+        - date: 2017-10-30
+          desc: 'Draft Storyboards Due'
           readings: [ 'TBA' ]
           assign: [ 'Print out and use this storyboarding sheet to plan out your video sequences for each scene.' ]
+      wed:
+        - date: 2017-11-01
+          desc: 'TBA'
+          readings: [ 'TBA' ]
+          assign: [ 'TBA' ]
+      fri:
+        - date: 2017-11-03
+          desc: 'TBA'
+          readings: [ 'TBA' ]
+          assign: [ 'TBA' ]
 ---
 
 - num: 2
