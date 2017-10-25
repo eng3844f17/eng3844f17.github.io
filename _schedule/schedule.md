@@ -188,7 +188,7 @@ schedule:
         - date: 2017-10-27
           desc: 'Video Composition &amp; Storyboarding'
           readings: [ 'Connor, D. (07 Jul. 2016). Acts, sequences, and scenes. [Lynda.com] Retrieved 22 Oct. 2017 from <a href="https://www.lynda.com/Animation-tutorials/Acts-sequences-scenes/466191/511819-4.html" target="_blank">https://www.lynda.com/Animation-tutorials/Acts-sequences-scenes/466191/511819-4.html</a>', 'Olson, D. (2017 Mar. 4). Language of Editing: Basic Cuts. Folding Ideas [YouTube Channel]. Retrieved 22 Oct. 2017 from <a href="https://www.youtube.com/watch?v=RzgLbuj6dHM" target="_blank">https://www.youtube.com/watch?v=RzgLbuj6dHM</a>' ]
-          assign: [ 'Print out some storyboards [<a href="/assets/readings/videos/storyboards/storyboarding.pdf" target="_blank">Link to download PDF</a>]. Rewatch the Net Neutrality video from Wednesday and log all of the editing cuts with the storyboards.' ]
+          assign: [ 'Print out some storyboards [<a href="/assets/readings/videos/storypanels/storyboarding.pdf" target="_blank">Link to download PDF</a>]. Rewatch the Net Neutrality video from Wednesday and log all of the editing cuts with the storyboards.' ]
 
     - num: 10
       wkh: 'Storyboarding and Composing Videos'
