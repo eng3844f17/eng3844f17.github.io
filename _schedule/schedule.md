@@ -195,11 +195,11 @@ schedule:
       mon:
         - date: 2017-10-30
           desc: 'Draft Storyboards Due'
-          readings: [ 'TBA' ]
-          assign: [ 'Print out and use this storyboarding sheet to plan out your video sequences for each scene.' ]
+          readings: [ 'Continue your research and organizing of resources to use in your Explained video.' ]
+          assign: [ 'Print out more storyboards and complete a draft set of storypanels for your video. Be sure to plot out each set of sequences (cuts) that makes up each scene, as well as label each scenes that make up each of the 4 acts.' ]
       wed:
         - date: 2017-11-01
-          desc: 'TBA'
+          desc: 'Practicing Basic Cuts'
           readings: [ 'TBA' ]
           assign: [ 'TBA' ]
       fri:
