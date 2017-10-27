@@ -197,11 +197,13 @@ schedule:
           desc: 'Draft Story Structure &amp; Storyboards Due'
           readings: [ 'Continue your research and organizing of resources to use in your Explained video.' ]
           assign: [ 'Recall O&#8217;Connor&#8217;s video about Acts, sequences, and scenes. Note how he wrote out a Story Structure for his video as Acts with major sequences. Before you create your own storypanels, create this broader structure with a preliminary title and logline. Note how your acts are already written for you. Now, develop a some sequences that will make up each act.', 'After you finish your Story Structure, print out more storyboards and complete a draft set of storypanels for your video. Be sure to plot out each set of sequences with their scenes and cuts.' ]
+          other: [ 'In class, be prepared to showcase your story structures to peers in a concise and quick manner.', 'We will also use time to discuss how to organize our resources in preparation for creating our videos.' ]
       wed:
         - date: 2017-11-01
           desc: 'Practicing Basic Cuts'
-          readings: [ 'TBA' ]
-          assign: [ 'TBA' ]
+          readings: [ 'Continued research.' ]
+          assign: [ 'Be sure to have your chosen video editing software install on your laptop.', 'Organize your project folder in a way that mirrors your story structure.' ]
+          other: [ 'Be prepared to practice basic cuts within groups who share the same video software as you.' ]
       fri:
         - date: 2017-11-03
           desc: 'TBA'
