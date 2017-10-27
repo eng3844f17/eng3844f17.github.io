@@ -187,16 +187,16 @@ schedule:
       fri:
         - date: 2017-10-27
           desc: 'Video Composition &amp; Storyboarding'
-          readings: [ 'Connor, D. (07 Jul. 2016). Acts, sequences, and scenes. [Lynda.com] Retrieved 22 Oct. 2017 from <a href="https://www.lynda.com/Animation-tutorials/Acts-sequences-scenes/466191/511819-4.html" target="_blank">https://www.lynda.com/Animation-tutorials/Acts-sequences-scenes/466191/511819-4.html</a>', 'Olson, D. (2017 Mar. 4). Language of Editing: Basic Cuts. Folding Ideas [YouTube Channel]. Retrieved 22 Oct. 2017 from <a href="https://www.youtube.com/watch?v=RzgLbuj6dHM" target="_blank">https://www.youtube.com/watch?v=RzgLbuj6dHM</a>' ]
+          readings: [ 'O&#8217;Connor, D. (07 Jul. 2016). Acts, sequences, and scenes. [Lynda.com] Retrieved 22 Oct. 2017 from <a href="https://www.lynda.com/Animation-tutorials/Acts-sequences-scenes/466191/511819-4.html" target="_blank">https://www.lynda.com/Animation-tutorials/Acts-sequences-scenes/466191/511819-4.html</a>', 'Olson, D. (2017 Mar. 4). Language of Editing: Basic Cuts. Folding Ideas [YouTube Channel]. Retrieved 22 Oct. 2017 from <a href="https://www.youtube.com/watch?v=RzgLbuj6dHM" target="_blank">https://www.youtube.com/watch?v=RzgLbuj6dHM</a>' ]
           assign: [ 'Print out some storyboards [<a href="/assets/readings/videos/storypanels/storyboarding.pdf" target="_blank">Link to download PDF</a>]. Rewatch the Net Neutrality video from Wednesday and log all of the editing cuts with the storyboards. In class, we will categorize and label these cuts as acts, sequences, and scenes.' ]
 
     - num: 10
       wkh: 'Storyboarding and Composing Videos'
       mon:
         - date: 2017-10-30
-          desc: 'Draft Storyboards Due'
+          desc: 'Draft Story Structure &amp; Storyboards Due'
           readings: [ 'Continue your research and organizing of resources to use in your Explained video.' ]
-          assign: [ 'Print out more storyboards and complete a draft set of storypanels for your video. Be sure to plot out each set of sequences (cuts) that makes up each scene, as well as label each scenes that make up each of the 4 acts.' ]
+          assign: [ 'Recall O&#8217;Connor&#8217;s video about Acts, sequences, and scenes. Note how he wrote out a Story Structure for his video as Acts with major sequences. Before you create your own storypanels, create this broader structure with a preliminary title and logline. Note how your acts are already written for you. Now, develop a some sequences that will make up each act.', 'After you finish your Story Structure, print out more storyboards and complete a draft set of storypanels for your video. Be sure to plot out each set of sequences with their scenes and cuts.' ]
       wed:
         - date: 2017-11-01
           desc: 'Practicing Basic Cuts'
