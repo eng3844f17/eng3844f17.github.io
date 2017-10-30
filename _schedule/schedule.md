@@ -209,6 +209,25 @@ schedule:
           desc: 'More Editing Teamwork'
           readings: [ 'Continue research as needed.' ]
           assign: [ 'Come prepared to work on a particular set of cuts within your team setting.' ]
+
+    - num: 11
+      wkh: 'Editing Teamwork + Preparing File Exports'
+      mon:
+        - date: 2017-11-06
+          desc: 'More Editing Teamwork'
+          readings: [ 'Continue research/editing as needed.' ]
+          assign: [ 'Come prepared to work on a particular set of cuts within your team setting.' ]
+      wed:
+        - date: 2017-11-08
+          desc: 'More Editing Teamwork'
+          readings: [ 'Continue research/editing as needed.' ]
+          assign: [ 'Come prepared to work on a particular set of cuts within your team setting.' ]
+      fri:
+        - date: 2017-11-10
+          desc: 'Preparing Your HTML5 Video Files'
+          readings: [ 'Blake, G. (7 May 2014). O&#8217;Reilly - Video Training. <a href="https://www.youtube.com/watch?v=LXWV8W5tBYM" target="_blank">HTML5 Audio and Video Tutorial | Understanding Video Containers and Codecs</a>', 'Mozilla Developer Network's <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Supported_media_formats#Browser_compatibility" target="_blank">Browser Compatibility Table</a>' ]
+          assign: [ 'Come prepared to work on a particular set of cuts within your team setting.' ]
+          other: [ 'In class, we will also discuss and practice exporting our videos in preparation for the web-page project.' ]
 ---
 
 - num: 2
