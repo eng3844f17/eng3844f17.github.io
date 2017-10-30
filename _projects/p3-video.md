@@ -32,7 +32,7 @@ Accordingly, your video explores and explains issues linked to your digital medi
 In class, I will review some more generic conventions that will provide us common ground. I will also form <i>ad hoc</i> groups based on what video editing software you decide to use for this project:
 
   - Adobe Premiere
-  - Windows Movie Maker
+  - Lightworks (for PC)
   - Apple iMovie
 
  Based on your choice of topic and editing software, you will be sorted into groups that are conducive for sharing ideas, resources, and strategies.
