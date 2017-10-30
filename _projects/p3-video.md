@@ -60,3 +60,12 @@ Your video(s):
 - Demonstrates meaningful decisions about what rhetorical purposes your video fulfills for your future single-page site.
 - Demonstrates application of basic composition strategies:
   - Meaningful editing and composition moves: Narration, pans, zooms, trims, splits, cuts/transitions (on motion, similar elements, or narrative connection), and source material pertinent to narrative.
+
+## Basic Act Structure
+
+Your video with the following 4 Acts:
+
+  1. DataViz Summary: What story does your dataviz tell?
+  2. What broader issues about data are linked to your digital practice?
+  3. How might you explain this issue to a novice audience?
+  4. Call to Action: What action can you and others take in lieu of this issue?
