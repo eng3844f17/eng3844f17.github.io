@@ -229,25 +229,76 @@ schedule:
           readings: [ 'Blake, G. (7 May 2014). O&#8217;Reilly - Video Training. <a href="https://www.youtube.com/watch?v=LXWV8W5tBYM" target="_blank">HTML5 Audio and Video Tutorial | Understanding Video Containers and Codecs</a>', 'Mozilla Developer Network&#8217;s <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Supported_media_formats#Browser_compatibility" target="_blank">Browser Compatibility Table</a>' ]
           assign: [ 'Come prepared to work on a particular set of cuts within your team setting.' ]
           other: [ 'In class, we will also discuss and practice exporting our videos in preparation for the web-page project.' ]
-    # - num: 12
-    #   startproj: true
-    #   sp-title: 'Project: Single-Page Website'
-    #   wkh: 'Editing Teamwork + Preparing File Exports'
-    #   mon:
-    #     - date: 2017-11-13
-    #       desc: ''
-    #       readings: [ '' ]
-    #       assign: [ '' ]
-    #   wed:
-    #     - date: 2017-11-15
-    #       desc: ''
-    #       readings: [ '' ]
-    #       assign: [ '' ]
-    #   fri:
-    #     - date: 2017-11-17
-    #       desc: ''
-    #       readings: [ '' ]
-    #       assign: [ '' ]
+    - num: 12
+      startproj: true
+      sp-title: 'Project: Data Story -- Single-Page Website'
+      wkh: 'Setting up our web-writing environment'
+      mon:
+        - date: 2017-11-13
+          desc: 'Introduce new project and writing environment'
+          readings: [ 'TBA' ]
+          assign: [ 'Explained Video due via Canvas' ]
+          other: [ 'Bring your laptops, so you can follow along, when install Git/Hub' ]
+      wed:
+        - date: 2017-11-15
+          desc: 'Basic project architecture + Git versioning'
+          readings: [ 'TBA' ]
+          assign: [ 'TBA' ]
+      fri:
+        - date: 2017-11-17
+          desc: 'Single-Page Content Arrangment Conventions'
+          readings: [ 'TBA' ]
+          assign: [ 'TBA' ]
+    - num: 13
+      wkh: 'No Class -- Holiday Break'
+      mon:
+        - date: 2017-11-20
+          desc: 'Fundamental HTML Tags, Sources, &amp; Flows'
+          readings: [ 'TBA' ]
+          assign: [ 'I will announce what homework to complete before next Monday.' ]
+    - num: 14
+      wkh: 'HTML5 &amp; CSS3 Basics'
+      mon:
+        - date: 2017-11-27
+          desc: 'Review fundamental Webpage project workflows + Basic HTML Tags'
+          readings: [ 'TBA' ]
+          assign: [ 'TBA' ]
+      wed:
+        - date: 2017-11-29
+          desc: 'Mobile-First Design'
+          readings: [ 'TBA' ]
+          assign: [ 'TBA' ]
+      fri:
+        - date: 2017-12-01
+          desc: 'Introduce CSS3 Grid'
+          readings: [ 'TBA' ]
+          assign: [ 'TBA' ]
+    - num: 15
+      wkh: 'Building on HTML5 &amp; CSS3 Basics'
+      mon:
+        - date: 2017-12-04
+          desc: 'Continued CSS3 Grid work + As-needed HTML/CSS Labs'
+          readings: [ 'TBA' ]
+          assign: [ 'TBA' ]
+      wed:
+        - date: 2017-12-06
+          desc: 'Studio Work'
+          readings: [ 'TBA' ]
+          assign: [ 'TBA' ]
+      fri:
+        - date: 2017-12-08
+          desc: 'Studio Work'
+          readings: [ 'TBA' ]
+          assign: [ 'TBA' ]
+    - num: 17
+      wkh: 'FINALS'
+      mon:
+        - date: 2017-12-18
+          desc: 'No class :: Finals Week'
+      wed:
+        - date: 2017-12-20
+          desc: 'FINALS DUE'
+          assign: [ 'Submit your Data Story and revisions via Canvas.' ]
 ---
 
 - num: 2
