@@ -226,7 +226,7 @@ schedule:
       fri:
         - date: 2017-11-10
           desc: 'Preparing Your HTML5 Video Files'
-          readings: [ 'Blake, G. (7 May 2014). O&#8217;Reilly - Video Training. <a href="https://www.youtube.com/watch?v=LXWV8W5tBYM" target="_blank">HTML5 Audio and Video Tutorial | Understanding Video Containers and Codecs</a>', 'Mozilla Developer Network&#8217;s <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Supported_media_formats#Browser_compatibility" target="_blank">Browser Compatibility Table</a>' ]
+          readings: [ 'Blake, G. (7 May 2014). O&#8217;Reilly - Video Training. <a href="https://www.youtube.com/watch?v=LXWV8W5tBYM" target="_blank">Understanding Video Containers and Codecs</a>', 'Mozilla Developer Network&#8217;s <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Supported_media_formats#Browser_compatibility" target="_blank">Browser Compatibility Table</a>' ]
           assign: [ 'Come prepared to work on a particular set of cuts within your team setting.' ]
           other: [ 'In class, we will also discuss and practice exporting our videos in preparation for the web-page project.' ]
     - num: 12
