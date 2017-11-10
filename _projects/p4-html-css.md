@@ -17,7 +17,7 @@ imgurl: /images/wireframe-main.png
 
 ## Description
 
-In this final project, you will make decisions about how all of your media elements come together into a cohesive narrative. You will learn about some fundamental elements &ndash; their relationships and behaviors &ndash; as you write web-ready content for a single-page website.
+In this final project, you will make decisions about how all of your media elements come together into a cohesive narrative. You will learn about some fundamental HTML elements and their relationships and behaviors programmed with CSS. In short, you will write a web-ready narrative within a single-page website format.
 
 <figure id="twitter-css-body" class="figure-inline">
   <img src="/images/wireframe-main.png" alt="Wireframe example of a single-page website." />
@@ -25,6 +25,12 @@ In this final project, you will make decisions about how all of your media eleme
     Caption: Wireframe example of a single-page website.
   </figcaption>
 </figure>
+
+## Writing tools
+
+- Github account & desktop application for hosting and versioning your website
+- Code editor: Atom (Mac/PC), TextWrangler (Mac), Notepad++ (Win)
+- Code editor for practice lessons: Codepen.io account
 
 ## General process
 
