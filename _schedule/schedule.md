@@ -236,9 +236,9 @@ schedule:
       mon:
         - date: 2017-11-13
           desc: 'Introduce new project and writing environment'
-          readings: [ 'TBA' ]
-          assign: [ 'Explained Video due via Canvas' ]
-          other: [ 'Bring your laptops, so you can follow along, when install Git/Hub' ]
+          readings: [ 'Read the next project description: HTML/CSS: Developing Your Data-Story' ]
+          assign: [ 'Explained Video due via Canvas. Be sure to follow the procedure.' ]
+          other: [ 'In class, we will review the project description. Also, be sure to bring your laptops, so you can follow along, if we have time to install Git/Hub and some other tools.' ]
       wed:
         - date: 2017-11-15
           desc: 'Basic project architecture + Git versioning'

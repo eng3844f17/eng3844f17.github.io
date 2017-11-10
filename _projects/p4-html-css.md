@@ -17,7 +17,7 @@ imgurl: /images/wireframe-main.png
 
 ## Description
 
-In this final project, you will make decisions about how all of your media elements come together into a cohesive whole. You will learn about some fundamental elements &ndash; their relationships and behaviors &ndash; as you write web-ready content for a single-page website.
+In this final project, you will make decisions about how all of your media elements come together into a cohesive narrative. You will learn about some fundamental elements &ndash; their relationships and behaviors &ndash; as you write web-ready content for a single-page website.
 
 <figure id="twitter-css-body" class="figure-inline">
   <img src="/images/wireframe-main.png" alt="Wireframe example of a single-page website." />
@@ -28,12 +28,11 @@ In this final project, you will make decisions about how all of your media eleme
 
 ## General process
 
-1. Take your wireframe drawings and consider changes.
-2. Learn how to use the Github App.
-3. Learn about and apply basic architectural and folder-naming and file-naming conventions for a single-page website.
-4. Learn about and apply basic HTML <code>&lt;head&gt;</code> elements, and the <code>&lt;body&gt;</code>, its block and inline elements, and their <code>display</code> properties and behaviors.
-5. Learn about and apply basic CSS element selection and styling &amp; the CSS <code>Grid</code> display.
-6. Develop and refine your data-story narrative content.
+1. Learn how to set up and use a web-writing environment.
+2. Learn about and apply basic architectural and folder-naming and file-naming conventions for a single-page website.
+3. Learn about and apply basic HTML <code>&lt;head&gt;</code> elements, and the <code>&lt;body&gt;</code>, its block and inline elements, and their <code>display</code> properties and behaviors.
+4. Learn about and apply basic CSS element selection and styling &amp; the CSS <code>Grid</code> display.
+5. Develop and refine your data-story narrative content.
 
 ## Rubric
 
