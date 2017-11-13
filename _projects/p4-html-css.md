@@ -29,12 +29,12 @@ In this final project, you will make decisions about how all of your media eleme
 ## Writing tools
 
 - Github <a href="https://github.com/" target="_blank">account</a> & <a href="https://desktop.github.com/" target="_blank">desktop application</a> for hosting and versioning your website.
-- Localhost web server via Python in the Terminal / Shell: <code>python3 -m http.server 8000</code>
-  - Mac computers should have Python pre-installed. If not, follow the directions below:
+- <span id="localhost-install">Localhost web server via Python in the Terminal / Shell: <code>python3 -m http.server 8000</code></span>
+  - <b>For Mac computers</b>, you should have Python pre-installed. If not, follow the directions below:
     - Open the Terminal
     - Install HomeBrew -- a package manager -- by following the instructions in this video: <a href="https://www.youtube.com/watch?v=lI_2DWnYo8o" target="_blank">https://www.youtube.com/watch?v=lI_2DWnYo8o</a>.
     - After installing Homebrew, while still in the open terminal, install Python 3 by simply typing the following command: <code>brew install python3</code>. This will take a minute or two.
-  - For Windows, follow the Python 3 installation instruction on this page: <a href="https://www.howtogeek.com/197947/how-to-install-python-on-windows/" target="_blank">How to Geek</a>. Be sure to choose the option to add a PATH variable.<br/><img style="width=70%" src="/images/python-install-win.png" />
+  - <b>For Windows</b>, follow the <em>Python 3</em> installation instruction on this page: <a href="https://www.howtogeek.com/197947/how-to-install-python-on-windows/" target="_blank">How to Geek</a>. Be sure to choose the option to add a PATH variable.<br/><img style="width=70%" src="/images/python-install-win.png" />
 - Code editor: <a href="https://atom.io/" target="_blank">Atom</a> (Mac/PC), <a href="https://itunes.apple.com/us/app/textwrangler/id404010395?mt=12" target="_blank">TextWrangler</a> (Mac), <a href="https://notepad-plus-plus.org/" target="_blank">Notepad++</a> (Win)
 - Code editor for practice lessons: <a href="https://codepen.io/" target="_blank">Codepen.io</a> account. Find and follow me as <a href="https://codepen.io/lndgrn/" target="_blank">lndgrn</a>.
 

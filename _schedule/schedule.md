@@ -243,7 +243,7 @@ schedule:
         - date: 2017-11-15
           desc: 'Basic project architecture + Git versioning'
           readings: [ 'Basic project architecture &amp; Relative vs. Absolute Paths (<a href="https://codepen.io/lndgrn/full/oowvmj/" target="_blank">Outbound link to a Codepen</a>.)', 'Shiffman, D. (19 Apr. 2016). Git and GitHub for Poets: <a href="https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&index=1" target="_blank">1.1</a> and <a href="https://www.youtube.com/watch?v=oPpnCh7InLY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&index=2" target="_blank">1.2</a>. <cite>Code Train</cite> [YouTube Channel].' ]
-          assign: [ 'On your computer, create a project architecture within your current 3844 class directory. Name the project with the following file-naming scheme: <code>lastname-datastory</code>.', 'If you have not done so already, complete / install the following: code editor, GitHub account, GitHub Desktop App, and a CodePen.io account.', 'With your new GitHub account, follow along with Shiffman and his tutorial.' ]
+          assign: [ 'On your computer, create a project architecture within your current 3844 class directory. Name the project with the following file-naming scheme: <code>lastname-datastory</code>.', 'If you have not done so already, complete / install the following: code editor, GitHub account, GitHub Desktop App, and a CodePen.io account. If you need to install Python, please follow the instructions provided on the <a href="/projects/p4-html-css/#localhost-install">project page</a>.', 'With your new GitHub account, follow along with Shiffman and his tutorial.' ]
       fri:
         - date: 2017-11-17
           desc: 'Single-Page Content Arrangment Conventions'
