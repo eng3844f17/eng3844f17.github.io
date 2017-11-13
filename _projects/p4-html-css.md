@@ -53,4 +53,4 @@ In this final project, you will make decisions about how all of your media eleme
   - Structure of document reflects hierarchy of HTML within sheet; and
   - Provides consistent commenting scheme.
 - Simple and readable typography styles and hierarchy. Aesthetic matches your narrative.
-- Integrates text, visuals, and videos in manner appropriate for intended genre, purposes, and audiences.
+- Integrates text, visuals, and videos as a cohesive narrative about your digital practice / life.
