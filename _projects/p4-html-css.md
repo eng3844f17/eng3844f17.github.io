@@ -29,9 +29,10 @@ In this final project, you will make decisions about how all of your media eleme
 ## Writing tools
 
 - Github <a href="https://github.com/" target="_blank">account</a> & <a href="https://desktop.github.com/" target="_blank">desktop application</a> for hosting and versioning your website.
-- Localhost web server via Python in the Terminal / Shell
+- Localhost web server via Python in the Terminal / Shell: <code>python3 -m http.server 8000</code>
+  - Mac computers should have Python pre-installed; Windows installation of <a href="https://www.howtogeek.com/197947/how-to-install-python-on-windows/" target="_blank">Python 3</a>.
 - Code editor: <a href="https://atom.io/" target="_blank">Atom</a> (Mac/PC), <a href="https://itunes.apple.com/us/app/textwrangler/id404010395?mt=12" target="_blank">TextWrangler</a> (Mac), <a href="https://notepad-plus-plus.org/" target="_blank">Notepad++</a> (Win)
-- Code editor for practice lessons: <a href="https://codepen.io/" target="_blank">Codepen.io</a> account
+- Code editor for practice lessons: <a href="https://codepen.io/" target="_blank">Codepen.io</a> account. Find and follow me as <a href="https://codepen.io/lndgrn/" target="_blank">lndgrn</a>.
 
 ## General process
 
