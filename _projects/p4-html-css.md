@@ -29,7 +29,7 @@ In this final project, you will make decisions about how all of your media eleme
 ## Writing tools
 
 - Github <a href="https://github.com/" target="_blank">account</a> & <a href="https://desktop.github.com/" target="_blank">desktop application</a> for hosting and versioning your website.
-- <span id="localhost-install">Localhost web server via Python in the Terminal / Shell:</span> <code>python3 -m http.server 8000</code>
+- <span id="localhost-install">Localhost web server via Python in the Terminal / Shell:</span> <code>python -m SimpleHTTPServer 8000</code> for Python 2.7 &amp; <code>python -m http.server 8000</code> for Python 3.
   - <b>For Mac computers</b>, you should have Python pre-installed. If not, follow the directions below:
     - Open the Terminal
     - Install HomeBrew -- a package manager -- by following the instructions in this video: <a href="https://www.youtube.com/watch?v=lI_2DWnYo8o" target="_blank">https://www.youtube.com/watch?v=lI_2DWnYo8o</a>.
