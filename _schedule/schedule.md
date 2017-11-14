@@ -247,7 +247,7 @@ schedule:
       fri:
         - date: 2017-11-17
           desc: 'Single-Page Content Arrangment Conventions'
-          readings: [ 'Travis, D. (01 Aug. 2011). <a href="http://www.userfocus.co.uk/articles/A_CRAP_way_to_improve_usability.html" target="_blank">A CRAP way to improve usability</a>. User Focus [blog].', 'Review the following single-page websites: <a href="https://www.and.co/digital-nomad-book" target="_blank">1</a>, <a href="https://html5up.net/story" target="_blank">2</a>, <a href="https://html5up.net/read-only" target="_blank">3</a>, <a href="https://html5up.net/forty target="_blank">4</a>.' ]
+          readings: [ 'Travis, D. (01 Aug. 2011). <a href="http://www.userfocus.co.uk/articles/A_CRAP_way_to_improve_usability.html" target="_blank">A CRAP way to improve usability</a>. User Focus [blog].', 'Review the following single-page websites: <a href="https://www.and.co/digital-nomad-book" target="_blank">1</a>, <a href="https://html5up.net/story" target="_blank">2</a>, <a href="https://html5up.net/read-only" target="_blank">3</a>, <a href="https://html5up.net/forty" target="_blank">4</a>.' ]
           assign: [ 'After reading Travis, analyze and take notes about how you see these different sites apply CRAP design principles. Come prepared to collate how single-page websites seem to apply particular design conventions for us to follow.' ]
     - num: 13
       wkh: 'No Class -- Holiday Break'
