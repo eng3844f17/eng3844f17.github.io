@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en">
+
+    <head>
+        <meta charset="utf-8">
+
+        <title>Writing CSS + DITA: Index</title>
+        <!-- =============================================
+            Adapted reveal.js from GU Yiling:
+            http://justineo.github.io/slideshows/writing-css/
+            ==============================================-->
+
+        <meta name="description" content="A review of DITA Topic Types: Task, Concept, and Reference">
+        <meta name="author" content="Chris Lindgren">
+
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/reveal.css">
+        <link rel="stylesheet" href="css/font-awesome.css">
+        <link rel="stylesheet" href="css/just.css" id="theme">
+
+        <!-- For syntax highlighting -->
+        <link rel="stylesheet" href="css/zenburn.css">
+
+        <style>
+            var::before {
+                content: "[";
+            }
+            var::after {
+                content: "]";
+            }
+            var::before,
+            var::after {
+                color: #666;
+                font-style: normal;
+            }
+            iframe {
+                box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.2);
+            }
+            span.type::before {
+                content: "‘<";
+            }
+            span.type::after {
+                content: ">’";
+            }
+            #overview-list li {
+                list-style-type: none;
+            }
+            #overview-list .fa {
+                display: inline-block;
+                width: 40px;
+            }
+            .left-title {
+              text-align: left;
+            }
+        </style>
+
+        <!-- If the query includes "print-pdf", include the PDF print sheet -->
+        <script>
+            if( window.location.search.match( /print-pdf/gi ) ) {
+                var link = document.createElement( "link" );
+                link.rel = "stylesheet";
+                link.type = "text/css";
+                link.href = "../../reveal.js/css/print/pdf.css";
+                document.getElementsByTagName( "head" )[0].appendChild( link );
+            }
+        </script>
+
+        <!--[if lt IE 9]>
+        <script src="lib/js/html5shiv.js"></script>
+        <![endif]-->
+        
+    </head>
+
+    <body>
+
+      <div class="reveal">
+
+          <div class="slides">
+
+              <section>
+                  <h2>Slideshows:</h2>
+
+                  <ul id="overview-list">
+                    <li>
+                      <span class="fa fa-check"></span>
+                      <a href="css.html">
+                        Writing <code>CSS</code>
+                      </a>
+                    
+                    <li>
+                      <span class="fa fa-check"></span>
+                      <a href="dita.html">
+                        Writing <code>DITA</code>
+                      </a>
+                    
+                  </ul>
+                  <p>
+                    <a href="/index.html">
+                      <small>Back to 4662w index</small>
+                    </a>
+                  </p>
+              </section>
+
+          </div>
+      </div>
+
+      <script src="js/head.min.js"></script>
+      <script src="js/reveal.min.js"></script>
+
+      <script>
+          // Full list of configuration options available here:
+          // https://github.com/hakimel/reveal.js#configuration
+          Reveal.initialize({
+              controls: true,
+              progress: true,
+              history: true,
+              center: true,
+
+              theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+              transition: Reveal.getQueryHash().transition || "linear", // default/cube/page/concave/zoom/linear/fade/none
+
+              // Parallax scrolling
+              // parallaxBackgroundImage: "https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg",
+              // parallaxBackgroundSize: "2100px 900px",
+
+              // Optional libraries used to extend on reveal.js
+              dependencies: [
+                  { src: "js/classList.js", condition: function() { return !document.body.classList; } },
+                  { src: "js/marked.js", condition: function() { return !!document.querySelector( "[data-markdown]" ); } },
+                  { src: "js/markdown.js", condition: function() { return !!document.querySelector( "[data-markdown]" ); } },
+                  { src: "js/highlight.js", async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+                  { src: "js/zoom.js", async: true, condition: function() { return !!document.body.classList; } },
+                  { src: "js/notes.js", async: true, condition: function() { return !!document.body.classList; } }
+              ]
+          });
+      </script>
+      <script async src="http://assets.codepen.io/assets/embed/ei.js"></script>
+    </body>
+</html>
