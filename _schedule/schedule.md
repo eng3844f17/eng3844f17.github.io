@@ -253,16 +253,16 @@ schedule:
       wkh: 'No Class -- Holiday Break'
       mon:
         - date: 2017-11-20
-          desc: 'Fundamental HTML Tags, Sources, &amp; Flows'
-          readings: [ 'TBA' ]
-          assign: [ 'I will announce what homework to complete before next Monday.' ]
+          desc: 'No class this week.'
+          readings: [ 'Refer to next Monday.' ]
+          assign: [ 'Refer to next Monday.' ]
     - num: 14
       wkh: 'HTML5 &amp; CSS3 Basics'
       mon:
         - date: 2017-11-27
-          desc: 'Review fundamental Webpage project workflows + Basic HTML Tags'
-          readings: [ 'TBA' ]
-          assign: [ 'TBA' ]
+          desc: 'Fundamentals: Project workflows + Basic HTML Elements'
+          readings: [ 'None. Enjoy the respite!' ]
+          assign: [ 'Be sure that your laptop is ready for some coding work during class. We will cover basic HTML5 elements' ]
       wed:
         - date: 2017-11-29
           desc: 'Mobile-First Design'

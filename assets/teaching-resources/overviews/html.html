@@ -4,7 +4,7 @@
     <head>
         <meta charset="utf-8">
 
-        <title>Writing CSS Lesson</title>
+        <title>Writing HTML Lesson</title>
         <!-- =============================================
             Adapted and modified content from GU Yiling:
             http://justineo.github.io/slideshows/writing-css/
@@ -73,9 +73,9 @@
             <div class="slides">
                 <section>
                     <h1>
-                      Writing <abbr title="Cascading Style Sheets">CSS</abbr>
+                      Writing <abbr title="HyperText Markup Language">HTML</abbr>
                     </h1>
-                    <small>Modified from slideshow by GU Yiling (<a href="http://justineo.github.io/slideshows/writing-css/" target="_blank">original</a>).</small>
+                    <small>Modified content from slideshow <a href="http://www.girldevelopit.com/materials" target="_blank">Girl Develop It</a> program.</small>
                 </section>
 
                 <section>
@@ -92,185 +92,155 @@
                     </style>
                     <ul id="overview-list">
                         <li><span class="fa fa-check"></span> General knowledge</li>
-                        <li><span class="fa fa-check"></span> Syntax</li>
-                        <li><span class="fa fa-check"></span> Cascading</li>
-                        <li><span class="fa fa-check"></span> Values &amp; units</li>
-                        <li><span class="fa fa-check"></span> Layout basics</li>
+                        <li><span class="fa fa-check"></span> Basic HTML Tags</li>
+                        <li><span class="fa fa-check"></span> Basic Layout/Display Information</li>
                     </ul>
                 </section>
 
                 <section>
 
                     <section>
-                        <h2>What is CSS?</h2>
-                        <p class="fragment"><b>C</b>ascading <b>S</b>tyle <b>S</b>heets</p>
+                        <h2>What is HTML?</h2>
+                        <p class="fragment"><b>H</b>yper <b>T</b>ext <b>M</b>arkup <b>L</b>anguage</p>
                     </section>
 
                     <section>
-                        <h3>History</h3>
+                        <h3>Anatomy of a Website</h3>
                         <ul>
                             <li class="fragment">
-                                <h4>CSS 1 <small>(1996)</small></h4>
-                                <p>font, color, align, box-model, #id, .class, ...</p>
+                                <b>Content</b>: Text, Media
                             </li>
                             <li class="fragment">
-                                <h4>CSS 2 <small>(1998)</small></h4>
-                                <p>position, z-index, media, text-shadow, ...</p>
+                                +&nbsp;&nbsp;<b>HTML</b>: Structure + Semantics
                             </li>
                             <li class="fragment">
-                                <h4>CSS 2.1 <small>(2011)</small></h4>
-                                <p><a href="http://www.w3.org/TR/CSS21/about.html#css2.1-v-css2">CSS 2.1 vs CSS 2</a></p>
+                                +&nbsp;&nbsp;&nbsp;<b>CSS</b>: Presentation + Design
+                            </li>
+                            <li class="fragment">
+                                +&nbsp;&nbsp;&nbsp;&nbsp;<b>JS</b>: Interactivity
+                            </li>
+                            <li class="fragment">
+                                = <b>Your Website</b>
                             </li>
                         </ul>
                     </section>
 
                     <section>
-                        <h3><a href="http://www.w3.org/TR/2001/WD-css3-roadmap-20010523/" target="_blank">
-                              CSS3
-                            </a>
-                        </h3>
+                        <h3>HTML</h3>
+                        <ul>
+                            <li class="fragment">
+                                A "marked up" text-file with tags
+                            </li>
+                            <li class="fragment">
+                                Saved with <code>.html</code> extension
+                            </li>
+                            <li class="fragment">
+                                Standardized language of web browsers
+                            </li>
+                            <li class="fragment">
+                                HTML should be Semantic + Accessible
+                            </li>
+                            <li class="fragment">
+                                &#9758; Read more about accessibility: <a href="http://www.website-accessibility.com/web-accessibility/web-accessibility-basics/how-disabled-use-web.html">How people with disabilities use the Internet</a>
+                            </li>
+                        </ul>
                     </section>
 
                     <section>
                         <h3>
-                          <a href="http://www.w3.org/TR/2001/WD-css3-roadmap-20010523/#modlist" target="_blank">CSS Modules</a> <small>(incomplete)</small>
+                          Basic Anatomy of an HTML tag
                         </h3>
-                        <table style="font-size: 55%;">
-                            <thead>
-                                <tr>
-                                    <th>Module</th>
-                                    <th>Latest Level (2014/05)</th>
-                                    <th>Example</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td>Text</td>
-                                    <td>3</td>
-                                    <td>text-justify, word-break</td>
-                                </tr>
-                                <tr>
-                                    <td>Text Decoration</td>
-                                    <td>3</td>
-                                    <td>text-shadow, text-emphasis</td>
-                                </tr>
-                                <tr>
-                                    <td>Flexible Box</td>
-                                    <td>1</td>
-                                    <td>flex, justify-content</td>
-                                </tr>
-                                <tr>
-                                    <td>Color</td>
-                                    <td>4</td>
-                                    <td>hwb(), color()</td>
-                                </tr>
-                                <tr>
-                                    <td>Animations</td>
-                                    <td>1</td>
-                                    <td>animation, @keyframes</td>
-                                </tr>
-                                <tr>
-                                    <td>Transforms</td>
-                                    <td>1</td>
-                                    <td>transform, perspective</td>
-                                </tr>
-                                <tr>
-                                    <td>Transitions</td>
-                                    <td>1</td>
-                                    <td>transition, timing functions</td>
-                                </tr>
-                                <tr>
-                                    <td>Cascading Variables</td>
-                                    <td>1</td>
-                                    <td>--foo, var()</td>
-                                </tr>
-                            </tbody>
-                        </table>
-                        <p class="fragment"><a href="http://www.w3.org/Style/CSS/current-work#roadmap">More...</a></p>
-                    </section>
-
-                    <section>
-                        <h3>Including CSS into HTML</h3>
-                        <p>How?</p>
-                    </section>
-
-                    <section>
-                        <h4>1. <code>&lt;link&gt;</code> element</h4>
-                        <figure>
-                            <pre><code class="html">&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-    &lt;meta charset="utf-8" /&gt;
-    &lt;title&gt;Hello World&lt;/title&gt;
-
-    &lt;link rel="stylesheet" type="text/css" href="style.css" /&gt;
-
-&lt;/head&gt;
-&lt;body&gt;
-...
-</code></pre>
-                        </figure>
-                    </section>
-
-                    <section>
-                        <h4>2. <code>&lt;style&gt;</code> element</h4>
-                        <figure>
-                            <pre><code class="html">&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-    &lt;meta charset="utf-8" /&gt;
-    &lt;title&gt;Hello World&lt;/title&gt;
-    &lt;style type="text/css"&gt;
-        /* ... */
-    &lt;/style&gt;
-&lt;/head&gt;
-&lt;body&gt;
-...
-</code></pre>
-                        </figure>
-                    </section>
-
-                    <section>
-                        <h4>3. Inline styles</h4>
-                        <figure>
-                            <pre><code class="html">&lt;body&gt;
-    &lt;h1 style="color: red;"&gt;
-        Hello World
-    &lt;/h1&gt;
-    &lt;p style="margin: 2em 0;"&gt;
-        Paragraph here
-    &lt;/p&gt;
-&lt;/body&gt;
-</code></pre>
-                        </figure>
-                    </section>
-
-                    <section>
-                        <h4>4. <code>@import</code> rules</h4>
-                        <figure>
-                            <pre><code class="css">@import url(normalize.css);
-@import url(layout.css);
-@import url(typography.css);
-
-nav {
-    position: fixed;
-    top: 0;
-    left: 0;
-    height: 3em;
-}
-</code></pre>
-                        </figure>
-                        <p>Performs <em>worse</em> than the <code>&lt;link&gt;</code> way!<br><small>See <cite><a href="http://www.stevesouders.com/blog/2009/04/09/dont-use-import/">don’t use @import</a></cite>.</small></p>
-                    </section>
-
-                    <section>
-                        <h3>Recap</h3>
                         <ul>
-                            <li class="fragment"><em><b>C</b>ascading</em> <b>S</b>tyle <b>S</b>heets</li>
-                            <li class="fragment">CSS 1, CSS 2, CSS 2.1<span class="fragment">, CSS 3</span><span class="fragment"></span></li>
-                            <li class="fragment">CSS Modules + Level</li>
-                            <li class="fragment">4 ways to use CSS in HTML</li>
+                          <li>
+                            Each tag has a "start tag", "end tag", some content in between, and optional attributes.
+                          </li>
                         </ul>
+<pre><code class="html">&lt;tagname attribute="value"&gt;
+  content
+&lt;/tagname&gt;
+
+&lt;a href="http://www.google.com" &gt;
+  Google
+&lt;/a</a>&gt;
+</code></pre>
+                      <ul>
+                        <li>
+                          Tags == "commands" for the browser
+                        </li>
+                        <li>
+                          In the ex. above, the <code>&lt;a&gt;</code> tag stands for "anchor," the <code>href</code> attribute stands for "hyper-reference," and the value, a URL, is assigned to the attribute of the anchor tag.
+                        </li>
+                      </ul>
+                    </section>
+
+                    <section>
+                        <h3>Anatomy of an HTML tag</h3>
+                        <img  src="img/html-anatomy.png"
+                              alt="Screenshot of Codepen of basic HTML tag anatomy." />
+                        <p>
+                          <a href="https://codepen.io/lndgrn/full/PmMPog/" target="_blank">Link to Codepen</a>
+                        </p>
+                    </section>
+
+                    <section>
+                        <h4>Head</h4>
+                        <figure>
+                            <pre><code class="html">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;/html&gt;
+</code></pre>
+                        </figure>
+                        <ul>
+                          <li>
+                            The <code>doctype</code> isn't an actual tag, but it needs to be at start at every HTML page to tell browser which version of HTML you're using (HTML5 here).
+                          <li>
+                            The <code>html</code> tag is always the first, root tag in the page.
+                          </li>
+                        </ul>
+                    </section>
+
+                    <section>
+                        <h4><code>&lt;head&gt;</code> element</h4>
+                        <figure>
+                            <pre><code class="html">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;meta charset="utf-8" /&gt;
+    &lt;title&gt;The title of your page goes here&lt;/title&gt;
+&lt;/head&gt;
+</code></pre>
+                        </figure>
+                        <ul>
+                          <li>
+                            The head contains "meta" information about the page, information that the browser needs before rendering. Note: It will Lso include links to your CSS style sheets.
+                        </ul>
+                    </section>
+
+                    <section>
+                        <h4><code>&lt;body&gt;</code> Element</h4>
+                        <figure>
+                          <pre><code class="html">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;meta charset="utf-8"&gt;
+    &lt;title&gt;Title of your page goes here&lt;/title&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    Bulk of your content here.
+  &lt;/body&gt;
+&lt;/html&gt;
+</code></pre>
+                        </figure>
+                        <ul>
+                          <li>
+                            The body contains the actual content of the page.
+                        </ul>
+                    </section>
+
+                    <section>
+                        <h4>What goes in the <code>&lt;body&gt;</code>? <small>(One Example)</small></h4>
+                        <img  src="img/page-structure.gif"
+                              alt="Screenshot of Codepen of basic HTML tag anatomy." />
                     </section>
 
                 </section>
@@ -282,180 +252,40 @@ nav {
                 <section>
 
                     <section>
-                        <h2>How to write CSS<br><small>A primer</small></h2>
+                        <h2>Basic HTML Tags<br><small>A primer</small></h2>
                     </section>
 
                     <section>
-                        <h3>Declarations</h3>
-                        <p><var>property</var>: <var>value</var></p>
+                        <h3>Inline vs. Block Elements</h3>
+                        <img src="" alt="Image from Duckett demonstrating difference between inline and block elements." />
                     </section>
 
                     <section>
-                        <h3>Declaration blocks</h3>
-                        <p>{ <var>declaration</var>; <var>declaration</var>; ... }</p>
-                        <pre style="width: 60%"><code class="css">/* single-line */
-{ display: block; height: 300px }
-
-/* multi-line */
-{
-    display: block;
-    height: 300px;
-}</code></pre>
-                        <p><small>Semicolons (<code>;</code>) are only required <em>between declarations</em>.</small></p>
+                        <h3>Example Block Elements</h3>
                     </section>
 
                     <section>
-                        <h3>Selectors</h3>
-                        <p>Pattern matching against document trees</p>
+                        <h3><code>&lt;div&gt;</code>, <code>&lt;article&gt;</code>, &amp; <code>&lt;section&gt;</code></h3>
                     </section>
 
                     <section>
-                        <h3>Selectors <small>(simple selectors)</small></h3>
-                        <p>Name a few?</p>
-                        <table class="fragment" style="font-size: 70%;">
-                            <thead>
-                                <tr>
-                                    <th>Basic simple selectors</th>
-                                    <th>Example</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td>Type selectors</td>
-                                    <td><code>section</code>, <code>p</code>, <code>span</code></td>
-                                </tr>
-                                <tr>
-                                    <td>Class selectors</td>
-                                    <td><code>.comment</code>, <code>.post</code></td>
-                                </tr>
-                                <tr>
-                                    <td>ID selectorss</td>
-                                    <td><code>#nav</code>, <code>#main</code></td>
-                                </tr>
-                                <tr>
-                                    <td>Universal selector</td>
-                                    <td><code>*</code></td>
-                                </tr>
-                                <tr>
-                                    <td>Attribute selectors</td>
-                                    <td><code>[title]</code>, <code>[rel~="copyright"]</code></td>
-                                </tr>
-                                <tr>
-                                    <td>Pseudo classes</td>
-                                    <td><code>:hover</code>, <code>:lang(zh)</code>, <code>:checked</code></td>
-                                </tr>
-                            </tbody>
-                        </table>
+                        <h3>Headings</h3>
+                        <figure>
+                          <pre><code class="html">&lt;h1&gt;Header 1&lt;/h1&gt;
+&lt;h2&gt;Header 2&lt;/h2&gt;
+  ...
+&lt;h6&gt;Header 6&lt;/h6&gt;
+</code></pre>
+                        </figure>
                     </section>
 
                     <section>
-                        <h3>Combinator Selectors</h3>
-                        <table style="font-size: 70%;">
-                            <thead>
-                                <tr>
-                                    <th>Combinators</th>
-                                    <th>Example</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Descendant_selectors" taret="_blank">Descendent combinator</a> (<code>␣</code>)</td>
-                                    <td><code>.post p</code></td>
-                                </tr>
-                                <tr>
-                                    <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Child_selectors" target="_blank">Child combinator</a> (<code>&gt;</code>)</td>
-                                    <td><code>ul > li</code></td>
-                                </tr>
-                                <tr>
-                                    <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Adjacent_sibling_selectors" target="_blank">Adjacent sibling combinator</a> (<code>+</code>)</td>
-                                    <td><code>h1 + h2</code>, <code>:checked + label</code></td>
-                                </tr>
-                                <tr>
-                                    <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/General_sibling_selectors" target="_blank">General sibling combinator</a> (<code>~</code>)</td>
-                                    <td><code>h1 ~ pre</code></td>
-                                </tr>
-                            </tbody>
-                        </table>
+                        <h3>Example Inline Elements</h3>
                     </section>
-
-                    <section>
-                        <h3>Pop Quiz!</h3>
-                        <p>Based on this <var>selector</var> <var>declaration block</var> rule set, tell me how the elements will be styled.</p>
-
-                        <a class="jsbin-embed" href="http://jsbin.com/fafeko/embed?html,css">JS Bin on jsbin.com</a><script src="http://static.jsbin.com/js/embed.min.js?3.35.0"></script>
-                    </section>
-
-                    <!-- <section>
-                        <h3>Pseudo-element Selectors</h3>
-                        <ul>
-                            <li><code>::first-line</code></li>
-                            <li><code>::first-letter</code></li>
-                            <li><code>::before</code></li>
-                            <li><code>::after</code></li>
-                        </ul>
-                    </section>
-
-                    <section>
-                        <h3>Pseudo-element Selectors</h3>
-                        <a class="jsbin-embed" href="http://jsbin.com/pajivu/embed?html,css,output">JS Bin on jsbin.com</a><script src="http://static.jsbin.com/js/embed.min.js?3.35.0"></script>
-                    </section>
-
-                    <section>
-                        <h4>Pseudo classes</h4>
-                        <p>How many pseudo classes do you know?</p>
-                        <table class="fragment" style="font-size: 70%;">
-                            <thead>
-                                <tr>
-                                    <th>Type</th>
-                                    <th>Example</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td>Linguistic</td>
-                                    <td><code>:dir()</code>, <code>:lang()</code></td>
-                                </tr>
-                                <tr>
-                                    <td>Location</td>
-                                    <td><code>:link</code>, <code>:visited</code>, <code>:target</code>, ...</td>
-                                </tr>
-                                <tr>
-                                    <td>User action</td>
-                                    <td><code>:hover</code>, <code>:focus</code>, ...</td>
-                                </tr>
-                                <tr>
-                                    <td>Input</td>
-                                    <td><code>:checked</code>, <code>:valid</code>, <code>:disabled</code>, ...</td>
-                                </tr>
-                                <tr>
-                                    <td>Tree-structural</td>
-                                    <td><code>:first-child</code>, <code>:nth-child()</code>, ...</td>
-                                </tr>
-                            </tbody>
-                        </table>
-                    </section>
-
-                    <section>
-                        <h3>:nth-child() <small>(pseudo-class)</small></h3>
-                        <a class="jsbin-embed" href="http://jsbin.com/qovare/embed?html,css,output">JS Bin on jsbin.com</a><script src="http://static.jsbin.com/js/embed.min.js?3.35.0"></script>
-                    </section> -->
 
                     <section>
                         <h3>Recap</h3>
-                        <figure>
-                            <style>
-                            #syntax-demo {
-                                width: 120%;
-                                height: 450px;
-                                margin: -0.5em;
-                                background-color: #272822;
-                                -webkit-transform: scale(0.9);
-                                        transform: scale(0.9);
-                            }
-                            </style>
-                            <iframe id="syntax-demo" src="http://apps.workflower.fi/vocabs/css/en" frameborder="0" style=""></iframe>
-                            <figcaption>via <a href="http://apps.workflower.fi/vocabs/">Vocabs</a></figcaption>
-                        </figure>
+
                     </section>
 
                 </section>
