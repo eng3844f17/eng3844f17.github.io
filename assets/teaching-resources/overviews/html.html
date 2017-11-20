@@ -75,7 +75,7 @@
                     <h1>
                       Writing <abbr title="HyperText Markup Language">HTML</abbr>
                     </h1>
-                    <small>Modified content from slideshow <a href="http://www.girldevelopit.com/materials" target="_blank">Girl Develop It</a> program.</small>
+                    <small>Some content modified from a <a href="http://www.girldevelopit.com/materials" target="_blank">Girl Develop It</a> slideshow.</small>
                 </section>
 
                 <section>
@@ -270,6 +270,9 @@
                             Differ from <code>inline</code> elements, since <code>block</code> elements have width <em>and height</em> properties that you can change.
                           </li>
                           <li class="fragment">
+                            <code>Inline</code> elements have a width, but is contingent on the size of the inline object itself.
+                          </li>
+                          <li class="fragment">
                             With CSS, you can control the spacing between block elements: borders, margins, padding, and background colors.
                           </li>
                           <li class="fragment">
@@ -279,7 +282,7 @@
                     </section>
 
                     <section>
-                        <h3><code>&lt;div&gt;</code>; <code>&lt;article&gt;</code>;  <code>&lt;section&gt;</code>; <code>&lt;h1&gt;</code>, <code>&lt;h2&gt;</code>, <code>&lt;h3&gt;</code> ...; <code>&lt;h3&gt;</code>, etc.</h3>
+                        <h3><code>&lt;div&gt;</code>; <code>&lt;article&gt;</code>;  <code>&lt;section&gt;</code>; <code>&lt;h1&gt;</code>, <code>&lt;h2&gt;</code>, <code>&lt;h3&gt;</code> ...; <code>&lt;p&gt;</code>, etc.</h3>
                     </section>
 
                     <section>
@@ -294,6 +297,9 @@
                           <li class="fragment">
                             Note: The <code>&lt;img&gt;</code> element is actually an inline-block element, so you can modify the dimensional and position properties.
                           </li>
+                          <li class="fragment">
+                            For more information, reference MDN's <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements" target="_blank">Inline Elements</a>
+                          </li>
                         </ul>
                     </section>
 
@@ -302,9 +308,6 @@
                         <ul>
                             <li><em>Block</em> Formatting Context (cf. Duckett, p. 361)</li>
                             <li><em>Inline</em> Formatting Context (cf. Duckett, p. 361)</li>
-                            <!-- <li class="fragment"><em>Flex</em> Formatting Context</li>
-                            <li class="fragment"><em>Grid</em> Formatting Context</li>
-                            <li class="fragment">Relative positioning</li> -->
                         </ul>
                     </section>
 
@@ -377,8 +380,6 @@
                         <figure>
                             <img class="transparent" src="img/box-model.png" alt="box model consists of content, padding, border and margin" style="height: 300px;">
                         </figure>
-                        <!-- <p class="fragment">Why <code>box-sizing</code>?</p>
-                        <p class="fragment"><small>What about <code>* { box-sizing: <a href="http://www.paulirish.com/2012/box-sizing-border-box-ftw/" target="_blank">border</a><a href="https://css-tricks.com/almanac/properties/b/box-sizing/" target="_blank">-</a><a href="https://css-tricks.com/international-box-sizing-awareness-day/" target="_blank">box</a> }</code>?</small></p> -->
                     </section>
 
                     <!-- <section>
@@ -392,7 +393,7 @@
                     <h2><code>/* break */</code></h2>
                 </section>
 
-                <!-- CASCADING AND INHERITANCE -->
+                <!-- HTML WRITING SECTION -->
                 <section>
 
                     <section>
@@ -470,7 +471,8 @@
     &lt;section id="personal-digital"&gt;
       &lt;h1&gt;Personal Digital Data&lt;/h1&gt;
       &lt;p&gt;
-        Here is a placeholder paragraph, and I should <strong>&lt;em&gt;emphasize something&lt;/em&gt;</strong>.
+        Here is a placeholder paragraph, and I should <strong>&lt;em&gt;emphasize
+        something&lt;/em&gt;</strong>.
       &lt;/p&gt;
     &lt;/section&gt;
     &lt;section id="social-digital"&gt;
@@ -508,7 +510,8 @@
     &lt;section id="personal-digital"&gt;
       &lt;h1&gt;Personal Digital Data&lt;/h1&gt;
       &lt;p&gt;
-        Here is a placeholder paragraph, and I should <strong>&lt;em&gt;emphasize something&lt;/em&gt;</strong>.
+        Here is a placeholder paragraph, and I should <strong>&lt;em&gt;emphasize
+        something&lt;/em&gt;</strong>.
       &lt;/p&gt;
     &lt;/section&gt;
     &lt;section id="social-digital"&gt;
@@ -548,6 +551,7 @@
   &lt;article id="datastory"&gt;
     &lt;section id="personal-digital"&gt;
       &lt;h1&gt;Personal Digital Data&lt;/h1&gt;
+      &lt;!-- What kind of element is an img: block or inline? --&gt;
       &lt;img src="http://via.placeholder.com/350x150" alt="A placeholder image." /&gt;
       &lt;p&gt;
         Here is a placeholder paragraph, and I should <strong>&lt;em&gt;emphasize&lt;/em&gt;</strong>.

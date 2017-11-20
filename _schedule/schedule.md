@@ -266,13 +266,13 @@ schedule:
       wed:
         - date: 2017-11-29
           desc: 'Mobile-First Design'
-          readings: [ 'TBA' ]
-          assign: [ 'TBA' ]
+          readings: [ 'Gremillion, B. (n/a). <a href="https://www.uxpin.com/studio/blog/a-hands-on-guide-to-mobile-first-design/" target="_blank">A Hands-On Guide to Mobile-First Responsive Design</a>. <cite>UX Pin</cite> [Company Blog].' ]
+          assign: [ 'Based on the ideas that you have developed so far, write out an outline of your data-story. Follow some basic story features that develop your work thus far: Intro; Body: Personal practice &amp; Social practices; Conclusion: What now?', 'Come to class prepared to discuss mobile-first design principles. We will start designing your sites in class.' ]
       fri:
         - date: 2017-12-01
           desc: 'Introduce CSS3 Grid'
           readings: [ 'TBA' ]
-          assign: [ 'TBA' ]
+          assign: [ 'Finish a draft mobile-first design. Note: Be prepared to revise it after the lecture on CSS.' ]
     - num: 15
       wkh: 'Building on HTML5 &amp; CSS3 Basics'
       mon:
