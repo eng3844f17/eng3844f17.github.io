@@ -4,7 +4,7 @@
     <head>
         <meta charset="utf-8">
 
-        <title>Writing CSS Lesson</title>
+        <title>ENGL 3844: Writing CSS Lesson</title>
         <!-- =============================================
             Adapted and modified content from GU Yiling:
             http://justineo.github.io/slideshows/writing-css/
@@ -92,6 +92,7 @@
                     </style>
                     <ul id="overview-list">
                         <li><span class="fa fa-check"></span> General knowledge</li>
+                        <li><span class="fa fa-check"></span> Including CSS Files</li>
                         <li><span class="fa fa-check"></span> Syntax</li>
                         <li><span class="fa fa-check"></span> Cascading</li>
                         <li><span class="fa fa-check"></span> Values &amp; units</li>
@@ -107,7 +108,7 @@
                     </section>
 
                     <section>
-                        <h3>History</h3>
+                        <h3>(Hella) Abridged Specification History</h3>
                         <ul>
                             <li class="fragment">
                                 <h4>CSS 1 <small>(1996)</small></h4>
@@ -118,161 +119,146 @@
                                 <p>position, z-index, media, text-shadow, ...</p>
                             </li>
                             <li class="fragment">
-                                <h4>CSS 2.1 <small>(2011)</small></h4>
-                                <p><a href="http://www.w3.org/TR/CSS21/about.html#css2.1-v-css2">CSS 2.1 vs CSS 2</a></p>
+                                <h4>CSS 2.2 <small>(2016)</small></h4>
+                                <p><a href="https://www.w3.org/TR/CSS22/">CSS 2.2</a></p>
+                            </li>
+                            <li class="fragment">
+                                <h4>CSS 3 <small>(Now)</small></h4>
+                                <p>Grid template layout, extended and basic box model revisions, aural style sheets (#a11y), and numerous changes to other HTML models (lists, links, @media queries, ...), etc. </p>
                             </li>
                         </ul>
                     </section>
 
                     <section>
-                        <h3><a href="http://www.w3.org/TR/2001/WD-css3-roadmap-20010523/" target="_blank">
-                              CSS3
-                            </a>
+                        <h3>
+                              Standards &amp; <a href="https://en.wikipedia.org/wiki/Backward_compatibility" target="_blank"><em>backward compatibility</em></a>
                         </h3>
                     </section>
 
                     <section>
                         <h3>
-                          <a href="http://www.w3.org/TR/2001/WD-css3-roadmap-20010523/#modlist" target="_blank">CSS Modules</a> <small>(incomplete)</small>
+                          Recently <em>Completed</em> CSS Working Group Standards Work
                         </h3>
-                        <table style="font-size: 55%;">
-                            <thead>
-                                <tr>
-                                    <th>Module</th>
-                                    <th>Latest Level (2014/05)</th>
-                                    <th>Example</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr>
-                                    <td>Text</td>
-                                    <td>3</td>
-                                    <td>text-justify, word-break</td>
-                                </tr>
-                                <tr>
-                                    <td>Text Decoration</td>
-                                    <td>3</td>
-                                    <td>text-shadow, text-emphasis</td>
-                                </tr>
-                                <tr>
-                                    <td>Flexible Box</td>
-                                    <td>1</td>
-                                    <td>flex, justify-content</td>
-                                </tr>
-                                <tr>
-                                    <td>Color</td>
-                                    <td>4</td>
-                                    <td>hwb(), color()</td>
-                                </tr>
-                                <tr>
-                                    <td>Animations</td>
-                                    <td>1</td>
-                                    <td>animation, @keyframes</td>
-                                </tr>
-                                <tr>
-                                    <td>Transforms</td>
-                                    <td>1</td>
-                                    <td>transform, perspective</td>
-                                </tr>
-                                <tr>
-                                    <td>Transitions</td>
-                                    <td>1</td>
-                                    <td>transition, timing functions</td>
-                                </tr>
-                                <tr>
-                                    <td>Cascading Variables</td>
-                                    <td>1</td>
-                                    <td>--foo, var()</td>
-                                </tr>
-                            </tbody>
-                        </table>
-                        <p class="fragment"><a href="http://www.w3.org/Style/CSS/current-work#roadmap">More...</a></p>
+                        <img src="img/csswg-completed-table.png" alt="CSSWG table of completed work." />
+                        <p><a href="http://www.w3.org/Style/CSS/current-work#roadmap">More...</a></p>
                     </section>
 
                     <section>
-                        <h3>Including CSS into HTML</h3>
-                        <p>How?</p>
+                        <h3>
+                          Recently <em>Stablized</em> CSS Working Group Standards Work
+                        </h3>
+                        <img src="img/csswg-stable-table.png" alt="CSSWG table of completed work." />
+                        <p><a href="http://www.w3.org/Style/CSS/current-work#roadmap">More...</a></p>
                     </section>
 
                     <section>
-                        <h4>1. <code>&lt;link&gt;</code> element</h4>
-                        <figure>
-                            <pre><code class="html">&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-    &lt;meta charset="utf-8" /&gt;
-    &lt;title&gt;Hello World&lt;/title&gt;
-
-    &lt;link rel="stylesheet" type="text/css" href="style.css" /&gt;
-
-&lt;/head&gt;
-&lt;body&gt;
-...
-</code></pre>
-                        </figure>
-                    </section>
-
-                    <section>
-                        <h4>2. <code>&lt;style&gt;</code> element</h4>
-                        <figure>
-                            <pre><code class="html">&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-    &lt;meta charset="utf-8" /&gt;
-    &lt;title&gt;Hello World&lt;/title&gt;
-    &lt;style type="text/css"&gt;
-        /* ... */
-    &lt;/style&gt;
-&lt;/head&gt;
-&lt;body&gt;
-...
-</code></pre>
-                        </figure>
-                    </section>
-
-                    <section>
-                        <h4>3. Inline styles</h4>
-                        <figure>
-                            <pre><code class="html">&lt;body&gt;
-    &lt;h1 style="color: red;"&gt;
-        Hello World
-    &lt;/h1&gt;
-    &lt;p style="margin: 2em 0;"&gt;
-        Paragraph here
-    &lt;/p&gt;
-&lt;/body&gt;
-</code></pre>
-                        </figure>
-                    </section>
-
-                    <section>
-                        <h4>4. <code>@import</code> rules</h4>
-                        <figure>
-                            <pre><code class="css">@import url(normalize.css);
-@import url(layout.css);
-@import url(typography.css);
-
-nav {
-    position: fixed;
-    top: 0;
-    left: 0;
-    height: 3em;
-}
-</code></pre>
-                        </figure>
-                        <p>Performs <em>worse</em> than the <code>&lt;link&gt;</code> way!<br><small>See <cite><a href="http://www.stevesouders.com/blog/2009/04/09/dont-use-import/">don’t use @import</a></cite>.</small></p>
+                        <h3>
+                          Recent <em>Testing-Phase</em> CSS Working Group Standards Work
+                        </h3>
+                        <img src="img/csswg-testing-table.png" alt="CSSWG table of completed work." />
+                        <p><a href="http://www.w3.org/Style/CSS/current-work#roadmap">More...</a></p>
                     </section>
 
                     <section>
                         <h3>Recap</h3>
                         <ul>
                             <li class="fragment"><em><b>C</b>ascading</em> <b>S</b>tyle <b>S</b>heets</li>
-                            <li class="fragment">CSS 1, CSS 2, CSS 2.1<span class="fragment">, CSS 3</span><span class="fragment"></span></li>
-                            <li class="fragment">CSS Modules + Level</li>
-                            <li class="fragment">4 ways to use CSS in HTML</li>
+                            <li class="fragment">Akin to any web technology, people are constantly revising it through the CSSWG standards body: CSS 1, CSS 2, CSS 2.1, CSS 3</li>
                         </ul>
                     </section>
 
+                </section>
+
+                <section>
+                    <h2><code>/* break */</code></h2>
+                </section>
+
+                <section>
+                  <section>
+                      <h3>Including CSS into HTML</h3>
+                      <p>How?</p>
+                  </section>
+
+                  <section>
+                      <h4>1. <code>&lt;link&gt;</code> element</h4>
+                      <figure>
+                          <pre><code class="html">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+  &lt;meta charset="utf-8" /&gt;
+  &lt;title&gt;Hello World&lt;/title&gt;
+
+  &lt;link rel="stylesheet" type="text/css" href="style.css" /&gt;
+
+&lt;/head&gt;
+&lt;body&gt;
+...
+</code></pre>
+                      </figure>
+                      <p>
+                        <strong>USE</strong> this method.
+                      </p>
+                  </section>
+
+                  <section>
+                      <h4>2. <code>&lt;style&gt;</code> element</h4>
+                      <figure>
+                          <pre><code class="html">&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+  &lt;meta charset="utf-8" /&gt;
+  &lt;title&gt;Hello World&lt;/title&gt;
+  &lt;style type="text/css"&gt;
+      /* ... */
+  &lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+...
+</code></pre>
+                      </figure>
+                      <p>
+                        <strong>DO NOT</strong> use this method.
+                      </p>
+                  </section>
+
+                  <section>
+                      <h4>3. Inline styles</h4>
+                      <figure>
+                          <pre><code class="html">&lt;body&gt;
+  &lt;h1 style="color: red;"&gt;
+      Hello World
+  &lt;/h1&gt;
+  &lt;p style="margin: 2em 0;"&gt;
+      Paragraph here
+  &lt;/p&gt;
+&lt;/body&gt;
+</code></pre>
+                      </figure>
+                      <p>
+                        <strong>DO NOT</strong> use this method.
+                      </p>
+                  </section>
+
+                  <section>
+                      <h4>4. <code>@import</code> rules</h4>
+                      <figure>
+                          <pre><code class="css">@import url(normalize.css);
+@import url(layout.css);
+@import url(typography.css);
+
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 3em;
+}
+</code></pre>
+                      </figure>
+                      <p>
+                        <strong>DO NOT</strong> use this method.
+                      </p>
+                      <p>Performs <em>worse</em> than the <code>&lt;link&gt;</code>!<br><small>See <cite><a href="http://www.stevesouders.com/blog/2009/04/09/dont-use-import/">don’t use @import</a></cite>.</small></p>
+                  </section>
                 </section>
 
                 <section>
@@ -310,39 +296,41 @@ nav {
                     </section>
 
                     <section>
-                        <h3>Selectors <small>(simple selectors)</small></h3>
-                        <p>Name a few?</p>
-                        <table class="fragment" style="font-size: 70%;">
+                        <h3>Types of Selectors</h3>
+                        <p>
+                          Selectors help you point to (select) <b>specific</b> HTML elements.
+                        </p>
+                        <table style="font-size: 70%;">
                             <thead>
                                 <tr>
                                     <th>Basic simple selectors</th>
-                                    <th>Example</th>
+                                    <th>Examples</th>
                                 </tr>
                             </thead>
                             <tbody>
                                 <tr>
                                     <td>Type selectors</td>
-                                    <td><code>section</code>, <code>p</code>, <code>span</code></td>
+                                    <td>HTML tags: <code>nav</code>, <code>section</code>, <code>header</code>, <code>p</code></td>
                                 </tr>
                                 <tr>
                                     <td>Class selectors</td>
-                                    <td><code>.comment</code>, <code>.post</code></td>
+                                    <td>HTML classes that uses dot scheme in CSS: <code>.ds-body-img</code></td>
                                 </tr>
                                 <tr>
-                                    <td>ID selectorss</td>
-                                    <td><code>#nav</code>, <code>#main</code></td>
+                                    <td>ID selectors</td>
+                                    <td>HTML classes that uses dot scheme in CSS: <code>#data-story-personal</code></td>
                                 </tr>
                                 <tr>
                                     <td>Universal selector</td>
-                                    <td><code>*</code></td>
+                                    <td>Selects all-the-HTML-things: <code>*</code></td>
                                 </tr>
                                 <tr>
                                     <td>Attribute selectors</td>
-                                    <td><code>[title]</code>, <code>[rel~="copyright"]</code></td>
+                                    <td>Selects HTML tag attributes: <code>[title]</code>, <code>[rel~="copyright"]</code></td>
                                 </tr>
                                 <tr>
                                     <td>Pseudo classes</td>
-                                    <td><code>:hover</code>, <code>:lang(zh)</code>, <code>:checked</code></td>
+                                    <td>Adds a CSS-defined class to an HTML element: <code>:hover</code></td>
                                 </tr>
                             </tbody>
                         </table>
@@ -360,19 +348,19 @@ nav {
                             <tbody>
                                 <tr>
                                     <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Descendant_selectors" taret="_blank">Descendent combinator</a> (<code>␣</code>)</td>
-                                    <td><code>.post p</code></td>
+                                    <td><code>.data-story-personal p {...}</code></td>
                                 </tr>
                                 <tr>
                                     <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Child_selectors" target="_blank">Child combinator</a> (<code>&gt;</code>)</td>
-                                    <td><code>ul > li</code></td>
+                                    <td><code>ul#resources > li {...}</code></td>
                                 </tr>
                                 <tr>
                                     <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Adjacent_sibling_selectors" target="_blank">Adjacent sibling combinator</a> (<code>+</code>)</td>
-                                    <td><code>h1 + h2</code>, <code>:checked + label</code></td>
+                                    <td><code>h1 + h2 {...}</code></td>
                                 </tr>
                                 <tr>
                                     <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/General_sibling_selectors" target="_blank">General sibling combinator</a> (<code>~</code>)</td>
-                                    <td><code>h1 ~ pre</code></td>
+                                    <td><code>img ~ p {...}</code></td>
                                 </tr>
                             </tbody>
                         </table>
