@@ -373,7 +373,7 @@ nav {
                         <a class="jsbin-embed" href="http://jsbin.com/fafeko/embed?html,css">JS Bin on jsbin.com</a><script src="http://static.jsbin.com/js/embed.min.js?3.35.0"></script>
                     </section>
 
-                    <!-- <section>
+                    <section>
                         <h3>Pseudo-element Selectors</h3>
                         <ul>
                             <li><code>::first-line</code></li>
@@ -388,7 +388,7 @@ nav {
                         <a class="jsbin-embed" href="http://jsbin.com/pajivu/embed?html,css,output">JS Bin on jsbin.com</a><script src="http://static.jsbin.com/js/embed.min.js?3.35.0"></script>
                     </section>
 
-                    <section>
+                    <!-- <section>
                         <h4>Pseudo classes</h4>
                         <p>How many pseudo classes do you know?</p>
                         <table class="fragment" style="font-size: 70%;">
@@ -575,7 +575,99 @@ nav {
                 <section>
 
                     <section>
-                        <h2>Layout Basics</h2>
+                        <h2>Values and Units</h2>
+                        <ul>
+                          <li class="fragment"><code>15px</code></li>
+                          <li class="fragment"><code>1.25em</code></li>
+                          <li class="fragment"><code>rebeccapurple == #663399</code></li>
+                          <li class="fragment"><code>url(logo.png)</code></li>
+                          <li class="fragment">...</li>
+                        </ul>
+                    </section>
+
+                    <section>
+                        <h3>Numerical Values</h3>
+                        <ul>
+                            <li class="fragment">Integers: <span class="type">integer</span><br><small class="fragment"><code>z-index: 1; order: 3;</code></small></li>
+                            <li class="fragment">Numbers: <span class="type">number</span><br><small class="fragment"><code>line-height: 1.5; flex: 0.618;</code></small></li>
+                            <li class="fragment">Percentages: <span class="type">percentage</span><br><small class="fragment"><code>width: 80%; font-size: 120%;</code></small></li>
+                        </ul>
+                    </section>
+
+                    <section>
+                        <h3>Color Values</h3>
+                        <ul>
+                            <li class="fragment">Keywords<br><small><code style="color: lightgreen;">lightgreen</code>, <code style="color: gold">gold</code>, <code>currentColor</code>, etc.</small></li>
+                            <li class="fragment">Hexadecimal notation<br><small><code style="color: #69c;">#69c</code>, <code style="color: #abcdef;">#abcdef</code>, ...</small></li>
+                            <li class="fragment">Functional notation<br><small><code style="color: rgb(200, 150, 100);">rgb(200, 150, 100)</code>, <code style="color: hsla(120, 100%, 50%, 0.5);">hsla(120, 100%, 50%, 0.5)</code>, ...</small></li>
+                        </ul>
+                        <p class="fragment"><small>See more in <a href="http://dev.w3.org/csswg/css-color/">CSS Color Module Level 4</a>.</small></p>
+                    </section>
+
+                    <section>
+                        <h3>
+                          Font-Relative Length Values
+                        </h3>
+                        <ul>
+                          <li class="fragment">
+                            Most commonly used: <code>em</code> &amp; <code>rem</code>
+                          </li>
+                          <li class="fragment">
+                            Numerous others for another day: <code>vw</code>, <code>vh</code> <code>ex</code>, <code>ch</code>, etc.
+                          </li>
+                          <li class="fragment">
+                            Essentially, these values are computed values relative to another value declared elsewhere.
+                          </li>
+                          <li class="fragment">
+                            Learn more about <a href="https://drafts.csswg.org/css-values/#font-relative-lengths" target="_blank">Font-Relative Lengths</a>.
+                          </li>
+                        </ul>
+                    </section>
+
+                    <section>
+                        <h4><a href="https://drafts.csswg.org/css-values/#absolute-lengths" target="_blank">Absolute lengths</a></h4>
+                        <p><code>px</code>, <code>pt</code>, <code>in</code>, <code>cm</code>, <code>mm</code>, ...</p>
+                        <p class="fragment"><a href="https://hacks.mozilla.org/2013/09/css-length-explained/" target="_blank">Physical or pixel</a>?</p>
+                        <figure class="fragment">
+                            <img src="img/pixel.png" alt="Pixels must become larger if the viewing distance increases.">
+                        </figure>
+                    </section>
+
+                    <section>
+                        <h3>String Values</h3>
+                        <figure>
+                          <p data-height="265" data-theme-id="0" data-slug-hash="yPqPGB" data-default-tab="html,result" data-user="lndgrn" data-embed-version="2" data-pen-title="Using string values for CSS selection and content declaration" class="codepen">See the Pen <a href="https://codepen.io/lndgrn/pen/yPqPGB/">Using string values for CSS selection and content declaration</a> by Chris Lindgren (<a href="https://codepen.io/lndgrn">@lndgrn</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+                        </figure>
+                    </section>
+
+                    <section>
+                        <h3>Resource Locators: <span class="type">url</span></h3>
+                        <pre><code class="css">body {
+    background: url(assets/img/starrynight.png);
+}
+</code></pre>
+                    </section>
+
+                    <section>
+                        <h3>Recap</h3>
+                        <ul>
+                            <li>Data types: <span class="type">numbers</span>, <span class="type">integers</span>, <span class="type">lengths</span>, <span class="type">colors</span>, ...</li>
+                            <li>Length: relative vs. absolute</li>
+                            <li>Color: keywords, hex, rgb(a), hsl(a), ...</li>
+                        </ul>
+                    </section>
+
+                </section>
+
+                <section>
+                  <code>/* break */</code>
+                </section>
+
+                <section>
+
+                    <section>
+                        <h2>Positioning Basics</h2>
                     </section>
 
                     <section>
@@ -583,9 +675,6 @@ nav {
                         <ul>
                             <li><em>Block</em> Formatting Context (cf. Duckett, p. 361)</li>
                             <li><em>Inline</em> Formatting Context (cf. Duckett, p. 361)</li>
-                            <!-- <li class="fragment"><em>Flex</em> Formatting Context</li>
-                            <li class="fragment"><em>Grid</em> Formatting Context</li>
-                            <li class="fragment">Relative positioning</li> -->
                         </ul>
                     </section>
 
@@ -642,23 +731,13 @@ nav {
                         <figure>
                             <img class="transparent" src="img/box-model.png" alt="box model consists of content, padding, border and margin" style="height: 300px;">
                         </figure>
-                        <!-- <p class="fragment">Why <code>box-sizing</code>?</p>
-                        <p class="fragment"><small>What about <code>* { box-sizing: <a href="http://www.paulirish.com/2012/box-sizing-border-box-ftw/" target="_blank">border</a><a href="https://css-tricks.com/almanac/properties/b/box-sizing/" target="_blank">-</a><a href="https://css-tricks.com/international-box-sizing-awareness-day/" target="_blank">box</a> }</code>?</small></p> -->
                     </section>
 
-                    <!-- <section>
-                        <h4>GRIDS!</h4>
-
-                        <p data-height="350" data-theme-id="0" data-slug-hash="bVeoZx" data-default-tab="result" data-user="lndgrn" class='codepen'>See the Pen <a href='http://codepen.io/lndgrn/pen/bVeoZx/'>CSS Grid Layout Module: Defining a Grid</a> by Chris Lindgren (<a href='http://codepen.io/lndgrn'>@lndgrn</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
-
-                    </section> -->
-
-                    <!-- <section>
-                        <h3>Painting Order</h3>
-                        <figure class="fragment">
-                            <img class="transparent" src="img/order.png" alt="Painting order is background-color → background-image → border → children → outline." style="height: 400px;">
-                        </figure>
-                    </section> -->
+                    <section>
+                      <h3>Containing Blocks<br />&amp;<br />Initial Containing Blocks</h3>
+                      <p data-height="350" data-theme-id="0" data-slug-hash="yPqPyQ" data-default-tab="html,result" data-user="lndgrn" data-embed-version="2" data-pen-title="Intro Lesson for Initial Containing Block Relationships" class="codepen">See the Pen <a href="https://codepen.io/lndgrn/pen/yPqPyQ/">Intro Lesson for Initial Containing Block Relationships</a> by Chris Lindgren (<a href="https://codepen.io/lndgrn">@lndgrn</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+                    </section>
 
                     <section>
                         <h3>
@@ -669,20 +748,16 @@ nav {
                         <ul>
                             <li class="fragment">Normal flow</li>
                             <li class="fragment">Relative flow</li>
-                            <li class="fragment">Floats (cf. Duckett, p. 370)</li>
-                            <li class="fragment">Absolute positioning</li>
-                            <li class="fragment">Fixed positioning</li>
+                            <ul class="fragment">
+                              <li class="fragment">Float: <code>float: left;</code></li>
+                              <li class="fragment">Absolute positioning: <code>position: absolute;</code></li>
+                              <li class="fragment">Fixed positioning: <code>position: fixed;</code></li>
+                            </ul>
                         </ul>
-                        <p class="fragment">Declared with properties: <code>position</code> and <code>float</code></p>
                     </section>
 
-                    <!-- <section>
-                      <h3>Use case: Absolute positioning + Containing block</h3>
-                      <a class="jsbin-embed" href="http://jsbin.com/wolepo/embed?html,css,output">JS Bin on jsbin.com</a><script src="http://static.jsbin.com/js/embed.min.js?3.35.0"></script>
-                    </section> -->
-
                     <section>
-                        <h3>Position Example: Floats</h3>
+                        <h3>Float positioning</h3>
                         <style>
                         #float span {
                             opacity: 0.3;
@@ -694,26 +769,16 @@ nav {
                     </section>
 
                     <section>
-                        <h3><code>display</code> property</h3>
-
-                        <p>
-                            For more info, reference the MDN list of <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/display" target="_blank"><code>display</code> behaviors</a>. (cf. Duckett, p. 317)
-                        </p>
+                        <h3>Fixed vs. Absolute Positioning</h3>
+                        <ul>
+                          <li class="fragment">How to declare in CSS:
+                            <br />>> <code>position: fixed</code>
+                            <br />>> <code>position: absolute</code></li>
+                          <li class="fragment">Roughly main difference:
+                            <br />>> <code>fixed</code> positions an element based on the <strong>viewport</strong>.
+                            <br />>> <code>absolute</code> positions an element based on the closest parent <strong>containing block</strong>.</li>
+                        </ul>
                     </section>
-
-                    <!-- <section>
-                        <h3>Clear fix solution for containing block behavior</h3>
-
-                        <p data-height="268" data-theme-id="0" data-slug-hash="meRVwG" data-default-tab="result" data-user="lndgrn" class='codepen'>See the Pen <a href='http://codepen.io/lndgrn/pen/meRVwG/'>Clearfix Example</a> by Chris Lindgren (<a href='http://codepen.io/lndgrn'>@lndgrn</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
-
-                    </section> -->
-
-                    <!-- <section>
-                        <h3>Absolute Positioning</h3>
-                        <p><code>position: absolute/fixed</code></p>
-                        <p class="fragment">Finding the <strong>containing block</strong></p>
-                        <p class="fragment"><small>(See detail <a href="http://www.w3.org/TR/CSS21/visudet.html#containing-block-details">here</a>.)</small></p>
-                    </section> -->
 
                     <!-- <section>
                         <h4><code>position: absolute</code></h4>
@@ -722,178 +787,50 @@ nav {
                         </ul>
                         <figure class="fragment" style="margin-top: 0;">
                             <img src="img/icb.png" alt="Initial containing block starts from the origin of the canvas and has the same size of the viewport." style="height: 380px;">
-                            <figcaption>no such parent → initial containing block</figcaption>
                         </figure>
                     </section> -->
 
-                    <!-- <section>
-                        <h5>Initial containing block</h5>
-                        <div data-height="360" data-theme-id="0" data-slug-hash="dooBPz" data-default-tab="css" data-user="Justineo" class='codepen'><pre><code>body {
-  width: 120%;
-  background-color: khaki;
-}
+                    <section>
+                        <h3>Example: <code>fixed</code> &amp; <code>absolute</code></h3>
 
-.box {
-  position: absolute;
-  bottom: 10px;
-  right: 10px;
-  width: 64px;
-  height: 64px;
-  background-color: lightgreen;
-}
-</code></pre>
-                        <p>See the Pen <a href='http://codepen.io/Justineo/pen/dooBPz/'>dooBPz</a> by GU Yiling (<a href='http://codepen.io/Justineo'>@Justineo</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
-                    </section> -->
+                        <figure>
+                          <p data-height="265" data-theme-id="0" data-slug-hash="xPJpPp" data-default-tab="css,result" data-user="lndgrn" data-embed-version="2" data-pen-title="Simple display fixed and absolute example" class="codepen">See the Pen <a href="https://codepen.io/lndgrn/pen/xPJpPp/">Simple display fixed and absolute example</a> by Chris Lindgren (<a href="https://codepen.io/lndgrn">@lndgrn</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+                        </figure>
 
-                    <!-- <section>
-                        <h4><code>position: fixed</code></h4>
-                        <ul>
-                            <li class="fragment">The viewport</li>
-                            <li class="fragment">Closest parent with <code>transform</code> other than <code>none</code></li>
-                        </ul>
-                    </section> -->
-
-                    <!-- <section>
-                        <h5><code>position: fixed</code> &amp; <code>transform</code></h5>
-                        <div data-height="360" data-theme-id="0" data-slug-hash="yNNdNB" data-default-tab="css" data-user="Justineo" class='codepen'><pre><code>.out {
-  margin: 64px;
-  width: 256px;
-  height: 256px;
-  background-color: khaki;
-  transform: scale(1);
-}
-
-.in {
-  position: fixed;
-  top: 10px;
-  left: 10px;
-  width: 64px;
-  height: 64px;
-  background-color: lightgreen;
-}</code></pre>
-                        <p>See the Pen <a href='http://codepen.io/Justineo/pen/yNNdNB/'>yNNdNB</a> by GU Yiling (<a href='http://codepen.io/Justineo'>@Justineo</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
-                    </section> -->
+                    </section>
 
                     <section>
                         <h3>Recap</h3>
                         <ul>
-                            <li class="fragment">The canvas &amp; the viewport</li>
                             <li class="fragment">Box model</li>
-                            <li class="fragment">3 position schemes:<br>normal flow / floats / absolute positioning</li>
+                            <li class="fragment">4 position schemes:<br>normal flow, float, absolute, and fixed</li>
                         </ul>
                     </section>
+
+                    <!-- <section>
+                        <h3><code>display</code> property</h3>
+
+                        <p>
+                            For more info, reference the MDN list of <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/display" target="_blank"><code>display</code> behaviors</a>. (cf. Duckett, p. 317)
+                        </p>
+                    </section> -->
 
                 </section>
 
-                <!-- <section>
-
-                    <section>
-                        <h2>Values and Units</h2>
-                        <ul class="fragment">
-                            <li><code>1.2rem</code></li>
-                            <li><code>60deg</code></li>
-                            <li><code>rebeccapurple</code></li>
-                            <li><code>1000ms</code></li>
-                            <li><code>url(logo.png)</code></li>
-                            <li>...</li>
-                        </ul>
-                    </section>
-
-                    <section>
-                        <h3>Quoted Strings: <span class="type">string</span></h3>
-                        <pre><code class="css">a[rel~="next"]::after {
-    content: "→";
-}
-</code></pre>
-                    </section>
-
-                    <section>
-                        <h3>Resource Locators: <span class="type">url</span></h3>
-                        <pre><code class="css">body {
-    background: url(starrynight.png);
-}
-</code></pre>
-                    </section>
-
-                    <section>
-                        <h3>Numeric Data</h3>
-                        <ul>
-                            <li class="fragment">Integers: <span class="type">integer</span><br><small class="fragment"><code>z-index: 1; order: 3;</code></small></li>
-                            <li class="fragment">Numbers: <span class="type">number</span><br><small class="fragment"><code>line-height: 1.5; flex: 0.618;</code></small></li>
-                            <li class="fragment">Percentages: <span class="type">percentage</span><br><small class="fragment"><code>width: 80%; font-size: 120%;</code></small></li>
-                        </ul>
-                    </section>
-
-                    <section>
-                        <h3>Distance Units: <span class="type">length</span></h3>
-                        <ul class="fragment">
-                            <li>Relative</li>
-                            <li>Absolute</li>
-                        </ul>
-                        <p class="fragment"><code>0px</code> → <code>0</code></p>
-                        <p class="fragment"><strong><span class="type">length</span> only!</strong></p>
-                    </section>
-
-                    <section>
-                        <h4><a href="https://drafts.csswg.org/css-values/#font-relative-lengths" target="_blank">Relative lengths</a></h4>
-                        <p class="fragment"><code>em</code>, <code>ex</code>, <code>ch</code>, <code>rem</code>, <code>vw</code>, <code>vh</code>, ...</p>
-                        <figure class="fragment">
-                            <img class="transparent" src="img/ex-ch.png" alt="ex is the x-height, ch is the width of character &quot;0&quot;" style="height: 360px;">
-                            <figcaption><code>ex</code> and <code>ch</code></figcaption>
-                        </figure>
-                    </section>
-
-                    <section>
-                        <h4><a href="https://drafts.csswg.org/css-values/#absolute-lengths" target="_blank">Absolute lengths</a></h4>
-                        <p><code>px</code>, <code>pt</code>, <code>in</code>, <code>cm</code>, <code>mm</code>, ...</p>
-                        <p class="fragment"><a href="https://hacks.mozilla.org/2013/09/css-length-explained/" target="_blank">Physical or pixel</a>?</p>
-                        <figure class="fragment">
-                            <img src="img/pixel.png" alt="Pixels must become larger if the viewing distance increases.">
-                        </figure>
-                    </section>
-
-                    <section>
-                        <h4>Colors: <span class="type">color</span></h4>
-                        <ul>
-                            <li class="fragment">Keywords<br><small><code style="color: lightgreen;">lightgreen</code>, <code style="color: gold">gold</code>, <code>currentColor</code>, <code style="color: transparent;">transparent</code> <sup>← transparent</sup>, ...</small></li>
-                            <li class="fragment">Hexadecimal notation<br><small><code style="color: #69c;">#69c</code>, <code style="color: #abcdef;">#abcdef</code>, ...</small></li>
-                            <li class="fragment">Functional notation<br><small><code style="color: rgb(200, 150, 100);">rgb(200, 150, 100)</code>, <code style="color: hsla(120, 100%, 50%, 0.5);">hsla(120, 100%, 50%, 0.5)</code>, ...</small></li>
-                        </ul>
-                        <p class="fragment"><small>See more in <a href="http://dev.w3.org/csswg/css-color/">CSS Color Module Level 4</a>.</small></p>
-                    </section>
-
-                    <section>
-                        <h3>Other Units</h3>
-                        <p><span class="type">angle</span>, <span class="type">time</span>, <span class="type">image</span>, ...</p>
-                        <pre class="fragment"><code class="css">.box {
-    transform: rotate(30deg);
-    transition-duration: 2s;
-    background: linear-gradient(to top, red 0%, blue 100%);
-}
-</code></pre>
-                    </section>
-
-                    <section>
-                        <h3>Recap</h3>
-                        <ul>
-                            <li>Data types: <span class="type">number</span>, <span class="type">integer</span>, <span class="type">length</span>, <span class="type">color</span>, ...</li>
-                            <li>Length: relative vs. “absolute”</li>
-                            <li>Color: keywords, hex, rgb(a), hsl(a), ...</li>
-                        </ul>
-                        <p class="fragment"><small>Dimension units after zero values are optional for <em><span class="type">length</span> only</em>!</small></p>
-                    </section>
-
-                </section> -->
-
                 <section>
+
+                  <section>
                     <h2>Summary</h2>
                     <ul>
                         <li>History</li>
                         <li>Syntax</li>
                         <li>Cascading</li>
-                        <!-- <li>Values &amp; units</li> -->
+                        <li>Values &amp; units</li>
                         <li>Layout basics</li>
                     </ul>
+                  </section>
+
                 </section>
 
                 <!-- <section>
