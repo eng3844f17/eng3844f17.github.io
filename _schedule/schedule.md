@@ -265,26 +265,26 @@ schedule:
           assign: [ 'Be sure that your laptop is ready for some coding work during class. We will cover basic HTML5 elements' ]
       wed:
         - date: 2017-11-29
-          desc: 'Mobile-First Design'
-          readings: [ 'Gremillion, B. (n/a). <a href="https://www.uxpin.com/studio/blog/a-hands-on-guide-to-mobile-first-design/" target="_blank">A Hands-On Guide to Mobile-First Responsive Design</a>. <cite>UX Pin</cite> [Company Blog].' ]
-          assign: [ 'Based on the ideas that you have developed so far, write out an outline of your data-story. Follow some basic story features that develop your work thus far: Intro; Body: Personal practice &amp; Social practices; Conclusion: What now?', 'Come to class prepared to discuss mobile-first design principles. We will start designing your sites in class.' ]
+          desc: 'Fundamentals of CSS'
+          readings: [ 'Duckett, J. (2011). HTML &amp; CSS. Wiley, pp. 227-44. (<a href="https://drive.google.com/a/vt.edu/file/d/1lLRUT0P6rd9sKF5668w1Rpkuwjqs78Ch/view?usp=sharing" target="_blank">Google Drive Link</a>)' ]
+          assign: [ 'Fork, review, and play around the following Codepens: HTML: <a href="https://codepen.io/lndgrn/pen/oowvmj" target="_blank">Basic Website Architecture</a>, <a href="https://codepen.io/lndgrn/pen/PmMPog" target="_blank">Basic HTML Anatomy</a>, <a href="https://codepen.io/lndgrn/pen/zdymKE" target="_blank">Block and Inline Elements</a>', 'Fork and write a basic website from scratch with this Codepen: <a href="https://codepen.io/lndgrn/pen/dZzVGQ" target="_blank">Introduction to HTML</a>' ]
       fri:
         - date: 2017-12-01
           desc: 'Introduce CSS3 Grid'
           readings: [ 'TBA' ]
-          assign: [ 'Finish a draft mobile-first design. Note: Be prepared to revise it after the lecture on CSS.' ]
+          assign: [ 'TBA' ]
     - num: 15
       wkh: 'Building on HTML5 &amp; CSS3 Basics'
       mon:
         - date: 2017-12-04
-          desc: 'Continued CSS3 Grid work + As-needed HTML/CSS Labs'
-          readings: [ 'TBA' ]
-          assign: [ 'TBA' ]
+          desc: 'Mobile-First Design'
+          readings: [ 'Gremillion, B. (n/a). <a href="https://www.uxpin.com/studio/blog/a-hands-on-guide-to-mobile-first-design/" target="_blank">A Hands-On Guide to Mobile-First Responsive Design</a>. <cite>UX Pin</cite> [Company Blog].' ]
+          assign: [ 'Based on the ideas that you have developed so far, write out an outline of your data-story. Follow some basic story features that develop your work thus far: Intro; Body: Personal practice &amp; Social practices; Conclusion: What now?', 'Come to class prepared to discuss mobile-first design principles. We will start designing your sites in class.' ]
       wed:
         - date: 2017-12-06
-          desc: 'Studio Work'
+          desc: 'Continued Design &amp; Writing Work + As-needed HTML/CSS Labs'
           readings: [ 'TBA' ]
-          assign: [ 'TBA' ]
+          assign: [ 'Finish a draft mobile-first design, using the provided grid paper.' ]
       fri:
         - date: 2017-12-08
           desc: 'Studio Work'
