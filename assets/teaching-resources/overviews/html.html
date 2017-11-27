@@ -152,22 +152,22 @@
                         </h3>
                         <ul>
                           <li>
-                            Each tag has a "start tag", "end tag", some content in between, and optional attributes.
+                            Each tag has a "start tag" <code><tag></code>, an "end tag" <code></tag></code>, some content in between them, and multiple types of attributes.
                           </li>
                         </ul>
 <pre><code class="html">&lt;tagname attribute="value"&gt;
   content
 &lt;/tagname&gt;
 
-&lt;a href="http://www.google.com" &gt;
+&lt;a href="http://www.google.com"&gt;
   Google
 &lt;/a</a>&gt;
 </code></pre>
                       <ul>
-                        <li>
+                        <li class="fragment">
                           Tags == "commands" for the browser
                         </li>
-                        <li>
+                        <li class="fragment">
                           In the ex. above, the <code>&lt;a&gt;</code> tag stands for "anchor," the <code>href</code> attribute stands for "hyper-reference," and the value, a URL, is assigned to the attribute of the anchor tag.
                         </li>
                       </ul>
@@ -185,8 +185,7 @@
                     <section>
                         <h4>Head</h4>
                         <figure>
-                            <pre><code class="html">&lt;!DOCTYPE html&gt;
-&lt;html&gt;
+                            <pre><code class="html">&lt;!doctype html&gt;
 &lt;/html&gt;
 </code></pre>
                         </figure>
@@ -194,7 +193,7 @@
                           <li>
                             The <code>doctype</code> isn't an actual tag, but it needs to be at start at every HTML page to tell browser which version of HTML you're using (HTML5 here).
                           <li>
-                            The <code>html</code> tag is always the first, root tag in the page.
+                            The <code>doctype</code> declaration is always the root of the page.
                           </li>
                         </ul>
                     </section>
@@ -202,8 +201,7 @@
                     <section>
                         <h4><code>&lt;head&gt;</code> element</h4>
                         <figure>
-                            <pre><code class="html">&lt;!DOCTYPE html&gt;
-&lt;html&gt;
+                            <pre><code class="html">&lt;!doctype html&gt;
 &lt;head&gt;
     &lt;meta charset="utf-8" /&gt;
     &lt;title&gt;The title of your page goes here&lt;/title&gt;
@@ -211,16 +209,19 @@
 </code></pre>
                         </figure>
                         <ul>
-                          <li>
-                            The head contains "meta" information about the page, information that the browser needs before rendering. Note: It will Lso include links to your CSS style sheets.
+                          <li class="fragment">
+                            The <code>&lt;head&gt;</code> contains "meta" information about the page: information that the browser needs before rendering. Note: It also includes <code>&lt;link&gt;</code> tags to your CSS stylesheets.
+                          </li>
+                          <li class="fragment">
+                            <a href="https://gist.github.com/kevinSuttle/1997924" target="_blank">Comprehensive list</a> of available <code>&lt;meta&gt;</code> tags.
+                          </li>
                         </ul>
                     </section>
 
                     <section>
                         <h4><code>&lt;body&gt;</code> Element</h4>
                         <figure>
-                          <pre><code class="html">&lt;!DOCTYPE html&gt;
-&lt;html&gt;
+                          <pre><code class="html">&lt;!doctype html&gt;
   &lt;head&gt;
     &lt;meta charset="utf-8"&gt;
     &lt;title&gt;Title of your page goes here&lt;/title&gt;
@@ -232,27 +233,30 @@
 </code></pre>
                         </figure>
                         <ul>
-                          <li>
-                            The body contains the actual content of the page.
+                          <li class="fragment">
+                            The body contains the actual content of the page.</li>
+                          <li class="fragment">
+                            Take a moment and write this <code>html</code> in your <code>index.html</code> file. Then, save it, commit it, and push the committed changes to your repo on Github.
+                          </li>
                         </ul>
                     </section>
 
                     <section>
-                        <h4>What goes in the <code>&lt;body&gt;</code>? <small>(One Example)</small></h4>
+                        <h4>A visual example of what could be written in the <code>&lt;body&gt;</code></h4>
                         <img  src="img/page-structure.gif"
-                              alt="Screenshot of Codepen of basic HTML tag anatomy." />
+                              alt="Visual example of a structured HTML document." />
                     </section>
 
                 </section>
 
                 <section>
-                    <h2><code>/* break */</code></h2>
+                    <h2><code>/* questions? */</code></h2>
                 </section>
 
                 <section>
 
                     <section>
-                        <h2>Basic HTML Tags<br><small>A primer</small></h2>
+                        <h2>The Basics of HTML Tags</h2>
                     </section>
 
                     <section>
@@ -282,7 +286,10 @@
                     </section>
 
                     <section>
-                        <h3><code>&lt;div&gt;</code>; <code>&lt;article&gt;</code>;  <code>&lt;section&gt;</code>; <code>&lt;h1&gt;</code>, <code>&lt;h2&gt;</code>, <code>&lt;h3&gt;</code> ...; <code>&lt;p&gt;</code>, etc.</h3>
+                      <h3>Example <strong>block</strong> elements</h3>
+                        <p>
+                          <code>&lt;div&gt;</code>; <code>&lt;article&gt;</code>;  <code>&lt;section&gt;</code>; <code>&lt;h1&gt;</code>, <code>&lt;h2&gt;</code>, <code>&lt;h3&gt;</code> ...; <code>&lt;p&gt;</code>, etc.
+                        </p>
                     </section>
 
                     <section>
@@ -303,16 +310,16 @@
                         </ul>
                     </section>
 
-                    <section>
+                    <!-- <section>
                         <h3>Elements Defined by Flows<br /><small>Here are the Normal Flow Definitions</small></h3>
                         <ul>
                             <li><em>Block</em> Formatting Context (cf. Duckett, p. 361)</li>
                             <li><em>Inline</em> Formatting Context (cf. Duckett, p. 361)</li>
                         </ul>
-                    </section>
+                    </section> -->
 
                     <section>
-                        <h4>BFC vs. IFC</h4>
+                        <h4>Block vs. Inline Contexts</h4>
                         <style>
                           .reveal .bfc,
                           .reveal .ifc {
@@ -357,40 +364,47 @@
 
                     <section>
                         <h3>
-                          Looking Ahead: CSS Defines Different Positioning Schemes for Flows
+                          Looking Ahead: CSS Defines Different Positioning Schemes for Changing Flows
                           <br />
                           <small>(See Duckett, pp. 363-364)</small>
                          </h3>
                         <ul>
                             <li class="fragment">Normal flow</li>
                             <li class="fragment">Relative flow</li>
-                            <li class="fragment">Floats (cf. Duckett, p. 370)</li>
-                            <li class="fragment">Absolute positioning</li>
-                            <li class="fragment">Fixed positioning</li>
+                            <ul class="fragment">
+                              <li class="fragment">Float: <code>float: left;</code></li>
+                              <li class="fragment">Absolute positioning: <code>position: absolute;</code></li>
+                              <li class="fragment">Fixed positioning: <code>position: fixed;</code></li>
+                            </ul>
                         </ul>
-                        <p class="fragment">Declared with properties: <code>position</code>: <code>[position type]</code></p>
                     </section>
 
                     <section>
                         <h3>
-                          Box Model
-                          <br />
-                          <small>All elements have the definable properties below.</small>
+                          Elements are Defined by the Box Model
                         </h3>
                         <figure>
                             <img class="transparent" src="img/box-model.png" alt="box model consists of content, padding, border and margin" style="height: 300px;">
                         </figure>
                     </section>
 
-                    <!-- <section>
+                    <section>
                       <h3>Codepen Sandbox: Inline &amp; Block Elements</h3>
-                      <iframe height='550' scrolling='no' title='Nested block elements and position property differences' src='//codepen.io/lndgrn/embed/preview/vNXrGE/?height=265&theme-id=0&default-tab=html,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/lndgrn/pen/vNXrGE/'>Nested block elements and position property differences</a> by Chris Lindgren (<a href='https://codepen.io/lndgrn'>@lndgrn</a>) on <a href='https://codepen.io'>CodePen</a>.</iframe>
-                    </section> -->
+                      <ul>
+                        <li>
+                          Part of your homework to review before Wednesday's class:
+                        </li>
+                      </ul>
+                      <figure>
+                        <p data-height="350" data-theme-id="0" data-slug-hash="zdymKE" data-default-tab="html,result" data-user="lndgrn" data-embed-version="2" data-pen-title="HTML: Block and Inline Elements" class="codepen">See the Pen <a href="https://codepen.io/lndgrn/pen/zdymKE/">HTML: Block and Inline Elements</a> by Chris Lindgren (<a href="https://codepen.io/lndgrn">@lndgrn</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+                      </figure>
+                    </section>
 
                 </section>
 
                 <section>
-                    <h2><code>/* break */</code></h2>
+                    <h2><code>/* questions? */</code></h2>
                 </section>
 
                 <!-- HTML WRITING SECTION -->
@@ -398,6 +412,9 @@
 
                     <section>
                         <h2>Practice Writing <code>&lt;html&gt;</code></h2>
+                        <p>
+                          <small>(Navigate back to your <code>index.html</code> file.)</small>
+                        </p>
                     </section>
 
                     <section>
@@ -438,19 +455,25 @@
 &lt;body&gt;
   &lt;article id="datastory"&gt;
     &lt;section id="personal-digital"&gt;
+
       &lt;h1&gt;Personal Digital Data&lt;/h1&gt;
       &lt;p&gt;Here is a placeholder paragraph.&lt;/p&gt;
+
     &lt;/section&gt;
     &lt;section id="social-digital"&gt;
+
       &lt;h1&gt;Social Digital Data&lt;/h1&gt;
       &lt;p&gt;Here is a placeholder paragraph.&lt;/p&gt;
+
     &lt;/section&gt;
   &lt;/article&gt;
   &lt;footer id="resources"&gt;
+
     &lt;ul&gt;
       &lt;li&gt;Resource 1&lt;/li&gt;
       &lt;li&gt;Resource 2&lt;/li&gt;
     &lt;/ul&gt;
+
   &lt;/footer&gt;
 &lt;/body&gt;
 &lt;/html&gt;
