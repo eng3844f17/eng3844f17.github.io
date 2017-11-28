@@ -270,26 +270,27 @@ schedule:
           assign: [ 'Fork, review, and play around the following Codepens: HTML: <a href="https://codepen.io/lndgrn/pen/oowvmj" target="_blank">Basic Website Architecture</a>, <a href="https://codepen.io/lndgrn/pen/PmMPog" target="_blank">Basic HTML Anatomy</a>, <a href="https://codepen.io/lndgrn/pen/zdymKE" target="_blank">Block and Inline Elements</a>', 'Fork and write a basic website from scratch with this Codepen: <a href="https://codepen.io/lndgrn/pen/dZzVGQ" target="_blank">Introduction to HTML</a>' ]
       fri:
         - date: 2017-12-01
-          desc: 'Introduce CSS3 Grid'
+          desc: 'HTML/CSS: A Day of Active Reflection'
           readings: [ 'TBA' ]
-          assign: [ 'TBA' ]
+          assign: [ 'Complete your forked version of the <a href="https://codepen.io/lndgrn/pen/ZaqEXV" target="_blank">Empty CSS Selection Practice</a> codepen. We will compare and discuss our versions in class, then I live-code my own version.' ]
+          other: [ 'In class, we will also practice our writing workflows vis-a-vis my own version of the example DataStory site.', 'We will also review what we have learned thus far and why, which will set us up to learn the CSS3 Grid.' ]
     - num: 15
       wkh: 'Building on HTML5 &amp; CSS3 Basics'
       mon:
         - date: 2017-12-04
+          desc: 'Introduce CSS3 Grid'
+          readings: [ 'TBA' ]
+          assign: [ 'TBA' ]
+      wed:
+        - date: 2017-12-06
           desc: 'Mobile-First Design'
           readings: [ 'Gremillion, B. (n/a). <a href="https://www.uxpin.com/studio/blog/a-hands-on-guide-to-mobile-first-design/" target="_blank">A Hands-On Guide to Mobile-First Responsive Design</a>. <cite>UX Pin</cite> [Company Blog].' ]
           assign: [ 'Based on the ideas that you have developed so far, write out an outline of your data-story. Follow some basic story features that develop your work thus far: Intro; Body: Personal practice &amp; Social practices; Conclusion: What now?', 'Come to class prepared to discuss mobile-first design principles. We will start designing your sites in class.' ]
-      wed:
-        - date: 2017-12-06
+      fri:
+        - date: 2017-12-08
           desc: 'Continued Design &amp; Writing Work + As-needed HTML/CSS Labs'
           readings: [ 'TBA' ]
           assign: [ 'Finish a draft mobile-first design, using the provided grid paper.' ]
-      fri:
-        - date: 2017-12-08
-          desc: 'Studio Work'
-          readings: [ 'TBA' ]
-          assign: [ 'TBA' ]
     - num: 17
       wkh: 'FINALS'
       mon:

@@ -272,6 +272,25 @@ nav {
                     </section>
 
                     <section>
+                        <h3>Interactive CSS Vocabulary Site</h3>
+                        <small>Open this and follow along</small>
+                        <figure>
+                            <style>
+                            #syntax-demo {
+                                width: 120%;
+                                height: 450px;
+                                margin: -0.5em;
+                                background-color: #272822;
+                                -webkit-transform: scale(0.9);
+                                        transform: scale(0.9);
+                            }
+                            </style>
+                            <iframe id="syntax-demo" src="http://apps.workflower.fi/vocabs/css/en" frameborder="0" style=""></iframe>
+                            <figcaption>via <a href="http://apps.workflower.fi/vocabs/">Vocabs</a></figcaption>
+                        </figure>
+                    </section>
+
+                    <section>
                         <h3>Declarations</h3>
                         <p><var>property</var>: <var>value</var></p>
                     </section>
@@ -367,16 +386,20 @@ nav {
                     </section>
 
                     <section>
-                        <h3>Pop Quiz!</h3>
-                        <p>Based on this <var>selector</var> <var>declaration block</var> rule set, tell me how the elements will be styled.</p>
-
-                        <a class="jsbin-embed" href="http://jsbin.com/fafeko/embed?html,css">JS Bin on jsbin.com</a><script src="http://static.jsbin.com/js/embed.min.js?3.35.0"></script>
+                      <h3>Question: How can <em>combinators</em> work on the document tree?</h3>
+                      <p><small>Answer: CSS uses <code>HTML</code> <em>containing block</em> rules.</small></p>
+                      <figure id="containing-block-cascade" class="medium">
+                          <img src="img/containing-blocks-w3c.png" alt="Containing blocks are established by parent box-context.">
+                      </figure>
+                      <p>
+                        <small>Containing blocks are established by parent box-context. (<a href="http://www.w3.org/TR/CSS21/visudet.html#containing-block-details" target="_blank">See W3C spec</a>.)</small></p>
                     </section>
 
                     <section>
-                      <h3>Selector Practice</h3>
-                        <p data-height="265" data-theme-id="0" data-slug-hash="ZaqEXV" data-default-tab="html,result" data-user="lndgrn" data-embed-version="2" data-pen-title="Empty CSS Selection Practice" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/lndgrn/pen/ZaqEXV/">Empty CSS Selection Practice</a> by Chris Lindgren (<a href="https://codepen.io/lndgrn">@lndgrn</a>) on <a href="https://codepen.io">CodePen</a>.</p>
-                        <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+                        <h3>Pop Quiz!</h3>
+                        <p>Based on this <var>selector</var> <var>declaration block</var>, tell me how the elements will be styled.</p>
+
+                        <a class="jsbin-embed" href="http://jsbin.com/xadibow/embed?html,css">JS Bin on jsbin.com</a><script src="http://static.jsbin.com/js/embed.min.js?4.1.1"></script>
                     </section>
 
                     <section>
@@ -391,7 +414,7 @@ nav {
 
                     <section>
                         <h3>Pseudo-element Selectors</h3>
-                        <a class="jsbin-embed" href="http://jsbin.com/pajivu/embed?html,css,output">JS Bin on jsbin.com</a><script src="http://static.jsbin.com/js/embed.min.js?3.35.0"></script>
+                        <a class="jsbin-embed" href="http://jsbin.com/buralof/1/embed?html,css">JS Bin on jsbin.com</a><script src="http://static.jsbin.com/js/embed.min.js?4.1.1"></script>
                     </section>
 
                     <section>
@@ -421,26 +444,8 @@ nav {
                     </section>
 
                     <section>
-                        <h3>:nth-child() <small>(pseudo-class)</small></h3>
-                        <a class="jsbin-embed" href="http://jsbin.com/qovare/embed?html,css,output">JS Bin on jsbin.com</a><script src="http://static.jsbin.com/js/embed.min.js?3.35.0"></script>
-                    </section>
-
-                    <section>
-                        <h3>Recap</h3>
-                        <figure>
-                            <style>
-                            #syntax-demo {
-                                width: 120%;
-                                height: 450px;
-                                margin: -0.5em;
-                                background-color: #272822;
-                                -webkit-transform: scale(0.9);
-                                        transform: scale(0.9);
-                            }
-                            </style>
-                            <iframe id="syntax-demo" src="http://apps.workflower.fi/vocabs/css/en" frameborder="0" style=""></iframe>
-                            <figcaption>via <a href="http://apps.workflower.fi/vocabs/">Vocabs</a></figcaption>
-                        </figure>
+                        <h3>Fun with the <code>:nth-child()</code> <small>(pseudo-class)</small></h3>
+                        <a class="jsbin-embed" href="http://jsbin.com/licaquq/embed?html,css,output">JS Bin on jsbin.com</a><script src="http://static.jsbin.com/js/embed.min.js?4.1.1"></script>
                     </section>
 
                 </section>
@@ -461,24 +466,29 @@ nav {
                         <p style="font-size: 85%;"><span>declared → cascaded → specified</span> → computed → used → actual</p>
                         <p><small>cascading → defaulting → absolutizing → calculation → UA adjustment</small></p>
                         <p><small>See some examples of <a href="http://www.w3.org/TR/css3-cascade/#stages-examples" target="_blank">value processing</a>.</small></p>
-                    </section>
-
-                    <section>
-                      <h3>Understanding Containing Blocks</h3>
-                      <p><small>to understand Cascading &amp; Inheritance</small></p>
-                      <figure id="containing-block-cascade" class="medium">
-                          <img src="img/containing-blocks-w3c.png" alt="Containing blocks are established by parent box-context.">
-                      </figure>
-                      <p>
-                        <small>Containing blocks are established by parent box-context. (<a href="http://www.w3.org/TR/CSS21/visudet.html#containing-block-details" target="_blank">See W3C spec</a>.)</small></p>
                     </section> -->
 
                     <section>
                         <h3>Basic Cascading Heuristic</h3>
                         <ol>
-                            <li class="fragment">Origin and importance</li>
-                            <li class="fragment">Specificity</li>
-                            <li class="fragment">Order of appearance</li>
+                            <li class="fragment">
+                              Origin and importance
+                              <br/>
+                              <b>Where did the CSS sheet and rule come from? And what level of importance does it have?</b>
+                              <br/>
+                            </li>
+                            <li class="fragment">
+                              Specificity
+                              <br/>
+                              <b>How specific is the declaration's selector?</b>
+                              <br/>
+                            </li>
+                            <li class="fragment">
+                              Order of appearance
+                              <br/>
+                              <b>Where is the declaration block declared in the stylesheet?</b>
+                              <br/>
+                            </li>
                         </ol>
                     </section>
 
@@ -522,9 +532,20 @@ nav {
                     </section>
 
                     <section>
-                        <h4>Quiz</h4>
+                        <h3>Recap</h3>
+                        <ul>
+                            <!-- <li class="fragment">Value processing start from <strong>cascading</strong> and <strong>defaulting</strong></li> -->
+                            <li class="fragment">Origin/importance > specificity > order</li>
+                            <li class="fragment">Author > user > UA, <em>reversed</em> when important</li>
+                            <!-- <li class="fragment">Count <em>simple selectors/pseudo elements</em> to calculate specificity</li>
+                            <li class="fragment">Inherited values are <em>computed values</em> of the parent</li> -->
+                        </ul>
+                    </section>
 
-                        <a class="jsbin-embed" href="http://jsbin.com/kikuvetaqa/edit?html,css">JS Bin on jsbin.com</a><script src="http://static.jsbin.com/js/embed.min.js?3.35.0"></script>
+                    <section>
+                        <h4>Pop Quiz!</h4>
+
+                        <a class="jsbin-embed" href="http://jsbin.com/gemokut/embed?html,css">JS Bin on jsbin.com</a><script src="http://static.jsbin.com/js/embed.min.js?4.1.1"></script>
 
                         <p><small>What's the <code>color</code> and <code>text-decoration</code> of the “Go to post” link?</small></p>
                     </section>
@@ -552,17 +573,6 @@ nav {
                         <p class="fragment"></p>
                     </section> -->
 
-                    <section>
-                        <h3>Recap</h3>
-                        <ul>
-                            <!-- <li class="fragment">Value processing start from <strong>cascading</strong> and <strong>defaulting</strong></li> -->
-                            <li class="fragment">Origin/importance > specificity > order</li>
-                            <li class="fragment">Author > user > UA, <em>reversed</em> when important</li>
-                            <!-- <li class="fragment">Count <em>simple selectors/pseudo elements</em> to calculate specificity</li>
-                            <li class="fragment">Inherited values are <em>computed values</em> of the parent</li> -->
-                        </ul>
-                    </section>
-
                 </section>
 
                 <section>
@@ -585,7 +595,10 @@ nav {
                     <section>
                         <h3>Numerical Values</h3>
                         <ul>
-                            <li class="fragment">Integers: <span class="type">integer</span><br><small class="fragment"><code>z-index: 1; order: 3;</code></small></li>
+                            <li class="fragment">Integers: <span class="type">integer</span>
+                              <br />
+                              <small class="fragment"><code>border-radius: 15px; z-index: 1; order: 3;</code></small>
+                            </li>
                             <li class="fragment">Numbers: <span class="type">number</span><br><small class="fragment"><code>line-height: 1.5; flex: 0.618;</code></small></li>
                             <li class="fragment">Percentages: <span class="type">percentage</span><br><small class="fragment"><code>width: 80%; font-size: 120%;</code></small></li>
                         </ul>
@@ -622,9 +635,17 @@ nav {
                     </section>
 
                     <section>
+                      <h3>Example Use of Font-Relative Length Values</h3>
+                      <p data-height="265" data-theme-id="0" data-slug-hash="GOYoRy" data-default-tab="html,result" data-user="lndgrn" data-embed-version="2" data-pen-title="Basic heading level hierarchies" class="codepen">See the Pen <a href="https://codepen.io/lndgrn/pen/GOYoRy/">Basic heading level hierarchies</a> by Chris Lindgren (<a href="https://codepen.io/lndgrn">@lndgrn</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+                      <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+                    </section>
+
+                    <section>
                         <h4><a href="https://drafts.csswg.org/css-values/#absolute-lengths" target="_blank">Absolute lengths</a></h4>
                         <p><code>px</code>, <code>pt</code>, <code>in</code>, <code>cm</code>, <code>mm</code>, ...</p>
-                        <p class="fragment"><a href="https://hacks.mozilla.org/2013/09/css-length-explained/" target="_blank">Physical or pixel</a>?</p>
+                        <p class="fragment">
+                          Extra tidbit: Learn about how pixels are defined -- <a href="https://hacks.mozilla.org/2013/09/css-length-explained/" target="_blank">Physical or pixel</a>?
+                        </p>
                         <figure class="fragment">
                             <img src="img/pixel.png" alt="Pixels must become larger if the viewing distance increases.">
                         </figure>
@@ -800,18 +821,17 @@ nav {
                     <section>
                         <h3>Recap</h3>
                         <ul>
-                            <li class="fragment">Box model</li>
-                            <li class="fragment">4 position schemes:<br>normal flow, float, absolute, and fixed</li>
+                            <li class="fragment">
+                              Box model
+                            </li>
+                            <li class="fragment">
+                              4 position schemes:<br>normal flow, float, absolute, and fixed
+                            </li>
+                            <li class="fragment">
+                              Coming next Monday: <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/display" target="_blank"><code>display</code> behaviors</a>. Notably, the CSS Grid display.
+                            </li>
                         </ul>
                     </section>
-
-                    <!-- <section>
-                        <h3><code>display</code> property</h3>
-
-                        <p>
-                            For more info, reference the MDN list of <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/display" target="_blank"><code>display</code> behaviors</a>. (cf. Duckett, p. 317)
-                        </p>
-                    </section> -->
 
                 </section>
 
@@ -826,6 +846,16 @@ nav {
                         <li>Values &amp; units</li>
                         <li>Layout basics</li>
                     </ul>
+                  </section>
+
+                  <section>
+                    <h3>Homework: Practice your CSS Selection</h3>
+                    <p data-height="265" data-theme-id="0" data-slug-hash="ZaqEXV" data-default-tab="html,result" data-user="lndgrn" data-embed-version="2" data-pen-title="Empty CSS Selection Practice" class="codepen">See the Pen <a href="https://codepen.io/lndgrn/pen/ZaqEXV/">Empty CSS Selection Practice</a> by Chris Lindgren (<a href="https://codepen.io/lndgrn">@lndgrn</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+                    <script async src="https://production-assets.codepen.io/assets/embed/ei.js"></script>
+                    <!--
+                      My version: http://jsbin.com/nulogen/1/edit?html,css,output
+                      Clear article: https://css-tricks.com/almanac/properties/c/clear/
+                    -->
                   </section>
 
                 </section>
