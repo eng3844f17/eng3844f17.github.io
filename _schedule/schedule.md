@@ -271,9 +271,9 @@ schedule:
       fri:
         - date: 2017-12-01
           desc: 'HTML/CSS: A Day of Active Reflection'
-          readings: [ 'TBA' ]
+          readings: [ 'Review all of the materials provided thus far to help you complete the assignment.' ]
           assign: [ 'Complete your forked version of the <a href="https://codepen.io/lndgrn/pen/ZaqEXV" target="_blank">Empty CSS Selection Practice</a> codepen. We will compare and discuss our versions in class, then I will live-code my own version.' ]
-          other: [ 'In class, we will also practice our writing workflows vis-a-vis my own version of the example DataStory site.', 'We will also review what we have learned thus far and why, which will set us up to learn the CSS3 Grid.' ]
+          other: [ 'In class, we will also practice our writing workflows vis-a-vis my own version of the example DataStory site.', 'We will also review what we have learned thus far and why, which will set us up to learn the CSS3 Grid next week.' ]
     - num: 15
       wkh: 'Building on HTML5 &amp; CSS3 Basics'
       mon:
