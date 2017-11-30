@@ -279,18 +279,37 @@ schedule:
       mon:
         - date: 2017-12-04
           desc: 'Introduce CSS3 Grid'
-          readings: [ 'TBA' ]
-          assign: [ 'TBA' ]
+          readings: [ 'Andrew, R. (2017). <cite>The new CSS layout</cite>. A Book Apart, Chp. 1 (pp. 1-10) &amp; Chp. 3 (pp. 19-33).<br /><br />Download the provided code for each chapter here. Open and navigate the directories and html files in your browser, as I showed you in class. Use the Inspect Element tool to see the HTML elements and the CSS code written to style them.', 'Grid by Example Video Tutorials: <a href="https://gridbyexample.com/video/series-define-a-grid/" target="_blank">Defining a grid</a>, <a href="https://gridbyexample.com/video/series-the-fr-unit/" target="_blank">The <code>fr</code> unit</a>, <a href="https://gridbyexample.com/video/series-repeat/" target="_blank">Repeat notation</a>, <a href="https://gridbyexample.com/video/series-minmax/" target="_blank">Introducing minmax()</a>' ]
+          assign: [ 'Within your own Codepen, create an HTML document with 3 different parent <code>article</code> elements. In the first, write 6 children <code>section</code> elements. In the second, 8 children <code>section</code> elements. In the third, 4 children <code>section</code> elements. Use the <code>display: grid</code> to bring these 3 different article elements to life in 3 different ways. Please do not copy and paste from these sites, but instead write out some examples of your own. However, you can, of course, base your ideas off of the plethora of available examples. <strong>NOTE</strong>: At least one of your examples needs to be responsive.' ]
       wed:
         - date: 2017-12-06
-          desc: 'Mobile-First Design'
+          desc: 'Mobile-First Design + Project Architecture'
           readings: [ 'Gremillion, B. (n/a). <a href="https://www.uxpin.com/studio/blog/a-hands-on-guide-to-mobile-first-design/" target="_blank">A Hands-On Guide to Mobile-First Responsive Design</a>. <cite>UX Pin</cite> [Company Blog].' ]
           assign: [ 'Based on the ideas that you have developed so far, write out an outline of your data-story. Follow some basic story features that develop your work thus far: Intro; Body: Personal practice &amp; Social practices; Conclusion: What now?', 'Come to class prepared to discuss mobile-first design principles. We will start designing your sites in class.' ]
       fri:
         - date: 2017-12-08
-          desc: 'Continued Design &amp; Writing Work + As-needed HTML/CSS Labs'
+          desc: 'Continued Design &amp; Writing Work + HTML/CSS Lab on Typography'
           readings: [ 'TBA' ]
           assign: [ 'Finish a draft mobile-first design, using the provided grid paper.' ]
+
+    - num: 16
+      wkh: 'A Week of HTML5 &amp; CSS3 Labs'
+      mon:
+        - date: 2017-12-11
+          desc: 'HTML/CSS Lab on <code>&lt;video&gt;</code> &amp; <code>&lt;img&gt;</code> Media'
+          readings: [ 'TBA' ]
+          assign: [ 'TBA' ]
+      wed:
+        - date: 2017-12-13
+          desc: 'HTML/CSS Lab on CSS document structure'
+          readings: [ 'TBA' ]
+          assign: [ 'TBA' ]
+      fri:
+        - date: 2017-12-15
+          desc: 'HTML/CSS Lab on Markup Validation'
+          readings: [ 'TBA' ]
+          assign: [ 'TBA' ]
+
     - num: 17
       wkh: 'FINALS'
       mon:
@@ -299,7 +318,7 @@ schedule:
       wed:
         - date: 2017-12-20
           desc: 'FINALS DUE'
-          assign: [ 'Submit your Data Story and revisions via Canvas.' ]
+          assign: [ 'Submit your Data Story and revisions via TBA.' ]
 ---
 
 - num: 2
