@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<!--
+Created using JS Bin
+http://jsbin.com
+
+Copyright (c) 2017 by lingeringcode (http://jsbin.com/vomajit/10/edit)
+
+Released under the MIT license: http://jsbin.mit-license.org
+-->
+<meta name="robots" content="noindex">
+<html>
+<head>
+  <meta name="description" content="Example float grid">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+<style id="jsbin-css">
+@import url('https://fonts.googleapis.com/css?family=Raleway|Spectral+SC');
+
+/* General Styles */
+
+html {
+  font-size: 18px;
+  font-family: 'Raleway', sans-serif;
+}
+
+/* Typography */
+
+h1,h2,h3 {
+  font-family: 'Spectral SC', serif;
+}
+h1 {font-size: 2rem;}
+h2 {font-size: 1.5rem;}
+h3 {font-size: 1.25rem;}
+
+a:hover {
+  text-decoration: none;
+  color: black;
+}
+
+p {
+  color: #302400;
+}
+
+/* Media */
+
+img {
+  width: 325px;
+}
+img.img-border {
+  border-radius: 15px;
+  border: 15px solid #eee;
+}
+
+/* Layout + Block Elements */
+/* Note how they're organized 
+    in descending order based 
+    on the HTML document   */
+
+header, footer {
+  height: 150px;
+  background: #eeeeee;
+  padding: 25px
+}
+
+article {
+  padding: 25px;
+  
+  /* The Height Problem: 
+  The parent elements have a default
+  setting of height: auto;
+  
+  Consequently, if you expect the children
+  blocks to "fill" the parent block, but
+  the parent element(s) don't have an absolute
+  height set, you are asking the browser
+  to calculate a height from an undefined
+  value. Two solutions are written below */
+  
+  /* background: aliceblue; */
+  /* overflow: auto; */
+  /* display: flex; */
+  
+  /* DISPLAY: GRID; PREVIEW */
+  /* display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(375px, 1fr));
+  grid-gap: 15px; */
+}
+
+section {
+  margin: 15px;
+  
+  /* Float Grid */
+  /* float: left;
+  width: 45%; */
+}
+/* @media (max-width: 875px) {
+  section {
+    width: 100%;
+  }
+} */
+
+footer {
+  /* clear: both; */
+}
+</style>
+</head>
+<body>
+  
+  <header>
+    <h1>My Data Story</h1>
+  </header>
+  
+  <article id="datastory">
+    <section id="personal-digital">
+      <h2>Personal Digital Data</h2>
+      <img class="img-border" 
+           src="http://placekitten.com/g/350/150" 
+           alt="A placeholder image." />
+      <p>
+        Vegan palo santo taxidermy vinyl meh mumblecore hot chicken. IPhone hot chicken godard seitan normcore fingerstache messenger bag lumbersexual fashion axe brunch wayfarers chicharrones next level. Chicharrones health goth sartorial whatever seitan, unicorn artisan try-hard thundercats intelligentsia. Schlitz blog yuccie fixie selvage, viral swag meggings keffiyeh. Ethical chillwave dreamcatcher pop-up health goth etsy, schlitz glossier banh mi.
+      </p>
+    </section>
+    
+    <section id="social-digital">
+      <h2>Social Digital Data</h2>
+      <img class="img-border" src="http://placekitten.com/g/350/150" alt="A placeholder image." />
+      <p>
+        Blog scenester kombucha tbh kinfolk knausgaard pitchfork cred semiotics poke umami glossier gastropub. Thundercats fashion axe sriracha raclette mixtape paleo man bun migas pitchfork artisan unicorn put a bird on it enamel pin drinking vinegar portland. Umami lumbersexual stumptown, four dollar toast blog semiotics ugh cardigan retro fam keytar. Disrupt next level green juice poutine raw denim salvia.
+      </p>
+    </section>
+  </article>
+  
+  <footer id="resources">
+    <h2>Resources</h2>
+    <ul>
+      <li><a href="#">Bootstraps</a></li>
+      <li><a href="#">Jean Shorts</a></li>
+    </ul>
+  </footer>
+  
+</body>
+</html>
