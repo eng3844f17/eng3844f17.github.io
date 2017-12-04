@@ -285,30 +285,30 @@ schedule:
         - date: 2017-12-06
           desc: 'Mobile-First Design + Project Architecture'
           readings: [ 'Gremillion, B. (n/a). <a href="https://www.uxpin.com/studio/blog/a-hands-on-guide-to-mobile-first-design/" target="_blank">A Hands-On Guide to Mobile-First Responsive Design</a>. <cite>UX Pin</cite> [Company Blog].' ]
-          assign: [ 'Based on the ideas that you have developed so far, write out an outline of your data-story. Follow some basic story features that develop your work thus far: Intro; Body: Personal practice &amp; Social practices; Conclusion: What now?', 'Come to class prepared to discuss mobile-first design principles. We will start designing your sites in class.' ]
+          assign: [ 'Fork and experiment with the Codepens about CSS Grid + practice other CSS basics on Codepen by writing and reviewing materials. I suggest that you use the <a href="https://eng3844f17.github.io/assets/teaching-resources/overviews/css.html#/6" target="_blank">CSS slideshow</a> section about selection and combinators to help you practice.', 'Based on the ideas that you have developed for your prior projects, write out an outline of your data-story. Follow some basic story features that develop your work thus far: Intro; Body: Personal practice &amp; Social practices; Conclusion: What now?', 'Come to class prepared to discuss mobile-first design principles. We will start designing your sites in class.' ]
       fri:
         - date: 2017-12-08
-          desc: 'Continued Design &amp; Writing Work + HTML/CSS Lab on Typography'
-          readings: [ 'TBA' ]
+          desc: 'Continued Design &amp; Writing Work'
+          readings: [ 'None.' ]
           assign: [ 'Finish a draft mobile-first design, using the provided grid paper.' ]
 
     - num: 16
       wkh: 'A Week of HTML5 &amp; CSS3 Labs'
       mon:
         - date: 2017-12-11
-          desc: 'HTML/CSS Lab on <code>&lt;video&gt;</code> &amp; <code>&lt;img&gt;</code> Media'
+          desc: 'HTML/CSS Lab on Typography + <code>&lt;video&gt;</code> &amp; <code>&lt;img&gt;</code> Media'
           readings: [ 'TBA' ]
           assign: [ 'TBA' ]
       wed:
         - date: 2017-12-13
-          desc: 'HTML/CSS Lab on CSS document structure'
+          desc: 'HTML/CSS Lab on CSS document structure &amp; Markup Validation'
           readings: [ 'TBA' ]
           assign: [ 'TBA' ]
       fri:
         - date: 2017-12-15
-          desc: 'HTML/CSS Lab on Markup Validation'
-          readings: [ 'TBA' ]
-          assign: [ 'TBA' ]
+          desc: 'No class'
+          readings: [ '' ]
+          assign: [ '' ]
 
     - num: 17
       wkh: 'FINALS'
