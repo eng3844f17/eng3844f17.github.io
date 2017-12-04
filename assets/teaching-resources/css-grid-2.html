@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<!--
+Created using JS Bin
+http://jsbin.com
+
+Copyright (c) 2017 by lingeringcode (http://jsbin.com/vomajit/10/edit)
+
+Released under the MIT license: http://jsbin.mit-license.org
+-->
+<meta name="robots" content="noindex">
+<html>
+<head>
+  <meta name="description" content="Example CSS3 Grid">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Example Adaptable CSS3 Grid with minmax()</title>
+  <style>
+    div.grid div {
+      font-size: 32px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat( auto-fit, minmax( 320px, 1fr ) );
+      grid-gap: 15px;
+    }
+
+    .grid div {
+      color: white;
+      background: purple;
+      min-height: 200px;
+      margin-bottom: 15px;
+    }
+
+    div.orange div {
+      background: orange;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Adaptable CSS Grid with minmax()</h1>
+
+  <p>Resize the browser screen to test the minmax() feature.</p>
+
+  <div class="grid orange">
+    <div>1</div>
+    <div>2</div>
+  </div>
+
+  <div class="grid">
+    <div>1</div>
+    <div>2</div>
+    <div>3</div>
+    <div>4</div>
+    <div>5</div>
+    <div>6</div>
+  </div>
+
+
+</body>
+</html>
