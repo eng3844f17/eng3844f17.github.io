@@ -291,6 +291,7 @@ schedule:
           desc: 'Design &amp; Writing Work + HTML/CSS Lab on Project Architecture + Web Fonts'
           readings: [ 'None.' ]
           assign: [ 'Complete a draft mobile-first design, using the provided grid paper: <a href="/assets/teaching-resources/sneakpeekit-2-mobiles-grid.pdf" target="_blank">2 Mobile Screens</a>, <a href="/assets/teaching-resources/sneakpeekit-4-tablets-grid.pdf" target="_blank">4 Tablet Screens</a>, &amp; <a href="/assets/teaching-resources/sneakpeekit-4-browsers-grid.pdf" target="_blank">4 Browser Screens</a> (src: <a href="http://sneakpeekit.com/" target="_blank">Sneakpeekit.com</a>).', 'Prototype your design in Codepen with placeholder text and images.' ]
+          other: [ 'Resources: Review tutorials about <a href="https://gridbyexample.com/video/series-repeat/" target="_blank">Repeat notation</a> &amp; <a href="https://gridbyexample.com/video/series-minmax/" target="_blank">Introducing minmax()</a>; Figure out some breakpoint/screen sizes with the helpful <a href="http://screensiz.es/" target="_blank">screensiz.es</a> website.' ]
 
     - num: 16
       wkh: 'A Week of HTML5 &amp; CSS3 Labs'
