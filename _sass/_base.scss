@@ -506,6 +506,10 @@ figure {
     transition: $global-transition;
   }
 
+  iframe.youtube-demos {
+    min-width: 320px;
+  }
+
   > a {
     display: block;
   }
