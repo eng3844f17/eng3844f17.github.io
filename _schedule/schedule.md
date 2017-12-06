@@ -307,8 +307,6 @@ schedule:
       fri:
         - date: 2017-12-15
           desc: 'No class'
-          readings: [ '' ]
-          assign: [ '' ]
 
     - num: 17
       wkh: 'FINALS'
