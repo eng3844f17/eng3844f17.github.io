@@ -288,22 +288,22 @@ schedule:
           assign: [ 'Fork and experiment with the Codepens about CSS Grid + practice other CSS basics on Codepen by writing and reviewing materials. I suggest that you use the <a href="https://eng3844f17.github.io/assets/teaching-resources/overviews/css.html#/6" target="_blank">CSS slideshow</a> section about selection and combinators to help you practice.', 'Based on the ideas that you have developed for your prior projects, write out an outline of your data-story. Follow some basic story features that develop your work thus far: Intro; Body: Personal practice &amp; Social practices; Conclusion: What now?', 'Come to class prepared to discuss mobile-first design principles. We will start designing your sites in class.' ]
       fri:
         - date: 2017-12-08
-          desc: 'Continued Design &amp; Writing Work'
+          desc: 'Design &amp; Writing Work + HTML/CSS Lab on Typography'
           readings: [ 'None.' ]
-          assign: [ 'Finish a draft mobile-first design, using the provided grid paper.' ]
+          assign: [ 'Complete a draft mobile-first design, using the provided grid paper: <a href="/assets/teaching-resources/sneakpeekit-2-mobiles-grid.pdf" target="_blank">2 Mobile Screens</a>, <a href="/assets/teaching-resources/sneakpeekit-4-tablets-grid.pdf" target="_blank">4 Tablet Screens</a>, &amp; <a href="/assets/teaching-resources/sneakpeekit-4-browsers-grid.pdf" target="_blank">4 Browser Screens</a> (src: <a href="http://sneakpeekit.com/" target="_blank">Sneakpeekit.com</a>).', 'Prototype your design in Codepen with placeholder text and images.' ]
 
     - num: 16
       wkh: 'A Week of HTML5 &amp; CSS3 Labs'
       mon:
         - date: 2017-12-11
-          desc: 'HTML/CSS Lab on Typography + <code>&lt;video&gt;</code> &amp; <code>&lt;img&gt;</code> Media'
-          readings: [ 'TBA' ]
-          assign: [ 'TBA' ]
+          desc: 'HTML/CSS Lab + <code>&lt;video&gt;</code> &amp; <code>&lt;img&gt;</code> Media'
+          readings: [ 'None.' ]
+          assign: [ 'Take your Codepen prototype code and produce a draft website using your code editor, localhost web server, &amp; Github. Be sure you create a complete HTML document with the DOCTYPE declaration, <code>&lt;html&gt;</code>, <code>&lt;head&gt;</code> with <code>&lt;meta&gt;</code> and <code>&lt;link&gt;</code>, and <code>&lt;body&gt;</code> tags.', 'Send me a link to your website before class via email.' ]
       wed:
         - date: 2017-12-13
           desc: 'HTML/CSS Lab on CSS document structure &amp; Markup Validation'
-          readings: [ 'TBA' ]
-          assign: [ 'TBA' ]
+          readings: [ 'None.' ]
+          assign: [ 'Continue your web work.' ]
       fri:
         - date: 2017-12-15
           desc: 'No class'
