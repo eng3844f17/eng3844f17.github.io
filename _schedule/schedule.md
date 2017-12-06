@@ -283,12 +283,12 @@ schedule:
           assign: [ 'Within your own Codepen, <ol><li>Create an HTML document with 3 different parent <code>article</code> elements.</li><li>In the first, write 6 children <code>section</code> elements.</li><li>In the second, 8 children <code>section</code> elements.</li><li>In the third, 4 children <code>section</code> elements.</li><li>Be sure to label each child element with a heading that marks their position in the order. Plus, define <code>boackground-color</code> and <code>height</code> values to the children elements, so you can see the results.</li><li>Now, use the <code>display: grid</code> to bring these 3 different article elements to life in 3 different ways. You may want to play around with the height values in order to achieve different results.<br />Please do not copy and paste from these sites. Instead, write out some examples of your own. However, you can, of course, base your ideas off of the plethora of available examples.<br /><br /><strong>NOTE</strong>: At least one of your examples needs to be responsive.</ol>' ]
       wed:
         - date: 2017-12-06
-          desc: 'Mobile-First Design + Project Architecture'
+          desc: 'Mobile-First Design'
           readings: [ 'Gremillion, B. (n/a). <a href="https://www.uxpin.com/studio/blog/a-hands-on-guide-to-mobile-first-design/" target="_blank">A Hands-On Guide to Mobile-First Responsive Design</a>. <cite>UX Pin</cite> [Company Blog].' ]
-          assign: [ 'Fork and experiment with the Codepens about CSS Grid + practice other CSS basics on Codepen by writing and reviewing materials. I suggest that you use the <a href="https://eng3844f17.github.io/assets/teaching-resources/overviews/css.html#/6" target="_blank">CSS slideshow</a> section about selection and combinators to help you practice.', 'Based on the ideas that you have developed for your prior projects, write out an outline of your data-story. Follow some basic story features that develop your work thus far: Intro; Body: Personal practice &amp; Social practices; Conclusion: What now?', 'Come to class prepared to discuss mobile-first design principles. We will start designing your sites in class.' ]
+          assign: [ 'Fork and experiment with the Codepens about CSS Grid + practice other CSS basics on Codepen by writing and reviewing materials. I suggest that you use the <a href="https://eng3844f17.github.io/assets/teaching-resources/overviews/css.html#/6" target="_blank">CSS slideshow</a> section about selection and combinators to help you practice.', 'Based on the ideas that you have developed for your prior projects, write out an outline of your data-story. Follow some basic story features that develop your work thus far: Intro; Body: Personal practice &amp; Social practices; Conclusion: What now?', 'Come to class prepared to discuss mobile-first design principles.' ]
       fri:
         - date: 2017-12-08
-          desc: 'Design &amp; Writing Work + HTML/CSS Lab on Typography'
+          desc: 'Design &amp; Writing Work + HTML/CSS Lab on Project Architecture + Web Fonts'
           readings: [ 'None.' ]
           assign: [ 'Complete a draft mobile-first design, using the provided grid paper: <a href="/assets/teaching-resources/sneakpeekit-2-mobiles-grid.pdf" target="_blank">2 Mobile Screens</a>, <a href="/assets/teaching-resources/sneakpeekit-4-tablets-grid.pdf" target="_blank">4 Tablet Screens</a>, &amp; <a href="/assets/teaching-resources/sneakpeekit-4-browsers-grid.pdf" target="_blank">4 Browser Screens</a> (src: <a href="http://sneakpeekit.com/" target="_blank">Sneakpeekit.com</a>).', 'Prototype your design in Codepen with placeholder text and images.' ]
 
@@ -296,7 +296,7 @@ schedule:
       wkh: 'A Week of HTML5 &amp; CSS3 Labs'
       mon:
         - date: 2017-12-11
-          desc: 'HTML/CSS Lab + <code>&lt;video&gt;</code> &amp; <code>&lt;img&gt;</code> Media'
+          desc: 'HTML/CSS Lab on Color Pallettes + <code>&lt;video&gt;</code> &amp; <code>&lt;img&gt;</code> Media'
           readings: [ 'None.' ]
           assign: [ 'Take your Codepen prototype code and produce a draft website using your code editor, localhost web server, &amp; Github. Be sure you create a complete HTML document with the DOCTYPE declaration, <code>&lt;html&gt;</code>, <code>&lt;head&gt;</code> with <code>&lt;meta&gt;</code> and <code>&lt;link&gt;</code>, and <code>&lt;body&gt;</code> tags.', 'Send me a link to your website before class via email.' ]
       wed:
