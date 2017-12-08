@@ -297,14 +297,16 @@ schedule:
       wkh: 'A Week of HTML5 &amp; CSS3 Labs'
       mon:
         - date: 2017-12-11
-          desc: 'HTML/CSS Lab on Color Pallettes + <code>&lt;video&gt;</code> &amp; <code>&lt;img&gt;</code> Media'
+          desc: 'HTML/CSS Lab on Color Pallettes + <code>&lt;iframe&gt;</code> &amp; <code>&lt;img&gt;</code> Media'
           readings: [ 'None.' ]
           assign: [ 'Take your Codepen prototype code and produce a draft website using your code editor, localhost web server, &amp; Github. Be sure you create a complete HTML document with the DOCTYPE declaration, <code>&lt;html&gt;</code>, <code>&lt;head&gt;</code> with <code>&lt;meta&gt;</code> and <code>&lt;link&gt;</code>, and <code>&lt;body&gt;</code> tags.', 'Send me a link to your website before class via email.' ]
+          other: [ 'Remember that CSS3 Grid will not work on some browsers, (cf. <a href="https://caniuse.com/#feat=css-grid" target="_blank">caniuse.com</a>) so use Firefox or Chrome.' ]
       wed:
         - date: 2017-12-13
-          desc: 'HTML/CSS Lab on CSS document structure &amp; Markup Validation'
+          desc: 'HTML/CSS Lab on Markup Validation + Final submission procedure'
           readings: [ 'None.' ]
           assign: [ 'Continue your web work.' ]
+          other: [ 'In class, I will review how to submit your final project, revisions, and participation memo.' ]
       fri:
         - date: 2017-12-15
           desc: 'No class'
