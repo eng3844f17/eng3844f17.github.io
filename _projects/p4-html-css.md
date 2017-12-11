@@ -56,7 +56,7 @@ In this final project, you will make decisions about how all of your media eleme
 - CSS sheet:
   - Structure of document adheres to discussed conventions:
     - General styles up top and modifiers below, due to the cascade.
-    - Alike elements are grouped together, e.g., typography scheme, Header elements, section elements, media, etc.
+    - Alike elements are grouped together, e.g., typography scheme, media, header elements, section elements, footer elements, etc.
   - Provides consistent commenting scheme.
 - Simple and readable typography styles and hierarchy. Aesthetic matches your narrative.
 - Integrates text, visuals, and videos as a cohesive narrative about your digital practice / life.
