@@ -300,7 +300,7 @@ schedule:
           desc: 'HTML/CSS Lab on Color Pallettes + <code>&lt;iframe&gt;</code> &amp; <code>&lt;img&gt;</code> Media'
           readings: [ 'None.' ]
           assign: [ 'Take your Codepen prototype code and produce a draft website using your code editor, localhost web server, &amp; Github. Be sure you create a complete HTML document with the DOCTYPE declaration, <code>&lt;html&gt;</code>, <code>&lt;head&gt;</code> with <code>&lt;meta&gt;</code> and <code>&lt;link&gt;</code>, and <code>&lt;body&gt;</code> tags.', 'Send me a link to your website before class via email.' ]
-          other: [ 'Remember that CSS3 Grid will not work on some browsers, (cf. <a href="https://caniuse.com/#feat=css-grid" target="_blank">caniuse.com</a>) so use Firefox or Chrome.' ]
+          other: [ 'Remember that CSS3 Grid will not work on some browsers, (cf. <a href="https://caniuse.com/#feat=css-grid" target="_blank">caniuse.com</a>), so use Firefox or Chrome.', 'Sample website code to review as a class today: <a href="https://github.com/lingeringcode/lindgren-datastory" target="_blank">lindgren-datastory</a> on Github' ]
       wed:
         - date: 2017-12-13
           desc: 'HTML/CSS Lab on Markup Validation + Final submission procedure'
@@ -319,7 +319,7 @@ schedule:
       wed:
         - date: 2017-12-20
           desc: 'FINALS DUE'
-          assign: [ 'Submit your Data Story and revisions via TBA.' ]
+          assign: [ 'Submit your revised projects within a Google Drive folder. Name it with the following scheme: <em>lastname-firstinitial-3844-revisions</em>. When you share it with me, use the message function to also provide the Github URL to your website.' ]
 ---
 
 - num: 2

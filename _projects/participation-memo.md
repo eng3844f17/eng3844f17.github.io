@@ -10,16 +10,22 @@ imgurl: /images/ut-prosim.jpg
 
 <ul class="project-top-info">
   <li>
-    <b>Timeframe</b>: 11/13 &ndash; 12/20</li>
+    <b>Due</b>: 12/20</li>
   <li>
     <b>Points</b>: 100</li>
 </ul>
 
 ## Description
 
-In this final assignment, you must write a memo that reports on how you contributed to this class as a colleague. Prompts will be provided to help you develop material for this memo.
+In this assignment, you must write a basic memo that reports on how you contributed to this class as a colleague. The main objective of this assignment is to reflect on one's own ability to contribute to a collegial effort to learn, meet, and even exceed the class/project objectives.
 
-More TBA.
+## Prompts
+
+Complete your memo by responding to the following prompts:
+
+- At the beginning, make a claim about what participation grade you deserve, and use the subsequent prompts to make a case for that grade.
+- Discuss how you participated within the class and group discussions.
+- Discuss how you contributed to the group activities.
 
 <figure id="twitter-css-body" class="figure-inline">
   <img src="/images/ut-prosim.jpg" alt="Image of head of the drillfield." />
@@ -30,7 +36,9 @@ More TBA.
 
 ## Logistics
 
-- TBA
+- Submit it as a Google Document within your final Google Drive folder.
+- Use the following filenaming scheme: ln-fi-participation-memo.
+- Use the following <a href="https://docs.google.com/a/vt.edu/document/d/14Oy7Fwn3KZ-oL01-vPbUG-yDY6kNCTnSpYWU6l3Tv5k/edit?usp=sharing" target="_blank">template</a> as a baseline format for the Google Document.
 
 ## Rubric
 
