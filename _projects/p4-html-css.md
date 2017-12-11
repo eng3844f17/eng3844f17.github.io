@@ -52,9 +52,11 @@ In this final project, you will make decisions about how all of your media eleme
 - CSS Grid is written cleanly (spacing, syntax, and structure) and has aptly named tags, IDs, and classes.
 - HTML Markup:
   - Conveys knowledge of block-level vs. inline-level elements; and
-  - Passes HTML5 validation test.
+  - Passes HTML5 validation test. To test your site, copy/paste the URL of it within this tester: <a href="https://validator.w3.org/" target="_blank">https://validator.w3.org/</a>.
 - CSS sheet:
-  - Structure of document reflects hierarchy of HTML within sheet; and
+  - Structure of document adheres to discussed conventions:
+    - General styles up top and modifiers below, due to the cascade.
+    - Alike elements are grouped together, e.g., typography scheme, Header elements, section elements, media, etc.
   - Provides consistent commenting scheme.
 - Simple and readable typography styles and hierarchy. Aesthetic matches your narrative.
 - Integrates text, visuals, and videos as a cohesive narrative about your digital practice / life.
