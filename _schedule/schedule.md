@@ -304,7 +304,7 @@ schedule:
       wed:
         - date: 2017-12-13
           desc: 'HTML/CSS Lab on Markup Validation + Final submission procedure'
-          readings: [ 'None.' ]
+          readings: [ 'Read the Participation Memo project page.' ]
           assign: [ 'Upload your explained video to your VT YouTube channel.', 'Complete a full version of your site with a grid in place and some content. Remember: Feel free to use our previous examples.', 'Review the sample datastory project that I created and reviewed on Monday. Be sure to note how I included a sample way to link a preview image to the full SVG file.' ]
           other: [ 'In class, I will review how to submit your final project, revisions, and participation memo.' ]
       fri:
