@@ -319,7 +319,7 @@ schedule:
       wed:
         - date: 2017-12-20
           desc: 'FINALS DUE'
-          assign: [ 'Submit your revised projects within a Google Drive folder. Name it with the following scheme: <em>lastname-firstinitial-3844-revisions</em>. When you share it with me, use the message function to also provide the Github URL to your website. Submit a revision memo within the revision folder that reviews all of your revisions based on the feedback. Explain what you changed and why. You can use the same template as the participation memo, but make the obvious changes to the filename and subject line.' ]
+          assign: [ 'Submit your revised projects within a Google Drive folder. Name it with the following scheme: <em>lastname-firstinitial-3844-revisions</em>. When you share it with me, use the message function to also provide the Github URL to your website.<br/><br/><b>Submit a revision memo within the revision folder</b> that reviews all of your revisions based on the provided feedback. Explain what you changed and why. You can use the same template as the participation memo, but make the obvious changes to the filename and subject line.' ]
 ---
 
 - num: 2
